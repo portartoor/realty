@@ -1,4 +1,4 @@
 <?
 phpinfo();
-echo 'test';
+print_r(test);
 ?>
