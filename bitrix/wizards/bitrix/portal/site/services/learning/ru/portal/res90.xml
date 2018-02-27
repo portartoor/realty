@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>105</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>100</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Бизнес-процессы документов</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p><div class="warning"><b>Важно! </b>Для работы с бизнес-процессами на портале у пользователя должен быть определенный уровень доступа. Если вы не можете работать с бизнес-процессами на портале, обратитесь в <b>Администратору портала</b>.</div></p>
+
+<menu id="topictoc">
+  <li><a href="#bizproc_autostart">Настройка автозапуска для бизнес-процессов</a></li>
+  <li><a href="#bizproc_manual">Запуск бизнес-процессов вручную</a></li>
+  <li><a href="#bizproc_view">Бизнес-процессы сотрудника</a></li>
+</menu>
+
+<br />
+<a name="bizproc_start"></a><h4>Настройка автозапуска для бизнес-процессов</h4>
+
+<a name="bizproc_autostart"></a><p>Настройка автозапуска для бизнес-процессов документов выполняется на странице <b>Шаблоны бизнес-процессов</b> выбранного раздела документов. Для этого необходимо:</p>
+<ul>
+<li>нажать кнопку <b>Еще</b> и выбрать пункт меню <b>Бизнес-процессы</b>:
+<p><img src="cid:resources/res90/MeZxi.pD2Mj.bizproc_to_list_sm.png" border="0" height="434" width="600" /></p></li>
+
+<li>на странице <b>Шаблоны бизнес-процессов</b> в меню действий выбрать способ автозапуска бизнес-процесса - <b>Запускать при создании</b> или <b>Запускать при изменении</b>:
+<p><img src="cid:resources/res90/ugIlH.u0Ts1.bizproc_start_create_sm.png" border="0" height="346" width="600" /></p>
+</li>
+<li>статус запуска бизнес-процесса отобразится в колонке <b>Автозапуск</b>:
+<p><img src="cid:resources/res90/ahgTh.JKDuS.webdav_bizproc_sm.png" border="0" height="345" width="600" /></p>
+
+<p><div class="hint"><b>Примечание: </b><p>Например, в данном случае будет автоматически запускаться бизнес-процесс <b>Утверждение документа со статусами</b> при загрузке документов. Когда сотрудник будет загружать файл в данный раздел документов, то он должен будет указать все необходимые параметры запуска бизнес-процесса:</p>
+<p><img src="cid:resources/res90/E70PU.nAZGu.webdav_bp_upload_sm.png" border="0" height="403" width="600" /></p> </div></p>
+</li>
+
+
+</ul>
+
+
+
+
+
+<h4>Запуск бизнес-процессов вручную</h4>
+<br />
+<a name="bizproc_manual"></a><p>Чтобы запустить вручную бизнес-процесс для некоторого документа, необходимо выполнить следующее:</p>
+
+<ul>
+<li><p>В меню действий документа выбрать пункт <b>Новый бизнес-процесс</b>, а затем из предложенного списка выбрать необходимый бизнес-процесс (например, ознакомиться с документом):</p>
+<p><img src="cid:resources/res90/IuxQb.cxIIo.webdav_bp_new_sm.png" border="0" height="436" width="600" /></p>
+</li>
+
+<li><p>Указать необходимые параметры запуска бизнес-процесса и нажать кнопку <b>Запустить</b>:</p>
+<p><img src="cid:resources/res90/L9kxW.dblF9.webdav_bp_new1_sm.png" border="0" height="318" width="600" /></p>
+</li>
+</ul>
+
+<p>Бизнес-процесс запустится и начнет выполняться в соответствии со своим шаблоном и произведенными настройками.</p>
+
+<h4>Бизнес-процессы сотрудника</h4>
+<a name="bizproc_view"></a><p>Каждому сотруднику отображается список запущенных им бизнес-процессов с помощью анимированных иконок в колонке <b>Название</b> после названия файла в списке документов. Если вы участвуете в бизнес-процессе, то рядом с анимированной иконкой будет отображаться восклицательный знак:</p>
+<p><img src="cid:resources/res90/DIcuy.1N87M.webdav_table_sm.png" border="0" height="435" width="600" /></p>
+
+<p> </p>
+
+<br />
+<p>Выполнение назначенных заданий по бизнес-процессу осуществляется на закладке <b>Бизнес-процессы</b> личной страницы. Переход осуществляется по клику на иконке <img src="cid:resources/res90/Mah3q.c1U2f.bizproc_status_panel_icon.png" border="0" height="18" width="18" /> активных бизнес-процессов в панели статуса либо по адресу: <span class="path">Сообщения &gt; Бизнес-процессы</span>:</p>
+<p><img src="cid:resources/res90/7hnpJ.8PDPI.bizproc_tasks_sm.png" border="0" height="184" width="600" /></p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>100</edge_sort>
+<id>105</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<requests>
+	<item>
+		<uf_id>91213</uf_id>
+		<uf_source>00-00000072</uf_source>
+		<uf_operation_type>Продажа</uf_operation_type>
+		<uf_status>Открыт в продажу</uf_status>
+		<uf_realty_type>Жилая</uf_realty_type>
+		<uf_object_type>000000002</uf_object_type>
+		<uf_contragent>87720      </uf_contragent>
+		<uf_agent>564d5d7e-122d-11e5-a293-005056a97139</uf_agent>
+		<uf_addr_block>Индекс=238590
+КодРегиона=39
+Регион=Калининградская обл
+Город=Пионерский
+Улица=Колесника ул
+Дом=10
+Страна=РОССИЯ
+КодСтраны=643</uf_addr_block>
+		<uf_addr_flat>1</uf_addr_flat>
+		<uf_add_date>2016-09-20 09:42:30</uf_add_date>
+		<uf_update_date>2016-09-20 09:42:30</uf_update_date>
+		<uf_etage>1</uf_etage>
+		<uf_etage_count>1</uf_etage_count>
+		<uf_total_square>1</uf_total_square>
+		<uf_living_square>1</uf_living_square>
+		<uf_kitchen_square>1</uf_kitchen_square>
+		<uf_rooms>1</uf_rooms>
+		<uf_price>1</uf_price>
+		<uf_remont_status>000000004</uf_remont_status>
+		<uf_sanusel_type>000000004</uf_sanusel_type>
+		<uf_water>000000003</uf_water>
+		<uf_heating>000000008</uf_heating>
+		<uf_reklama>11111</uf_reklama>
+		<uf_www>Нет</uf_www>
+		<uf_comment/>
+		<uf_garage_square/>
+		<uf_cellar_square>0</uf_cellar_square>
+		<uf_lot_square/>
+		<uf_gas>5</uf_gas>
+		<uf_land_owner_type>Собственность</uf_land_owner_type>
+		<uf_naruzhn_reklama>Нет</uf_naruzhn_reklama>
+		<uf_house_type>000000027</uf_house_type>
+		<uf_entrance>Нет</uf_entrance>
+		<uf_construct_perm>Да</uf_construct_perm>
+		<uf_owner_rights>Аренда</uf_owner_rights>
+		<uf_goal/>
+		<uf_entry/>
+		<uf_electricity>000000001</uf_electricity>
+		<uf_distance>0</uf_distance>
+		<uf_latitude>54.947</uf_latitude>
+		<uf_longitude>20.2221</uf_longitude>
+		<uf_balcony>000000004</uf_balcony>
+		<uf_phone>Без телефона</uf_phone>
+		<uf_internet>Да</uf_internet>
+		<uf_furniture>Нет</uf_furniture>
+		<uf_refrigerator>нет</uf_refrigerator>
+		<uf_washing_machine/>
+		<uf_parking>Гараж</uf_parking>
+		<uf_rooms_from>0</uf_rooms_from>
+		<uf_rooms_to>0</uf_rooms_to>
+		<uf_square_from>1</uf_square_from>
+		<uf_square_to>0</uf_square_to>
+		<uf_price_from>1</uf_price_from>
+		<uf_price_to>0</uf_price_to>
+		<uf_category>C</uf_category>
+	</item>
+	<item>
+		<uf_id>91181</uf_id>
+		<uf_source>00-00000012</uf_source>
+		<uf_operation_type>Покупка</uf_operation_type>
+		<uf_status>Открыт в продажу</uf_status>
+		<uf_realty_type>Жилая</uf_realty_type>
+		<uf_object_type>000000001</uf_object_type>
+		<uf_contragent>УТ-00010080</uf_contragent>
+		<uf_agent>1c132e86-5b7a-11e5-7683-005056a97139</uf_agent>
+		<uf_addr_block>КодРегиона=39
+Регион=Калининградская обл
+Город=Калининград г
+Страна=РОССИЯ
+КодСтраны=643
+Улица=Горького ул</uf_addr_block>
+		<uf_addr_flat>0</uf_addr_flat>
+		<uf_add_date>2016-09-20 09:42:30</uf_add_date>
+		<uf_update_date>2016-09-20 09:42:30</uf_update_date>
+		<uf_etage>0</uf_etage>
+		<uf_etage_count>0</uf_etage_count>
+		<uf_total_square/>
+		<uf_living_square/>
+		<uf_kitchen_square/>
+		<uf_rooms/>
+		<uf_price/>
+		<uf_remont_status/>
+		<uf_sanusel_type/>
+		<uf_water/>
+		<uf_heating/>
+		<uf_reklama/>
+		<uf_www>Нет</uf_www>
+		<uf_comment/>
+		<uf_garage_square/>
+		<uf_cellar_square>0</uf_cellar_square>
+		<uf_lot_square/>
+		<uf_gas>0</uf_gas>
+		<uf_land_owner_type/>
+		<uf_naruzhn_reklama>Нет</uf_naruzhn_reklama>
+		<uf_house_type/>
+		<uf_entrance>Нет</uf_entrance>
+		<uf_construct_perm>Нет</uf_construct_perm>
+		<uf_owner_rights/>
+		<uf_goal/>
+		<uf_entry/>
+		<uf_electricity/>
+		<uf_distance>0</uf_distance>
+		<uf_latitude/>
+		<uf_longitude/>
+		<uf_balcony/>
+		<uf_phone/>
+		<uf_internet/>
+		<uf_furniture>Нет</uf_furniture>
+		<uf_refrigerator>нет</uf_refrigerator>
+		<uf_washing_machine/>
+		<uf_parking/>
+		<uf_rooms_from>2</uf_rooms_from>
+		<uf_rooms_to>2</uf_rooms_to>
+		<uf_square_from>74</uf_square_from>
+		<uf_square_to>74</uf_square_to>
+		<uf_price_from>5 250 000</uf_price_from>
+		<uf_price_to>5 250 000</uf_price_to>
+		<uf_category/>
+	</item>
+	<item>
+		<uf_id>91036</uf_id>
+		<uf_source>00-00000009</uf_source>
+		<uf_operation_type>Продажа</uf_operation_type>
+		<uf_status>Открыт в продажу</uf_status>
+		<uf_realty_type>Жилая</uf_realty_type>
+		<uf_object_type>000000001</uf_object_type>
+		<uf_contragent>597200     </uf_contragent>
+		<uf_agent>1c132e86-5b7a-11e5-7683-005056a97139</uf_agent>
+		<uf_addr_block>Индекс=236029
+КодРегиона=39
+Регион=Калининградская обл
+РайонГорода=Ленинградский р-н
+Город=Калининград г
+Улица=Горького ул
+Страна=РОССИЯ
+КодСтраны=643
+ТипДома=дом
+ТипКвартиры=кв.</uf_addr_block>
+		<uf_addr_flat>66</uf_addr_flat>
+		<uf_add_date>2016-09-20 09:42:30</uf_add_date>
+		<uf_update_date>2016-09-20 09:42:30</uf_update_date>
+		<uf_etage>11</uf_etage>
+		<uf_etage_count>17</uf_etage_count>
+		<uf_total_square>48.3</uf_total_square>
+		<uf_living_square>42.86</uf_living_square>
+		<uf_kitchen_square>42.86</uf_kitchen_square>
+		<uf_rooms>1</uf_rooms>
+		<uf_price>3250000</uf_price>
+		<uf_remont_status>000000005</uf_remont_status>
+		<uf_sanusel_type>000000011</uf_sanusel_type>
+		<uf_water>000000002</uf_water>
+		<uf_heating>000000007</uf_heating>
+		<uf_reklama>Продается студия, 48 кв. м, 11/17 эт. С/у совмещен, просторные холл и гостиная-кухня, гардеробная 5 кв. м, есть возможность  сделать 2- комн. квартиру с изолированными комнатами. Номер объекта в базе 91036. Звоните!
+____________________________________________________________
+предоставляем полное юридическое сопровождение, безопасность сделок;
+работаем с военной ипотекой, материнским капиталом;
+гарантия быстрой и безопасной сделки
+</uf_reklama>
+		<uf_www>Да</uf_www>
+		<uf_comment/>
+		<uf_garage_square/>
+		<uf_cellar_square>0</uf_cellar_square>
+		<uf_lot_square/>
+		<uf_gas>0</uf_gas>
+		<uf_land_owner_type/>
+		<uf_naruzhn_reklama>Да</uf_naruzhn_reklama>
+		<uf_house_type/>
+		<uf_entrance>Нет</uf_entrance>
+		<uf_construct_perm>Нет</uf_construct_perm>
+		<uf_owner_rights/>
+		<uf_goal/>
+		<uf_entry/>
+		<uf_electricity/>
+		<uf_distance>0</uf_distance>
+		<uf_latitude>54,743302</uf_latitude>
+		<uf_longitude>20,502088</uf_longitude>
+		<uf_balcony>000000006</uf_balcony>
+		<uf_phone/>
+		<uf_internet/>
+		<uf_furniture>Нет</uf_furniture>
+		<uf_refrigerator>нет</uf_refrigerator>
+		<uf_washing_machine/>
+		<uf_parking/>
+		<uf_rooms_from>0</uf_rooms_from>
+		<uf_rooms_to>0</uf_rooms_to>
+		<uf_square_from>48,3</uf_square_from>
+		<uf_square_to>0</uf_square_to>
+		<uf_price_from>3 150 000</uf_price_from>
+		<uf_price_to>0</uf_price_to>
+		<uf_category>A</uf_category>
+	</item>
+</requests>

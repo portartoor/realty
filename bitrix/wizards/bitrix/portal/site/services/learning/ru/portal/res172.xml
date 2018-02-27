@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>181</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877380</timestamp_x>
+<date_create>1422877380</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Приглашение пользователей</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Пригласить пользователя в <b>Экстранет</b> можно только с помощью функционала рабочих групп. При этом сначала необходимо создать рабочую группу, а потом приглашать в нее сотрудников и внешних пользователей.</p>
+<p>Для этого выполните следующее:</p>
+<ul>
+  <li>Создайте новую рабочую группу экстранета или перейдите на закладку <b>Основное</b> страницы уже существующей группы.</li>
+  <li>Нажмите на ссылку <b>Пригласить в группу</b>. Откроется форма <b>Приглашение в группу</b>:</li>
+
+<p><img height="543" border="0" width="591" src="cid:resources/res172/y5V4k.mGO3Q.extranet_invitation.png" /></p>
+
+  <li>Заполните поля формы:</li>
+  <ul>
+    <li><b>Сотрудники компании</b> - в поле укажите часть фамилии, имени или отчества сотрудников корпоративного портала или воспользуйтесь ссылкой <b>Добавить из структуры</b>;</li>
+    <li><b>Внешние пользователи</b> - в поле укажите E-mail внешних пользователей;</li>
+    <p><div class="hint"><b>Примечание</b>: адреса должны быть указаны в формате <b>xxx@site.com</b> или <b>"name lastname" &lt;xxx@site.com&gt;</b> и разделены новой строкой или запятыми.</div></p>
+    <li><b>Ваше сообщение</b> - в поле укажите шаблон сообщения для приглашения в группу.</li>
+  </ul>
+  <li>Нажмите на кнопку <b>Отправить приглашение</b>.</li>
+</ul>
+<p>После отправки приглашения сотрудникам и внешним пользователям уже добавленным в пользователи сайта экстранета придет типовое приглашение в группу.</p> 
+
+<p>Внешние пользователи, не являющиеся пользователями сайта экстранета, получат приглашение по электронной почте. Им надо будет пройти по имеющейся в письме ссылке и заполнить форму авторизации:</p>
+<p>После этого приглашенный человек сможет зайти на сайт экстранета и принять приглашение на работу в группе.</p>
+<p><img height="471" border="0" width="508" src="cid:resources/res172/atAKV.JKxqA.extranet_invitation_user_form.png" />
+</p>
+
+<p><div class="hint"><b>Примечание</b>: приглашать пользователей в группу могут любые участники (если это разрешено настройками группы). Если приглашающий не является сотрудником, ему не доступно поле выбора пользователей <b>Сотрудники компании</b>.</div></p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>181</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

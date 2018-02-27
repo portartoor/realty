@@ -1,0 +1,4 @@
+<?
+$MESS["CRM_EXTERNAL_CHANNEL_ACTIVITY_TYPE_ACTIVITY"] = "Import documents";
+$MESS["CRM_EXTERNAL_CHANNEL_ACTIVITY_TYPE_AGENT"] = "Import companies and contacts";
+?>

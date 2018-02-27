@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>141</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Форумы</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Используя форумы, вы можете попросить помощь в решении своей проблемы, дать совет, обсудить различные темы. Все доступные для сотрудников портала форумы (не считая личных и форумов групп) представлены на странице <b>Форумы</b>:
+</p>
+<p><a href="javascript:ShowImg('/images/portal_user/communication/forums.png',1107,540,'Форумы')">
+<img height="292" border="0" width="600" src="cid:resources/res132/xvuDo.mG0d2.forums_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a>
+</p>
+
+<ul>
+<li><a href="#updates">Закладка Обновления</a></li>
+<li><a href="#profile">Закладка Профиль</a></li>
+<li><a href="#writes">Закладка Подписки</a></li>
+<li><a href="#messages">Закладка Сообщения</a></li>
+<li><a href="#search">Закладка Поиск</a></li>
+<li><a href="#users">Закладка Пользователи</a></li>
+<li><a href="#rules">Закладка Правила</a></li>
+</ul>
+
+
+<br>
+
+
+<a name="updates"></a>
+<p><h4>Закладка Обновления</h4></p>
+<p>Кликнув по  ссылке <b>Обновления</b>, вы попадете на страницу, где можно посмотреть список тем, в которых появились новые сообщения с момента вашего последнего захода на форумы:</p>
+<p><img src="cid:resources/res132/JP9AP.t6aRu.updates.png" width="658" height="347"></p>
+
+<p>В выпадающем списке выберите форум и, если нужно, раздел, в рамках которого будут выведены обновления, если таковые имеются:</p>
+<p><img src="cid:resources/res132/zbB1A.5yXIL.choose_forum.png" width="528" height="126"></p>
+
+<p>С помощью пиктограмм календарей, в поле <b>Обновление</b> укажите временной промежуток, за который вы хотите просмотреть обновления на форумах:</p>
+<p><img src="cid:resources/res132/4EELC.s05dN.updates_date.png" width="530" height="30"></p>
+
+<p><div class="hint"><b>Примечание</b>: если вы хотите просмотреть обновления только за один день, то заполните только первое поле, указав дату этого дня, как это сделано на картинке выше.</div></p>
+
+<a name="profile"></a>
+<p><h4>Закладка Профиль</h4></p>
+<p>Позволяет перейти к просмотру своей <a href="/learning/course/index.php?COURSE_ID=45&CHAPTER_ID=788">личной страницы</a>.</p>
+
+
+<a name="writes"></a>
+<p><h4>Закладка Подписки</h4></p>
+<p>Здесь вы можете быстро перейти к интересующему вас форумутеме и просмотреть последние там сообщения:</p>
+<p><img src="cid:resources/res132/GYmQD.4ppBK.conrol_podpiska.png" width="751" height="259"></p>
+
+<p>Чтобы оформить подписку на интересующий вас форумтему, воспользуйтесь ссылкой <b>Подписаться</b> при просмотре форуматемы:</p>
+<p><img src="cid:resources/res132/EHgyh.hSm4f.writing.png" width="727" height="196"></p>
+
+<a name="messages"></a>
+<p><h4>Закладка Сообщения</h4></p>
+
+<p>На данной закладке можно просмотреть отправленные и полученные персональные сообщения:</p>
+<p><img src="cid:resources/res132/3Oqoj.Gnvuf.messages.png" width="658" height="218"></p>
+
+<p>В белой строчке <b>Заполнение ящика</b> указано, на сколько процентов заполнен объем памяти, отведенный для хранения сообщений.</p>
+
+<p>Если вам пришло одно или несколько новых сообщений их количество будет отображаться цифрой в скобочках:</p>
+<p><img src="cid:resources/res132/8Ne8w.JR3Q3.new_message.png" width="119" height="34"></p>
+
+<p><div class="warning"><b>Важно!</b> На закладке Сообщения отображаются только отправленные или полученные сообщения с профиля сотрудника на форумах, а не портала.</div></p>
+
+<p>Для того, чтобы полностью очистить какую-либо папку от сообщений, поставьте напротив нее галочку в колонке флажков и нажмите кнопку <b>OK</b>:</p>
+<p><img src="cid:resources/res132/kxqEz.PeNWX.clean.png" width="174" height="131"></p>
+
+<p>По ссылкам <b>Новое сообщение</b> и <b>Новая папка</b> откроются страницы создания нового личного сообщения и новой папки для хранения сообщений соответственно.</p>
+
+
+<a name="search"></a>
+<p><h4>Закладка Поиск</h4></p>
+
+<p>На данной закладке можно выполнить поиск по форумам портала:</p>
+
+<p><img src="cid:resources/res132/0c0Ma.93B6y.forum_search.png" width="563" height="183"></p>
+
+<p>Введите в поле <b>Поиск</b> искомую фразу, слово или автора сообщения.</p>
+
+<p>В списке <b>Форум</b> выберите форум, на котором нужно производить поиск (по умолчанию поиск будет произведен по всем имеющимся форумам, кроме личных). Для этого выделите нужный форум щелчком левой кнопкой мыши.</p>
+
+<p>Нажмите на пиктограмму стрелочки (<img src="cid:resources/res132/bqK61.vTri7.down.png" width="20" height="22">) рядом с полем <b>Период</b> и в раскрывшемся списке выберите промежуток времени относительно текущего момента, в котором было размещено искомое сообщение:</p>
+<p><img src="cid:resources/res132/azCcE.szS3X.for_all_time.png" width="249" height="150"></p>
+
+<p>Нажмите на пиктограмму стрелочки (<img src="cid:resources/res132/5Yfdz.Pq1Om.down.png" width="20" height="22">) рядом с полем <b>Упорядочить</b> и выберите, по какому признаку расположить найденные результаты:</p>
+<ul>
+<li><b>по релевантности</b> - в порядке убывания процента вхождения запроса в общий объем текста;</li>
+<li><b>по дате</b>;</li>
+<li><b>по темам</b>.</li>
+</ul>
+<p>Для начала поиска нажмите кнопку <b>Найти</b>.</p> 
+
+<a name="users"></a>
+<p><h4>Закладка Пользователи</h4></p>
+
+<p>Данная закладка идентична странице <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2309">Поиск сотрудника</a></p>
+
+<a name="rules"></a>
+<p><h4>Закладка Правила</h4></p>
+
+<p>На данной закладке приведены нормы и требования нахождения и общения на форумах. Прочитайте их, прежде чем что-то писать на форумах.</p>
+
+
+
+<p><div class=hint><b>Примечание</b>: подробнее о работе на форуме смотрите в разделе <b>Личная страница</b>, урок <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2294">Форум</a>.</div></p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>141</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

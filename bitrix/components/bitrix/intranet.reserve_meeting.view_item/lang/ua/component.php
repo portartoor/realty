@@ -1,0 +1,34 @@
+<?
+$MESS["INTR_IRMVI_NAME_TEMPLATE_DEFAULT"] = "#NOBR##LAST_NAME# #NAME##/NOBR#";
+$MESS["INAF_F_ID"] = "ID";
+$MESS["INAF_ITEM_NOT_FOUND"] = "Бронювання не знайдено.";
+$MESS["INTASK_C29_WRONG_TIME"] = "Час початку зустрічі вказано не вірно. Правильний формат #FORMAT#";
+$MESS["INTASK_C29_WRONG_DATE"] = "Дата резервування вказана не вірно. Правильний формат #FORMAT#";
+$MESS["INTASK_C29_WRONG_DURATION"] = "Тривалість зустрічі вказана не вірно";
+$MESS["INTASK_C29_NEED_AUTH"] = "Для резервування переговорної вам необхідно авторизуватися";
+$MESS["INTASK_C29_UF_PERSONS"] = "Кількість учасників";
+$MESS["INAF_F_PLACE"] = "Місць";
+$MESS["EC_INTRANET_MODULE_NOT_INSTALLED"] = "Модуль інтранету не встановлено";
+$MESS["EC_IBLOCK_MODULE_NOT_INSTALLED"] = "Модуль інформаційних блоків не встановлено";
+$MESS["INAF_F_NAME"] = "Назва";
+$MESS["INTASK_C29_EMPTY_DATE"] = "Не вказана дата резервування";
+$MESS["INTASK_C29_EMPTY_DURATION"] = "Не вказана тривалість зустрічі";
+$MESS["INTASK_C29_EMPTY_TIME"] = "Не вказано час початку зустрічі";
+$MESS["INTASK_C29_EMPTY_NAME"] = "Не зазначена назва зустрічі";
+$MESS["INAF_F_DESCRIPTION"] = "Опис";
+$MESS["INTASK_C29_CONFLICT"] = "Переговорна зайнята в період з #TIME1# до #TIME2# - #RES#";
+$MESS["INAF_MEETING_NOT_FOUND"] = "Переговорна не знайдена.";
+$MESS["INTASK_C29_UF_RES_TYPEC"] = "Переговори";
+$MESS["INTASK_C29_UF_PREPARE_ROOM"] = "Підготовка кімнати";
+$MESS["INTASK_C29_UF_RES_TYPEB"] = "Презентація";
+$MESS["INTASK_C36_PAGE_TITLE"] = "Переглянути резервування переговорної";
+$MESS["INTASK_C29_UF_RES_TYPED"] = "Інше";
+$MESS["INTASK_C36_PAGE_TITLE1"] = "Резервування переговорних";
+$MESS["INTASK_C29_UF_RES_TYPEA"] = "Нарада";
+$MESS["INAF_F_PHONE"] = "Телефон";
+$MESS["INTASK_C29_UF_RES_TYPE"] = "Тип зустрічі";
+$MESS["INTS_NO_IBLOCK_PERMS"] = "У вас немає прав на перегляд інформаційного блоку завдань";
+$MESS["INTASK_C29_NO_RPERMS"] = "У вас немає прав на резервування переговорної";
+$MESS["INTASK_C29_HM"] = "години:хвилини";
+$MESS["INAF_F_FLOOR"] = "Поверх";
+?>

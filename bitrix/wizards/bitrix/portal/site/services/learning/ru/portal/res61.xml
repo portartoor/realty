@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>70</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>50</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Функционал раздела</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Сотрудникам с разными правами доступа доступен различный функционал портала. Ниже в таблице приведены функции (<b>Функционал</b>), соответствующие различным группам сотрудников (<b>Права пользователя</b>), и указано, на какой странице раздела <b>Сотрудники</b> можно этим функционалом воспользоваться (<b>Страница</b>).
+</p>
+
+<table cellspacing=0 cellpadding=0>        
+  <tbody> 
+    <tr bgcolor="white">
+    <td bgcolor="#8C8C8C"> 
+<table cellspacing="1" cellpadding="5">
+          <tbody>
+            <tr bgcolor="#8C8C8C"><td><b>Функционал</b></td><td><b>Страница</b></td><td><b>Права пользователя</b></td></tr>
+          
+   
+    <tr bgcolor="#ffffff"><td>Добавление сотрудника</td>
+<td>Поиск сотрудника, Телефонный справочник</td>
+<td>Отдел кадров</td>
+</tr>
+  
+    <tr bgcolor="#eeeeee"><td>Управление сотрудниками</td>
+<td><i>Настройки &gt; Пользователи &gt; Список пользователей</i> в административной части</td>
+<td>Отдел кадров</td></tr>
+
+ <tr bgcolor="#ffffff"><td>Импорт сотрудников</td>
+<td><i>Настройки &gt; Пользователи &gt; Импорт пользователей</i> в административной части</td>
+<td>Администраторы</td></tr>
+
+  
+    <tr bgcolor="#eeeeee"><td>Экспорт сотрудников в Outlook</td>
+<td>Структура компании</td>
+<td>Сотрудники</td></tr>
+  
+    <tr bgcolor="#ffffff"><td>Экспорт сотрудников в Excel</td>
+<td>Поиск сотрудника, Телефонный справочник</td>
+<td>Сотрудники</td></tr>
+  
+    <tr bgcolor="#eeeeee"><td>Поиск сотрудника</td>
+<td>Поиск сотрудника, Телефонный справочник
+     </td>
+<td>Сотрудники</td></tr>
+
+ <tr bgcolor="#ffffff"><td>Добавление подразделения</td>
+<td>Структура компании</td>
+<td>Отдел кадров</td></tr>
+
+<tr bgcolor="#eeeeee"><td>Изменение подразделения</td>
+<td>Структура компании</td>
+<td>Отдел кадров</td></tr>
+
+<tr bgcolor="#ffffff"><td>Управление подразделениями</td>
+<td><i>Контент &gt; Оргструктура &gt; Подразделения</i> в административной части</td>
+<td>Отдел кадров</td></tr>
+
+<tr bgcolor="#eeeeee"><td>Добавление гаджета на рабочий стол</td>
+<td>Личная страница</td>
+<td>Администрация портала</td></tr>
+
+<tr bgcolor="#ffffff"><td>Сохранение текущих настроек рабочего стола как настроек по умолчанию</td>
+<td>Личная страница</td>
+<td>Администрация портала</td></tr>
+
+<tr bgcolor="#eeeeee"><td>Сброс текущих настроек рабочего стола</td>
+<td>Личная страница</td>
+<td>Администрация портала</td></tr>
+
+<tr bgcolor="#ffffff"><td>Добавление записи о кадровом изменении</td>
+<td>Кадровые изменения</td>
+<td>Администраторы</td></tr>
+
+<tr bgcolor="#eeeeee"><td>Управление записями о кадровых изменениях</td>
+<td><i>Контент &gt; Оргструктура &gt; История состояний</i> в административной части</td>
+<td>Администраторы</td></tr>
+
+<tr bgcolor="#ffffff"><td>Добавление отсутствия сотрудника</td>
+<td>График отсутствий</td>
+<td>Отдел кадров</td></tr>
+
+<tr bgcolor="#eeeeee"><td>Экспорт записей об отсутствиях</td>
+<td>График отсутствий</td>
+<td>Отдел кадров</td></tr>
+
+<tr bgcolor="#ffffff"><td>Добавление записи на доску почета</td>
+<td>Доска почета</td>
+<td>Отдел кадров</td></tr>
+
+<tr bgcolor="#eeeeee"><td>Управление доской почета</td>
+<td><i>Контент &gt; Оргструктура &gt; Доска почета</i> в административной части</td>
+<td>Отдел кадров</td></tr>
+
+  
+   </tbody>
+         </table>
+             </td></tr>
+
+  </tbody>
+</table>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>50</edge_sort>
+<id>70</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

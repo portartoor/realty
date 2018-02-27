@@ -1,0 +1,35 @@
+<?
+$MESS["WD_TITLE_ACTIVE"] = "Активність";
+$MESS["IBLIST_A_BP_H"] = "Бізнес-процeси";
+$MESS["WD_TITLE_EXTERNAL_LOCK"] = "Блокування";
+$MESS["WD_VERSIONS"] = "Версії";
+$MESS["WD_CONTENT"] = "Верхній рівень";
+$MESS["WD_TITLE_EXTCODE"] = "Зовнішній код";
+$MESS["WD_ALL"] = "Всього";
+$MESS["WD_WF_ATTENTION3"] = "Ви можете змінювати документи, які знаходяться в статусах #STATUS#.";
+$MESS["WD_WF_ATTENTION2"] = "Ви можете змінювати документи, які знаходяться в статусі #STATUS#.";
+$MESS["WD_WF_COMMENT1"] = "Ви можете змінювати документи.";
+$MESS["WD_WF_ATTENTION1"] = "Ви можете видаляти документи.";
+$MESS["WD_WF_COMMENT2"] = "Ви не можете змінювати документи.";
+$MESS["WD_TITLE_ADMIN_DCREATE"] = "Дата створення";
+$MESS["WD_TITLE_EXTERNAL_DET_TEXT"] = "Детальний опис";
+$MESS["WD_TITLE_ELS"] = "Документів";
+$MESS["WD_TITLE_TIMESTAMP"] = "Змінений";
+$MESS["WD_TITLE_EXTERNAL_LOCK_BY"] = "Ким заблокована";
+$MESS["WD_TITLE_ADMIN_WCREATE2"] = "Ким створена";
+$MESS["WD_TITLE_EXTERNAL_LOCK_WHEN"] = "Коли заблокована";
+$MESS["WD_TITLE_EXTERNAL_SHOWS"] = "Кількість показів";
+$MESS["WD_TITLE_EXTERNAL_COM"] = "Коментар адміністратора";
+$MESS["WD_TITLE_MODIFIED_BY"] = "Хто змінив";
+$MESS["WD_TITLE_NAME"] = "Назва";
+$MESS["WD_TITLE_EXTERNAL_WFNEW"] = "Неопубл.";
+$MESS["WD_TITLE_EXTERNAL_PREV_TEXT"] = "Опис для анонса";
+$MESS["WD_TITLE_PUBLIC"] = "Опубл.";
+$MESS["WD_MOVE_TO"] = "Перенести у";
+$MESS["WD_TITLE_SECS"] = "Підрозділів";
+$MESS["WD_TITLE_FILE_SIZE"] = "Розмір";
+$MESS["WD_TITLE_CODE"] = "Символьний код";
+$MESS["WD_TITLE_SORT"] = "Сортування";
+$MESS["WD_TITLE_STATUS"] = "Статус";
+$MESS["WD_TITLE_TAGS"] = "Теги";
+?>

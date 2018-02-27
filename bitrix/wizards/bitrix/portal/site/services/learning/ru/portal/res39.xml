@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>52</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877378</timestamp_x>
+<date_create>1422877378</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Живая лента</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<b>Живая лента</b> представляет из себя страницу, на которой выводятся последние события портала: новости, комментарии, новые файлы, системные события и.т.д.
+
+<p><a href="javascript:ShowImg('/images/portal_user/personal_page/messages/messages_log_list.png',962,690,'Живая лента')">
+<img src="cid:resources/res39/rNV1w.oQTE8.messages_log_list_sm.png" alt="Нажмите на рисунок, чтобы увеличить" width="668" height="479" border="0" /></a></p>
+
+
+<p>Количество новых событий в &quot;живой ленте&quot; отображается на панели статусов:</p>
+<p><img src="cid:resources/res39/jz8vb.fITsb.new_log_msg_status_bar.png" alt="Количество новых событий в живой ленте" border="0" width="707" height="22" ></p>
+
+
+<br>
+
+
+<menu id="topictoc"> 
+  <li><a href="#log_filter">Панель фильтра</a> </li>
+  <li><a href="#log_hide_event">Скрытие событий из Живой ленты</a> </li>
+  <li><a href="#log_notify">Настройка уведомлений</a> </li>
+</menu>
+
+
+
+<br>
+
+
+
+<p>По умолчанию на странице отображаются все типы событий в хронологическом порядке.</p> 
+
+<p>События за каждый день группируются в общий блок с датой в заголовке.</p>
+<p><img src="cid:resources/res39/nhUXU.sVd8v.messages_log_events_block.png" alt="Блок событий за день" border="0" width="553" height="341" ></p>
+
+
+<p>При желании, блок с событиями за день можно свернуть для экономии места, кликнув по его заголовку.</p>
+<p><img src="cid:resources/res39/kh3rQ.RpA5T.messages_log_events_hide.png" alt="Свернутый блок событий" border="0" width="553" height="212" ></p>
+
+<p>После даты в заголовке каждого такого блока, в скобках, отображается общее количество событий за день.</p>
+<p><img src="cid:resources/res39/1MUNW.WlObv.messages_log_events_show.png" alt="Общее количество событий за день" border="0" width="553" height="162" ></p>
+
+
+
+
+<p>Для каждого события указывается его <b>Автор</b>, в виде ссылки на его <a href="/learning/course/index.php?COURSE_ID=45&CHAPTER_ID=788">личную страницу</a>, <b>тип события</b> и <b>название события</b> в виде ссылки на него.</p>
+<p><img src="cid:resources/res39/A1rsF.Wgrge.messages_log_post_header.png" alt="Источник сообщения" border="0" width="634" height="177" ></p>
+
+<p>С помощью ссылки <b>Показать &#8595;</b> можно просмотреть, например, сообщение блога или комментарий целиком и в том же виде, как он будет выглядеть в соответствующем разделе (например, <b>Микроблог</b>).</p>
+
+<p><img src="cid:resources/res39/8NswM.5dG2P.messages_log_post_min.png" alt="Просмотр события целиком" border="0" width="504" height="192"></p>
+
+<p>Ссылка <b>Скрыть &#8593;</b> соответственно сворачивает обратно подробное описание события.</p>
+
+<p>В нижней части сообщения отображается <b>дата события</b>, <b>тип события</b>, ссылка на <b>место события</b> и ссылка <b>Уведомления</b>, которая позволяет <a href="#log_notify">настроить уведомления</a> для текущего события.</p>
+<p><img src="cid:resources/res39/edOwy.sm59X.messages_log_post_footer.png" alt="Служебная информация" border="0" width="647" height="98" ></p>
+
+<p><div class="hint"><b>Примечание:</b> Ссылка <b>Настройки Живой ленты</b> позволяет перейти к странице <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2328">Подписка</a> для настройки всех уведомлений.
+<p><img src="cid:resources/res39/bWK21.ezxdx.messages_log_settings_link.png" alt="Ссылка &quot;Настройки Живой ленты&quot;" border="0" width="638" height="137" ></p>
+
+<br>
+
+<p>Ссылка <b>Написать в микроблог</b> позволяет создать новое сообщение в личном микроблоге сотрудника также как и в разделе <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2399">Микроблог</a>.</p>
+<p><img src="cid:resources/res39/rahIo.aVgz6.messages_log_microblog_form.png" alt="Форма создания нового сообщения в микроблоге сотрудника" border="0" width="659" height="211" ></p>
+
+</div></p>
+
+
+<p>Если, например, к сообщению в блоге были добавлены комментарии, то они тоже будут отображены в живой ленте:
+<p><img src="cid:resources/res39/ubyKp.SoknH.messages_log_comments.png" alt="Комментарии в ленте" border="0" height="206" width="592"></p>
+Причем, длинные комментарии сокращаются, чтобы не занимать много места в ленте. Для просмотра полного текста комментария воспользуйтесь ссылкой <b>Показать&#8595;</b>.</p>
+
+<p>С помощью ссылки <b>Добавить комментарий</b> комментарии можно добавлять прямо в живой ленте. </p>
+
+
+
+<br>
+
+
+
+<a name="log_filter"></a><h4>Панель фильтра</h4>
+
+<p>С помощью фильтра можно выбрать <b>Тип события</b>, <b>Автора</b>, <b>Дату события</b>, а так же разрешить <b>Показывать скрытые события</b> (см. ниже):</p>
+<p><img src="cid:resources/res39/7B22r.enI5K.messages_log_filter.png" alt="Форма &quot;Фильтр&quot;" border="0" width="260" height="529" ></p>
+
+
+
+
+<br>
+
+
+
+<a name="log_hide_event"></a><h4>Скрытие событий из Живой ленты</h4>
+
+<p>Из живой ленты можно скрыть ненужные события. Например, можно скрыть события о файлах сотрудников. Для этого используется кнопка <b>х</b>:</p>
+  <p><img src="cid:resources/res39/mpFrh.DUAji.messages_log_event_hide.png" alt="Кнопка скрытия события из живой ленты" border="0" width="679" height="131" ></p>	
+	 
+<p>в форме можно выбрать события какого типа необходимо скрыть</p>
+  <p><img src="cid:resources/res39/VqQJa.7jhVb.messages_log_event_hide_menu.png" alt="Форма выбора скрываемого типа событий" border="0" width="679" height="214" ></p>	
+
+<p>После чего выбранные события перестанут отображаться в живой ленте.</p>
+
+<p>Чтобы временно просмотреть скрытые события, можно воспользоваться опцией <b>Показывать скрытые события</b> на <a href="#log_filter">панели фильтра</a>. Тогда скрытые события будут отображаться в общей ленте и будут выделены цветом:</p>
+  <p><img src="cid:resources/res39/xGsuA.D0QjK.messages_log_hiden_events.png" alt="Скрытые события одного типа" border="0" width="679" height="311" ></p>	
+
+<p>Для того чтобы скрытия снова всегда отображались в ленте, необходимо использовать кнопку <b>+</b></p>
+  <p><img src="cid:resources/res39/TpBrA.EaRrV.messages_log_event_unhide.png" alt="Кнопка показа скрытого из живой ленты события" border="0" width="679" height="135" ></p>	
+
+<p>и затем в форме можно выбрать, какие события необходимо вернуть в ленту</p>
+  <p><img src="cid:resources/res39/OiYKn.UoYOo.messages_log_event_unhide_menu.png" alt="Форма выбора показываемого типа событий" border="0" width="679" height="154" ></p>	
+
+
+<p><div class="hint"><b>Примечание:</b> Настроить отображение событий в живой ленте можно также на странице <b>Подписка</b>:
+  <p><img src="cid:resources/res39/Qru8j.RkObF.subscribe_events_log_opts.png" alt="Форма выбора показываемого типа событий" border="0" width="706" height="288" ></p>	
+</div></p>
+
+
+
+
+<br>
+
+
+
+
+<a name="log_notify"></a><h4>Настройка уведомлений</h4>
+
+<p>Для настройки уведомлений для разных событий существует отдельный раздел <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2328">Подписка</a>, но уведомления можно также настроить прямо из живой ленты. 
+Для этого используется ссылка <b>Уведомления</b>:</p>
+
+<p><img src="cid:resources/res39/DYcLg.A3LqA.messages_log_notify_link.png" alt="Форма &quot;Настройка уведомлений&quot;" border="0" width="439" height="89" ></p>
+
+<p>она позволяет прямо из живой ленты произвести настройку уведомлений в форме <b>Настройка уведомлений</b>:</p>
+
+<p><img src="cid:resources/res39/NwHoA.CIsj4.messages_log_notify_settings_form.png" alt="Форма &quot;Настройка уведомлений&quot;" border="0" width="510" height="357" ></p>
+
+<p>Доступны следующие настройки:</p>
+<ul>
+  <li>Источник уведомлений:</p>
+    <ul>
+      <li><b>события этого типа в этой группе событий</b> - например, события блога в профиле пользователя или события блога в группе;</li>
+      <li><b>все события в этой группе событий</b> - например, <u>все</u> события в профиле пользователя или <u>все</u> события в группе;</li>
+      <li><b>автор события</b> - подписка на все события сотрудника.</li>
+    </ul>
+  </li>
+
+  <li>Тип уведомления:
+    <ul>
+      <li><b>Не уведомлять</b> - при выбранной опции уведомления о событии приходить не будут;</li>
+      <li><b>Уведомление по e-mail</b> - при выбранной опции уведомления о событии будут приходить по электронной почте;</li>
+      <li><b>Мгновенное сообщение</b> - при выбранной опции о событии будут приходить в виде личного сообщения.</li>
+    </ul>
+  </li>
+</ul>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>52</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>50</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>300</sort>
+<timestamp_x>1422877378</timestamp_x>
+<date_create>1422877378</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Исходящие сообщения</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>На странице <b>Исходящие сообщения</b> отображаются список сообщений, которые вы отправляли другим сотрудникам.</p>
+
+<p><a href="javascript:ShowImg('/images/portal_user/personal_page/messages/messages_output.png',967,413,'Исходящие сообщения')">
+<img src="cid:resources/res37/sRD3W.MPcgi.messages_output_sm.png" alt="Нажмите на рисунок, чтобы увеличить" width="620" height="265" border="0" /></a></p>
+
+<p><div class="hint"><b>Примечание:</b> Новые/непрочитанные сообщения отмечены серым цветом.</div></p>
+
+<p>Для управления сообщениями на этой странице доступны следующие элементы управления:</p>
+
+<ul>
+  <li>Ссылки для управления каждым из сообщений:
+    <ul>
+      <li><b>Все сообщения</b> - просмотр всех сообщений выбранного пользователя;
+      <li><b>Удалить</b> - удаляет текущее сообщение.</li>
+	</ul>
+	
+	 	 
+	
+  </li>
+
+  <li>Флажки для множественного выбора сообщений и кнопки для групповых операций над ними:
+      <ul>
+        <li><b>Удалить</b>;</li>
+	</ul>
+  </li>
+
+</ul>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>300</edge_sort>
+<id>50</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

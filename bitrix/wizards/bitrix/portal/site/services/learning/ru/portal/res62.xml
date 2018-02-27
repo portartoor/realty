@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>71</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>100</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Поиск сотрудника</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>С помощью этой страницы можно легко найти нужного сотрудника. Функционал страницы зависит от уровня прав доступа.</p>
+
+
+  <ul><li><a href="#search" >Поиск сотрудника</a>
+    <ul>           
+         <li><a href="#alphavit_search" >Поиск по алфавиту</a></li>
+         <li><a href="#search_panel" >Поисковая панель</a></li>
+    </ul>
+  </li>
+
+  <li>
+    <a href="#control_clerks" >Управление сотрудниками</a>
+  </li>
+
+  <li>
+    <a href="#export_excel" >Экспорт в Excel</a>
+  </li>
+
+  <li>
+    <a href="#outlook" >Синхронизация с Outlook</a>
+  </li>
+
+<li>
+    <a href="#carddav" >Синхронизировать CardDAV</a>
+  </li>
+</ul>
+
+<a name="search"></a><h4>Поиск сотрудника</h4>
+
+<p>Щелкнув по пункту <b>Поиск сотрудника</b>, на открывшейся странице вы увидите перечень сотрудников компании, расположенный в алфавитном порядке:</p>
+
+<p><img src="cid:resources/res62/cRSNk.9EtBK.search.png" width="717" height="456"  /></p>
+
+<p>При нажатии на ссылку <b>Написать сообщение</b> появится окно отправки сообщений. Подробнее об отправке сообщений вы можете прочитать на странице <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&amp;LESSON_ID=2323" >переписка с пользователями</a>.</p>
+
+<p>По ссылке <b>Видеозвонок</b> вы можете организовать видеоконференцию или сделать одиночный видеозвонок. Подробнее об этом в разделе <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&CHAPTER_ID=861" target="_blank">Видеоконференции</a></p>
+
+
+<a name="alphavit_search"></a><h4>Поиск по алфавиту</h4>
+
+
+<p>Возможен поиск сотрудников по алфавиту. Для этого предназначена <b>Алфавитная строка</b>: </p>
+
+<p><img src="cid:resources/res62/JUt76.5Kc9u.alphavit.png" width="701" height="24"  /></p>
+
+<p>Если выбрать букву в строке, то будут отображены только те сотрудники, фамилии которых начинаются с выбранной буквы.</p>
+
+<p>Для переключения режимов вывода результатов служат кнопки <b>Список</b> и <b>Таблица</b>, расположенные на контекстной панели: <img src="cid:resources/res62/5fGrW.Qioyn.kind.png" width="100" height="36"  /> </p>
+<br>
+
+
+<a name="search_panel"></a><h4>Поисковая панель</h4>
+
+<p>Для поиска сотрудника возможно использование специальной панели поиска:</p>
+<p><img src="cid:resources/res62/ELy3j.oStFm.search_extending.png" width="258" height="418"  />  </p>
+<p>Чтобы начать поиск заполните любые поля формы, выберите в каком подразделении производить поиск, нажав пиктограмму стрелочки (<img src="cid:resources/res62/uv6VW.E8ShX.down.png" width="20" height="22"  />)</p>
+
+<p>Чтобы выполнить поиск только по вашему офису, поставьте галочку в поле <b>мой офис</b>.</p>
+
+<p>Чтобы искать только тех сотрудников, кто сейчас на на портале, отметьте опцию <b>в онлайне</b>.</p>
+
+
+<a name="control_clerks"></a><h4>Управление сотрудниками  </h4>
+
+<p>Если вы состоите в группе с уровнем доступа к порталу не ниже <b>Отдел кадров</b>, то над панелью поиска будет доступна кнопка <b>Управление сотрудниками</b>:</p>
+
+<p><img src="cid:resources/res62/JxIkd.0xv60.control_clerks.png" width="214" height="44"  /> </p>
+
+<p>Кликнув по кнопке <b>Управление сотрудниками</b> вы попадете в административный раздел настройки доступных вам пользователей, включая и вашу учетную запись:</p>
+
+<p><img src="cid:resources/res62/7BRtV.vN6Rr.management.png" width="789" height="287"  /></p>
+
+<p>Подробнее о работе с учетными записями в административном разделе смотрите в курсе <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=23&amp;CHAPTER_ID=466" >Администрирования портала</a>.</p>
+
+
+<a name="export_excel"></a><h4>Экспорт в Excel  </h4>
+
+
+<p>Результаты поиска можно экспортировать в файл <b>MS Exсel</b> с помощью ссылки <img src="cid:resources/res62/WWgI0.ywmOD.excel.png" width="198" height="24" align="top"  /></p>
+
+<p>После клика по ссылке появится диалоговое окно загрузки файла:</p>
+
+<p><img src="cid:resources/res62/mpeJw.katPn.save_file.png" width="436" height="279"  /></p>
+
+<p>При нажатии кнопки <b>Открыть</b> будет запущен <b>MS Excel</b> и в нем показаны результаты поиска в соответствующем формате. Если вы хотите сохранить результаты в формате <b>.xls</b> на локальном носителе, нажмите <b>Сохранить</b>, и выберите подходящее место для сохранения файла.</p>
+
+<a name="outlook"></a><h4>Синхронизация с Outlook </h4>
+
+
+<p>Также вы можете выполнить экспорт сотрудников в MS Outlook с помощью ссылки <img src="cid:resources/res62/f1iNf.mP734.outlook.png" width="227" height="22" align="top"  /></p>
+
+<p><div class="warning"><b>Внимание! </b>Для полноценной интеграции КП с Outlook требуется версия Outlook 2007.</div></p>
+
+<p>В результате экспортированный список в <b>MS Outlook</b> будет иметь следующий вид:</p>
+
+<p><a href="javascript:ShowImg('/images/portal_user/personal/outlook_window.png',1164,663,'Экспорт в Outlook')" ><img height="341" border="0" width="600" src="cid:resources/res62/t18lw.Xnxvz.outlook_window_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;"  /></a> </p>
+
+<p>Дополнительно об интеграции с Outlook смотрите на странице портала <b>Интеграция с Outlook</b>.</p>
+
+<a name="carddav"></a>
+<h4>Синхронизировать CardDAV</h4>
+
+<p>Пройдя по данной ссылке, вам откроется окно следующего вида:</p>
+<p><img src="cid:resources/res62/8Z61D.Fv5IN.cardDav.png" width="719" height="489"  /></p>
+
+<p>На ней представлена статическая информация о том, как с помощью модуля DAV синхронизировать календари и контакты сайта с любыми программами и устройствами, поддерживающими протоколы CalDAV и CardDAV. Эти протоколы поддерживают, например, мобильные устройства iPhone и iPad. Так же поддержка протоколов присутствует в программах Mozilla Sunbird, eM Client и некоторых других.</p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>100</edge_sort>
+<id>71</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

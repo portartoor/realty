@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>153</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Профили</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p><ul>
+<li><a href="#contact_profile" >Профиль контакта</a>:
+   <ul>
+   <li><a href="#cont" >Вкладка Контакт</a></li>
+   <li><a href="#compan" >Вкладка Компании</a></li>
+   <li><a href="#sdel" >Вкладка Сделки</a></li>
+   <li><a href="#even" >Вкладка События</a></li>
+   <li><a href="#kontekst_panel" >Контекстная панель</a></li>
+   </ul>
+</li>
+
+<li><a href="#company_profile" >Профиль компании</a>:
+   <ul>
+   <li><a href="#company_vkladka" >Вкладка Компания</a></li>
+   <li><a href="#cont_vkladka" >Вкладка Контакты</a></li>
+   <li><a href="#deal_vkladka" >Вкладка Сделки</a></li>
+   <li><a href="#events_vkladka" >Вкладка События</a></li>
+   <li><a href="#panel_vkladka" >Контекстная панель</a></li>
+   </ul>
+</li>
+
+<li><a href="#deal_profile" >Профиль Сделки</a></li>
+</ul></p>
+
+<a name="contact_profile"></a>
+<h3>Профиль контакта</h3>
+
+<p>Со страницы списка контактов можно посмотреть профиль любого лица. О том, как это сделать, написано в уроке <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&amp;LESSON_ID=2342" >Список контактов</a>.</p>
+
+<p><img src="cid:resources/res143/ZybJa.uZcsk.profile.png" width="691" height="599"></p>
+
+<p>Профиль контакта представлен четырьмя вкладками: <b>Контакт</b>, <b>Компании</b>, <b>Сделки</b>, <b>События</b>. Активная в данный момент вкладка подсвечивается более темным цветом.</p>
+
+<p>Об управлении формой, представленной на странице профиля контакта, можно узнать из урока <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&amp;LESSON_ID=2346" >Форма отчета</a>.</p>
+
+<a name="cont"></a>
+<h4>Вкладка Контакт</h4>
+
+<p>Здесь вы можете узнать информацию о данном лице. Вы можете увидеть ссылки рядом со следующими полями:</p>
+
+<ul>
+  <li><b>Рабочий e-mail</b> - щелкните по ссылке, если хотите написать письмо этому контакту. Запустится ваш почтовый клиент, и в адресе получателя будет e-mail этого контакта. </li>
+
+  <li><b>Мобильный телефон</b> - клик по номеру дает возможность осуществить сеанс связи по протоколу <b>callto</b>. Если у вас установлена программа, поддерживающая данный протокол, то появится окно выбора приложения: 
+    <p><img src="cid:resources/res143/VjWwY.xHDfr.skype.png" width="339" height="364"  /></p>
+  </li>
+
+  <li><b>Корпоративный сайт</b> - здесь указан адрес сайта контакта в сети интернет. Щелкните по нему, чтобы перейти на сайт. </li>
+
+  <li><b>Страница Facebook</b> - адрес странички в социальной сети <b>Facebook</b>. Нажмите, чтобы перейти на нее. </li>
+
+  <li><b>Микроблог Twitter</b> - адрес блога данного пользователя в Twitter. </li>
+
+  <li><b>Контакт Skype</b> - щелкните по значению данного поля для связи с контактом через протокол <b>skype</b>.</li>
+
+<p><div class="hint"><b>Примечание</b>: в различных контактах поля могут отличаться, в зависимости от вносимых при добавлении контакта данных.</div></p>
+
+  <li><b>Компания</b> - ссылка на профиль компании в CRM. Подробнее смотрите <a href="#company_profile">здесь</a>.</li>
+
+  <li><b>Ответственный</b>, <b>Создал</b>, <b>Изменил</b> (раздел <b>Дополнительно</b>) - ссылки соответственно на профиль ответственного за контакт, создавшего его, и того, кто последний раз его изменял. При наведении курсора мыши на ссылку появится краткая информация и ссылки, позволяющие отправить сообщение и сделать видеозвонок: 
+    <p><img src="cid:resources/res143/9wWIq.X0pay.creater.png" width="566" height="415"  /></p>
+  
+    <p>О ссылках <b>Написать сообщение</b> и <b>Видеозвонок</b> вы можете подробнее узнать в разделах <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&amp;LESSON_ID=2323" >Переписка с пользователями</a> и <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=23&amp;CHAPTER_ID=583" >Видеоконференции</a> соответственно.</p>
+  </li>
+</ul>
+
+<a name="compan"></a>
+<h4>Вкладка Компании</h4>
+
+<p>На данной вкладке расположена информация о компании, в которой работает контакт:</p>
+
+<p><img src="cid:resources/res143/xtw5Y.wPy0h.companyes.png" width="732" height="279"  /></p>
+
+<p>Цифра в скобочках заголовка вкладки указывает, сколько компаний представляет этот контакт.</p>
+
+<p>Информацию по ссылкам смотрите выше, в описании вкладки <b>Контакт</b>.</p>
+
+<a name="sdel"></a>
+<h4>Вкладка Сделки</h4>
+
+<p>Здесь представлены данные о сделках с данным контактом:</p>
+
+<p><a href="javascript:ShowImg('/images/portal_user/crm/sale.png',977,225,'Сделки')" ><img height="138" border="0" width="600" src="cid:resources/res143/m9NuF.Jz5ej.sale_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;"  /></a> </p>
+
+<p>Цифра в скобочках заголовка вкладки указывает, сколько сделок ведется или велось с этим контактом.</p>
+
+<p>О значениях столбцов таблицы сделок вы можете прочитать в разделе <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2405">Сделки</a>.</p>
+
+<a name="even"></a>
+<h4>Вкладка События</h4>
+
+<p>На данной вкладке приведены события, связанные с контактом, а также добавленные к нему:</p>
+
+<p><a href="javascript:ShowImg('/images/portal_user/crm/events.png',741,209,'Вкладка События')">
+<img height="169" border="0" width="600" src="cid:resources/res143/ZLCI4.MfkkZ.events_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a>
+</p>
+
+
+<p>Цифра в скобочках заголовка вкладки указывает, сколько событий связано с этим контактом.</p>
+
+<a name="kontekst_panel"></a>
+<h4>Контекстная панель</h4>
+
+<p>Контекстная панель представлена четырьмя кнопками:</p>
+
+<ul>
+  <li><b>Список контактов</b> - возвращает вас на страницу со списком контактов. Вы можете прочитать о ней в уроке <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&amp;LESSON_ID=2342" >Список контактов</a>. </li>
+
+  <li><b>Добавить событие</b> - вызывает окно добавления события к данному контакту. Подробнее о добавлении событий вы можете прочитать в уроке <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2407">События</a>. </li>
+
+  <li><b>Редактировать</b> - позволит вам редактировать контакт. О полях, которые будут в форме редактирования контакта, вы можете прочитать в уроке <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&amp;LESSON_ID=2341" >Добавить контакт</a>. </li>
+
+  <li><b>Еще</b> - открывает доступ к пунктам <b>Добавить контакт</b> и <b>Удалить контакт</b>: 
+    <p><a href="javascript:ShowImg('/images/portal_user/crm/more.png',838,79,'Контекстная панель')" ><img height="56" border="0" width="600" src="cid:resources/res143/SSPPS.9Iq1f.more_sm2.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;"  /></a> </p>
+  
+    <p>Если вы кликните по <b>Удалить контакт</b>, появится окно подтверждения стирания контакта из общей базы:</p>
+  
+    <p><img src="cid:resources/res143/cWjfR.OzPcu.delete.png" width="319" height="159"  /></p>
+  
+    <p>Подтвердите свое решение, нажав <b>Удалить контакт</b>.</p>
+  
+    <p>О том, как добавить контакт, рассказано в уроке <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&amp;LESSON_ID=2341" >Добавить контакт</a>.</p>
+  </li>
+</ul>
+
+<br />
+
+<a name="company_profile"></a>
+<h3>Профиль компании</h3>
+
+<p>Профиль компании представлен четырьмя вкладками: <b>Компания</b>, <b>Контакты</b>, <b>Сделки</b>, <b>События</b>. Активная в данный момент вкладка подсвечивается более темным цветом.</p>
+
+<a name="company_vkladka"></a>
+<h4>Вкладка Компания</h4>
+
+
+<p>На данной вкладке представлена основная информация о компании, контактные данные, а также дополнительная информация, аналогично вкладке <a href="#cont" >Контакт</a> профиля контакта.</p>
+
+<p><img src="cid:resources/res143/ts0WU.k2l9e.company.png" width="741" height="474"  /></p>
+
+<a name="сont_vkladka"></a>
+<h4>Вкладка Контакты</h4>
+
+
+<p>Здесь представлен список контактов, причисленных к данной компании:</p>
+
+<p><a href="javascript:ShowImg('/images/portal_user/crm/kontakts2.png',783,293,Вкладка Контакты')" ><img height="224" border="0" width="600" src="cid:resources/res143/jMiET.fucoO.kontakts2_sm2.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;"  /></a> </p>
+
+<p>Цифра в скобочках заголовка вкладки указывает, сколько контактов представлено этой компанией.</p>
+
+<p>Ссылки в столбцах <b>Имя</b> и <b>Фамилия</b> ведут на страницу профиля контакта.</p>
+
+<p>Щелчок по ссылке в столбце <b>Компания</b> направит вас на первую вкладку профиля компании.</p>
+
+<p>Кликните по ссылке в столбце <b>Рабочий E-mail</b>, если хотите написать письмо этому контакту. Запустится ваш почтовый клиент, и в адресе получателя будет e-mail этого контакта. </p>
+
+<a name="deal_vkladka"></a>
+<h4>Вкладка Сделки</h4>
+
+<p>На данной вкладке расположен список сделок, совершаемыхзаключенных с компанией:</p>
+
+<p><a href="javascript:ShowImg('/images/portal_user/crm/sdelki.png',1080,216,'Вкладка Сделки')" ><img height="120" border="0" width="600" src="cid:resources/res143/q1lUi.hljm6.sdelki_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;"  /></a> </p>
+
+<p>Цифра в скобочках заголовка вкладки указывает, сколько сделок представлено этой компанией.</p>
+
+<p>Щелчок по ссылке в столбце <b>Название</b> направит вас на страницу профиля сделки.</p>
+
+<p>О значении столбцов таблицы вкладки <b>Сделки</b> подробнее смотрите в уроке <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2405">Добавить сделку</a></p>
+
+<a name="events_vkladka"></a>
+<h4>Вкладка События</h4>
+
+
+<p>На данной вкладке приведены события, добавленные к компании, а также связанные с ней:</p>
+
+<p><a href="javascript:ShowImg('/images/portal_user/crm/events2.png',806,296,'Вкладка Компания')" ><img height="220" border="0" width="600" src="cid:resources/res143/CTpxZ.6Ap5Z.events2_sm2.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;"  /></a> </p>
+
+<p>Цифра в скобочках заголовка вкладки указывает, сколько событий отмечено для этой компании.</p>
+
+<p>Щелчок по ссылке в столбце <b>Автор</b> направит вас на страницу профиля автора сделки.</p>
+
+<p></p>
+
+<div class="hint"><b>Примечание</b>: просмотр некоторых профилей может быть вам недоступен, в таком случае обратитесь к администратору.</div>
+
+<p></p>
+
+<p>О значении столбцов таблицы вкладки <b>События</b> подробнее смотрите в уроке <a href="https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&CHAPTER_ID=869">События</a>.</p>
+
+<a name="panel_vkladka"></a>
+<h4>Контекстная панель</h4>
+
+
+<p>Контекстная панель профиля компании аналогична таковой для <a href="#kontekst_panel" >профиля контакта</a>.</p>
+<br>
+
+<a name="deal_profile"></a>
+<h3>Профиль Сделки</h3>
+
+
+<p>Вкладки профиля <b>Сделки</b> аналогичны таковым для профилей <b>Контакта</b> и <b>Компании</b>.</p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>153</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

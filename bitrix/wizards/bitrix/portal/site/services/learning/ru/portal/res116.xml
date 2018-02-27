@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>120</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Обучение</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Раздел <b>Обучение</b> портала позволяет организовать обучение сотрудников посредством учебных курсов.</p> 
+
+<p>По умолчанию в разделе представлены обучающие курсы по различным направлениям, например <b>Курс для новых сотрудников</b> и <b>Курс по работе с порталом</b>:</p>
+
+<p><img height="354" border="0" width="670" src="cid:resources/res116/jeRp8.0RDGk.learning_1.png" /></p>
+
+<p>Каждый учебный курс состоит из цикла уроков, некоторые уроки могут быть объединены в главы:</p>
+
+<p><img height="354" border="0" width="670" src="cid:resources/res116/rn9tA.YBjXo.learning_2.png" /></p>
+
+<p>В курс также могут быть включены тесты для самопроверки и итоговые сертификационные тесты, позволяющие проверить полученные знания и после успешного тестирования получить сертификат.</p>
+
+<p><img height="354" border="0" width="670" src="cid:resources/res116/ZXtn0.hj7AJ.learning_3.png" /></p>
+
+<p>Результаты вашего тестирования и полученные сертификаты можно просмотреть на страницах <b>Журнал обучения</b> и <b>Мои сертификаты</b> соответственно.</p>
+
+<div class="hint"><b>Примечание</b>: создание и редактирование курсов возможно для пользователя с уровнем прав не ниже Администратор КП.</div>
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>120</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

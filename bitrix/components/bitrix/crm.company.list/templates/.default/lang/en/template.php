@@ -1,0 +1,35 @@
+<?
+$MESS["CRM_ALL"] = "Total";
+$MESS["CRM_COMPANY_SHOW_TITLE"] = "View Company";
+$MESS["CRM_COMPANY_SHOW"] = "View";
+$MESS["CRM_COMPANY_EDIT_TITLE"] = "Edit Company";
+$MESS["CRM_COMPANY_EDIT"] = "Edit";
+$MESS["CRM_COMPANY_COPY_TITLE"] = "Copy Company";
+$MESS["CRM_COMPANY_COPY"] = "Copy Company";
+$MESS["CRM_COMPANY_DELETE_TITLE"] = "Delete Company";
+$MESS["CRM_COMPANY_DELETE"] = "Delete";
+$MESS["CRM_COMPANY_EVENT_TITLE"] = "Add new event";
+$MESS["CRM_COMPANY_EVENT"] = "Add Event";
+$MESS["CRM_COMPANY_TASK_TITLE"] = "New Task";
+$MESS["CRM_COMPANY_TASK"] = "New Task";
+$MESS["CRM_COMPANY_SUBSCRIBE_TITLE"] = "Send message";
+$MESS["CRM_COMPANY_SUBSCRIBE"] = "Send message";
+$MESS["CRM_COMPANY_CONTACT_ADD_TITLE"] = "Add New Contact";
+$MESS["CRM_COMPANY_CONTACT_ADD"] = "Add Contact";
+$MESS["CRM_COMPANY_DEAL_ADD_TITLE"] = "Add New Deal";
+$MESS["CRM_COMPANY_DEAL_ADD"] = "Add Deal";
+$MESS["CRM_COMPANY_DELETE_CONFIRM"] = "Are you sure you want to delete it?";
+$MESS["CRM_STATUS_INIT"] = "- Status -";
+$MESS["CRM_COMPANY_CALENDAR_TITLE"] = "Add new record to calendar";
+$MESS["CRM_COMPANY_CALENDAR"] = "Add call or event";
+$MESS["CRM_COMPANY_BIZPROC_TITLE"] = "Business Process";
+$MESS["CRM_COMPANY_BIZPROC"] = "Business Process";
+$MESS["CRM_COMPANY_BIZPROC_LIST_TITLE"] = "Run new business process";
+$MESS["CRM_COMPANY_BIZPROC_LIST"] = "New business process";
+$MESS["CRM_COMPANY_ADD_EMAIL_TITLE"] = "Send message";
+$MESS["CRM_COMPANY_ADD_EMAIL"] = "Send message";
+$MESS["CRM_COMPANY_ADD_CALL_TITLE"] = "Create a new call";
+$MESS["CRM_COMPANY_ADD_CALL"] = "New call";
+$MESS["CRM_COMPANY_ADD_MEETING_TITLE"] = "Create a new meeting";
+$MESS["CRM_COMPANY_ADD_MEETING"] = "New meeting";
+?>

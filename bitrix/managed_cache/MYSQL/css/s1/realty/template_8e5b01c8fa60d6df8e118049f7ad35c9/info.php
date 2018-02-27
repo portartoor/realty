@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/bitrix/templates/realty/template_styles.css" => "151972746432072",), 'CUR_SEL_CNT' => '314', 'CUR_IE_CNT' => '0'); ?>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>77</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>600</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Кадровые изменения</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>С помощью средств системы, на странице <b>Кадровые изменения</b> отображаются все кадровые изменения и перестановки сотрудников в рамках компании. Если в карьере сотрудника произошло изменение, то на странице отображается его визитная карточка с датой и типом кадрового изменения:</p>
+<p><img src="cid:resources/res68/6Cnb1.fmAjp.personal_change.png" width="703" height="379"></p>
+
+<p>Вы можете просматривать произошедшие кадровые перестановки не все сразу, а для отдельно взятого подразделения. Для этого с помощью выпадающего списка, нажав на <img src="cid:resources/res68/X5HJT.qRWtz.down.png" width="20" height="22">, укажите подразделение, и нажмите кнопку <b>Найти</b>:</p>
+<p><img src="cid:resources/res68/y8vpf.eppad.find_podrazd.png" width="260" height="127"></p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>600</edge_sort>
+<id>77</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

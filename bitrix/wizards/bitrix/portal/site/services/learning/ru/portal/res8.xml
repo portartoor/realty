@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>24</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>200</sort>
+<timestamp_x>1422877378</timestamp_x>
+<date_create>1422877378</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Панель управления</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Панель управления всегда располагается вверху окна браузера и видна только авторизованным сотрудникам, обладающим достаточным уровнем прав для управления контентом портала. У сотрудника могут быть разные права на разные разделы. Поэтому панель может быть видна на одних страницах и не видна на других. Так же в зависимости от прав сотрудника, будут отображаются на Панели управления только те функции, которые соответствуют этому уровню прав. Часть кнопок отображается на Панели управления только если открыта страница с определенными компонентами.</p>
+ 
+<p>Панель может быть зафиксирована вверху экрана с помощью кнопки в правом верхнем углу: <img src="cid:resources/res8/yM8g1.yU43f.panel_fix.png" width="17" border="0" height="19"  /></p>
+ 
+<p>Панель управления имеет:</p>
+ 
+<ul> 
+  <li>кнопку <b>Меню</b>;</li>
+ 
+  <li>закладки <b>Сайт</b> и <b>Администрирование</b>;</li>
+ 
+  <li>индикатор <b>Обновления</b>, отображается только при наличии свежих обновлений;</li>
+ 
+  <li>индикатор авторизованного пользователя, нажав на который можно перейти к странице редактирования свойств пользователя;</li>
+ 
+  <li>ссылку <b>Выйти</b>;</li>
+ 
+  <li>кнопку фиксации панели.</li>
+ </ul>
+ 
+<h4>Закладка Сайт</h4>
+ 
+<p>Закладка <img src="cid:resources/res8/D7Kas.WAyhN.sait_95.png" width="67" border="0" height="27" alt="Закладка Сайт" /> - инструмент для работы с контентом портала, настройки компонентов, выполнения других операций по работе.</p>
+ 
+<table cellspacing="0" cellpadding="0"> 		 
+  <tbody> 
+    <tr bgcolor="white"> <td bgcolor="#8c8c8c"> 		 
+        <table cellspacing="1" cellpadding="5"> 			 
+          <tbody> 
+            <tr bgcolor="silver"><td colspan="3"><b>Команды закладки Сайт</b> </td></tr>
+           			 
+            <tr bgcolor="white"><td align="center" rowspan="2"><img height="71" width="67" border="0" src="cid:resources/res8/0Si5h.sFlx2.add_page_95.png"  /></td> <td>Иконка <b>Создать страницу</b></td> <td>Создание страниц с помощью мастера.</td> </tr>
+           			 
+            <tr bgcolor="white"> <td>Меню <b>Создать страницу</b></td><td>Нажмите на эту кнопку, чтобы запустить мастер или шаблон создания страниц. С помощью этих мастеров, можно создать страницу, в том числе через документооборот, последовательно внося данные на каждом шаге мастера. </td> </tr>
+           			 
+            <tr bgcolor="#eeeeee"><td align="center" rowspan="2"><img height="71" width="56" border="0" src="cid:resources/res8/cAtjB.hS7cB.add_section_95.png"  /></td><td>Иконка <b>Создать раздел</b></td> 	<td>Создание разделов с помощью мастера.</td> </tr>
+           		 			 
+            <tr bgcolor="#eeeeee"> <td>Меню <b>Создать раздел</b></td> <td>Нажмите на эту кнопку, чтобы запустить мастер или шаблон создания разделов. С помощью этих мастеров, можно создать раздел, последовательно внося данные на каждом шаге мастера.</td> </tr>
+           			 
+            <tr bgcolor="white"> <td align="center" rowspan="2"><img height="69" width="65" border="0" src="cid:resources/res8/BDA69.b9h0O.change_str.png"/></td><td>Иконка <b>Изменить страницу</b></td> <td>Изменение содержимого страницы. </td> </tr>
+           			 
+            <tr bgcolor="white"> <td>Меню <b>Изменить страницу</b></td> <td>Нажмите на эту кнопку, чтобы вызвать диалог редактирования страницы, в том числе через документооборот, просмотреть историю изменений страницы, изменить свойства страницы, ограничить доступ к ней.</td> </tr>
+           
+            <tr bgcolor="#eeeeee"> <td align="center" rowspan="2"><img height="69" width="58" border="0" src="cid:resources/res8/UcAa2.uCrkH.change_razdel.png"/></td><td>Иконка <b>Изменить раздел</b></td> <td>Изменение свойств раздела.</td> </tr>
+           			 
+            <tr bgcolor="#eeeeee"> <td>Меню <b>Изменить раздел</b></td> <td>Нажмите на эту кнопку, чтобы изменить свойства раздела и ограничить доступ к нему.</td> </tr>
+           			 
+            <tr bgcolor="white"> <td align="center"><img height="24" width="69" border="0" src="cid:resources/res8/oOM7t.06TW2.menu_95.png"  /></td> <td>Кнопка <b>Меню</b></td> <td>Вызов формы редактирования меню сайта. Нажмите на стрелку, чтобы отредактировать все меню открытой на данный момент страницы или создать новое меню на странице.</td> </tr>
+           			 
+            <tr bgcolor="#eeeeee"> <td align="center"><img height="24" width="95" border="0" src="cid:resources/res8/3AL71.XmeeX.structure_95.png"  /></td> <td>Кнопка <b>Структура</b></td> <td>Вызов диалога <b>Структура сайта</b> с возможностью добавления, редактирования, перемещения, удаления, изменения свойств разделов и страниц.</td> </tr>
+           			 
+               			 			 
+                     
+                     			 
+            <tr bgcolor="white"> <td align="center"><img height="24" width="104" border="0" src="cid:resources/res8/lxsGG.BYDhZ.component_95.png"  /></td> <td>Кнопка <b>Компоненты</b></td> <td>Выбор компонента для редактирования его параметров. Активна только при включенном режиме <b>Правка</b>.</td> </tr>
+           			 
+                      
+            <tr bgcolor="#eeeeee"> <td align="center"><img height="24" width="101" border="0" src="cid:resources/res8/9a3S0.yf9vY.statistic_95.png"  /></td> <td>Кнопка <b>Статистика</b></td> <td>Просмотр графика посещаемости страницы или статистики переходов.</td> </tr>        
+                  
+                     			 
+                     			 
+                     			 			 
+            <tr bgcolor="white"> <td align="center"><img height="42" width="77" border="0" src="cid:resources/res8/UpDfI.6T4lx.edit_mode_95.png"/></td> <td>Переключатель <b>Режим правки</b></td> <td>Включение режима контекстного редактирования сайта. При включенном режиме наведите курсор на выбранный блок информации и используйте всплывающие панели инструментов.</td> </tr>
+           
+            <tr bgcolor="#eeeeee"> <td align="center"><img height="15" width="63" border="0" src="cid:resources/res8/0UF8m.1Errv.hide_95.png"  /></td> <td>Переключатель <b>Свернуть/Развернуть</b></td> <td>Перевод панели в свернутый или развернутый вид.</td> </tr>
+           </tbody>
+         </table>
+       		</td></tr>
+   </tbody>
+ </table>
+ 
+
+
+
+<h4>Индикатор авторизованного пользователя</h4>
+ 
+<p><img src="cid:resources/res8/lAlA8.NwTBT.ivan.png" width="127" border="0" height="31" alt="Индикатор авторизованного пользователя и ссылка Выйти"  /></p>
+ 
+<p>Индикатор авторизованного пользователя позволяет в один клик перейти к форме настройки параметров аккаунта пользователя. Ссылка <b>Выйти</b> завершает работу системы под правами авторизованного пользователя.</p>
+ 
+<h4>Свернутый режим панели</h4>
+
+<p><a href="javascript:ShowImg('/images/portal_user/interface/svernul.png',1068,196,'Свернутый режим панели')">
+<img height="119" border="0" width="650" src="cid:resources/res8/35JuU.8M0fG.svernul_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;"/></a>
+</p>
+
+<p>Свернутый режим работы позволяет освободить экранное пространство за счет уменьшения размера панели. Свернутый режим сохраняет часть управленческих функций. Можно включить или выключить <b>Режим правки</b>.</p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>200</edge_sort>
+<id>24</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

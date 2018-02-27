@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<REQUESTS_CLOSE><item><UF_ID>000083679</UF_ID><UF_AGENT>dad08510-03ac-11e5-2095-005056a97139</UF_AGENT><UF_DATE_CLOSE>03.12.2016 01:40:22</UF_DATE_CLOSE><UF_CLOSE_REASON>000000007</UF_CLOSE_REASON><UF_COMMENT/><answer_1c_Exception>SoapFault exception: [HTTP] Forbidden in /var/www/clients/client2/web3/web/bitrix/php_interface/init.php:42
+Stack trace:
+#0 [internal function]: SoapClient-&gt;__doRequest('&lt;?xml version="...', 'http://web1c.in...', 'http://127.0.0....', 1, 0)
+#1 /var/www/clients/client2/web3/web/bitrix/php_interface/init.php(42): SoapClient-&gt;__call('CloseOrder', Array)
+#2 /var/www/clients/client2/web3/web/cron/syn_1c.php(176): SoapPortalInvent-&gt;CloseApplication('PD94bWwgdmVyc2l...')
+#3 /var/www/clients/client2/web3/web/cron/syn_1c.php(60): Syn1c-&gt;SendRequestsClose()
+#4 /var/www/clients/client2/web3/web/cron/syn_1c.php(500): Syn1c-&gt;Run()
+#5 {main}</answer_1c_Exception></item></REQUESTS_CLOSE>

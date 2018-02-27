@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<REQUESTS_STATUS><item><UF_ID>000091171</UF_ID><UF_AGENT></UF_AGENT><UF_DATE_CREATE>26.09.2016 15:43:50</UF_DATE_CREATE><UF_CATEGORY></UF_CATEGORY><UF_COMMENT></UF_COMMENT><answer_1c_Exception>SoapFault exception: [soap:Client] Unknown error. {WebСервис.WS.Модуль(343)}: Error calling constructor (УникальныйИдентификатор)
+reason:
+{WebСервис.WS.Модуль(343)}: Error calling constructor (УникальныйИдентификатор)
+reason:
+Invalid parameter value (parameter number '1') in /var/www/admin/data/www/portal.invent-realty.ru/bitrix/php_interface/init.php:45
+Stack trace:
+#0 /var/www/admin/data/www/portal.invent-realty.ru/bitrix/php_interface/init.php(45): SoapClient-&gt;__call('ChangeCategory', Array)
+#1 /var/www/admin/data/www/portal.invent-realty.ru/bitrix/php_interface/init.php(45): SoapClient-&gt;ChangeCategory(Array)
+#2 /var/www/admin/data/www/portal.invent-realty.ru/cron/syn_1c.php(122): SoapPortalInvent-&gt;ChangeCategoryApplication('PD94bWwgdmVyc2l...')
+#3 /var/www/admin/data/www/portal.invent-realty.ru/cron/syn_1c.php(59): Syn1c-&gt;SendRequestsStatus()
+#4 /var/www/admin/data/www/portal.invent-realty.ru/cron/syn_1c.php(471): Syn1c-&gt;Run()
+#5 {main}</answer_1c_Exception></item></REQUESTS_STATUS>

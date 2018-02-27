@@ -1,0 +1,1 @@
+BX.namespace('Tasks.component.task.list');

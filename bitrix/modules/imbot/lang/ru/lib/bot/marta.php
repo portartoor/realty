@@ -1,0 +1,33 @@
+<?
+$MESS["IMBOT_BOT_NAME"] = "Марта";
+$MESS["IMBOT_BOT_COLOR"] = "PINK";
+$MESS["IMBOT_BOT_GENDER"] = "F";
+$MESS["IMBOT_BOT_BIRTHDAY"] = "1992-03-02";
+$MESS["IMBOT_BOT_EMAIL"] = "support@bitrix24.ru";
+$MESS["IMBOT_BOT_SITE"] = "http://bitrix24.ru";
+$MESS["IMBOT_BOT_WORK_POSITION"] = "Ваш личный помощник";
+$MESS["IMBOT_BOT_WELCOME_MESSAGE"] = "Я - ваш виртуальный личный помощник. Буду помогать вам осваивать сервис. [br] А ещё со мной можно просто поговорить. [br] Пишите, я всегда здесь :)";
+$MESS["IMBOT_BOT_WELCOME_MESSAGE_CHAT"] = "Я - виртуальный личный помощник. Буду помогать вам осваивать сервис. [br] Чтобы я ответила в чате, упомяните меня в сообщении или кликните на мой аватар :)";
+$MESS["IMBOT_BOT_WELCOME_MESSAGE_LINES"] = "Я - виртуальный личный помощник. [br] Чем я могу вам помочь? :) [br] Для соединения с оператором [send=0]отправьте цифру 0[/send].";
+$MESS["IMBOT_BOT_WELCOME_NEW_B24"] = "Спасибо, что создали свой Битрикс24!";
+$MESS["IMBOT_BOT_WELCOME_LINES_REDIRECT"] = "Хорошо, перевожу вас на оператора![br] Пока вы ожидаете ответа, я могу вам чем нибудь помочь? :)";
+$MESS["IMBOT_BOT_WELCOME_NEW_USER"] = "Добро пожаловать в Битрикс24!";
+$MESS["IMBOT_BOT_WELCOME_AUTH_USER"] = "Добрый день, #USER_NAME#! Теперь у вас есть я!";
+$MESS["IMBOT_BOT_MESSAGE_HELLO_DAY"] = "Добрый день, #USER_NAME#!";
+$MESS["IMBOT_BOT_MESSAGE_HELLO_EVENING"] = "Добрый вечер, #USER_NAME#!";
+$MESS["IMBOT_BOT_MESSAGE_HELLO_MORNING"] = "Доброе утро, #USER_NAME#!";
+$MESS["IMBOT_BOT_MESSAGE_CALEND_1_1"] = "Сегодня у вас запланировано:";
+$MESS["IMBOT_BOT_MESSAGE_CALEND_1_2"] = "Не забудьте, сегодня у вас по плану:";
+$MESS["IMBOT_BOT_MESSAGE_CALEND_1_3"] = "Не пропустите сегодня:";
+$MESS["IMBOT_BOT_MESSAGE_CALEND_1_4"] = "Напоминаю, у вас сегодня:";
+$MESS["IMBOT_BOT_MESSAGE_CALEND_2"] = "Сегодня у вас не запланировано событий.";
+$MESS["IMBOT_BOT_MESSAGE_CALEND_3"] = "c #TIME_1# по #TIME_2#";
+$MESS["IMBOT_BOT_MESSAGE_CALEND_4"] = "весь день";
+$MESS["IMBOT_BOT_MESSAGE_TASKS_1"] = "#URL_START# #TASKS_COUNT# задача#URL_END# требует вашей реакции.";
+$MESS["IMBOT_BOT_MESSAGE_TASKS_2"] = "#URL_START# #TASKS_COUNT# задачи#URL_END# требуют вашей реакции.";
+$MESS["IMBOT_BOT_MESSAGE_TASKS_3"] = "Обратите внимание на эти #URL_START# #TASKS_COUNT# задач#URL_END#.";
+$MESS["IMBOT_BOT_MESSAGE_NEW_1"] = "А у нас появились команды! Доступны они в любом чате в поле ввода текста :)";
+$MESS["IMBOT_BOT_CHANGE_LANG"] = "Теперь я говорю по-русски :{}";
+$MESS["IMBOT_BOT_ENABLE_WELCOME"] = "Ураа! Спасибо #USER_NAME#! Я не подведу :{} https://marta.bitrix.info/upload/enable.gif";
+$MESS["IMBOT_BOT_DISABLE_WELCOME"] = "Очень жаль #USER_NAME#... Я просто хотела тебе помочь :cry: https://marta.bitrix.info/upload/disable.gif";
+?>

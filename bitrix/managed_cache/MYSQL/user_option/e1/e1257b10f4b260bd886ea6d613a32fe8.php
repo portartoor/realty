@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001519733262';
+$dateexpire = '001519736862';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:4:{s:14:"gant_performed";b:1;s:20:"task_edit_form_state";s:776:"a:2:{s:6:"BLOCKS";a:16:{s:12:"SE_CHECKLIST";a:1:{s:1:"C";b:0;}s:13:"SE_ORIGINATOR";a:1:{s:1:"C";b:0;}s:10:"SE_AUDITOR";a:1:{s:1:"C";b:0;}s:13:"SE_ACCOMPLICE";a:1:{s:1:"C";b:0;}s:9:"DATE_PLAN";a:1:{s:1:"C";b:0;}s:7:"OPTIONS";a:1:{s:1:"C";b:0;}s:10:"SE_PROJECT";a:1:{s:1:"C";b:0;}s:7:"TIMEMAN";a:1:{s:1:"C";b:0;}s:11:"SE_REMINDER";a:1:{s:1:"C";b:0;}s:11:"SE_TEMPLATE";a:1:{s:1:"C";b:0;}s:20:"SE_PROJECTDEPENDENCE";a:1:{s:1:"C";b:0;}s:11:"UF_CRM_TASK";a:1:{s:1:"C";b:0;}s:13:"SE_PARENTTASK";a:1:{s:1:"C";b:0;}s:6:"SE_TAG";a:1:{s:1:"C";b:0;}s:11:"USER_FIELDS";a:1:{s:1:"C";b:0;}s:14:"SE_RELATEDTASK";a:1:{s:1:"C";b:0;}}s:5:"FLAGS";a:5:{s:19:"ALLOW_TIME_TRACKING";b:0;s:12:"TASK_CONTROL";b:1;s:21:"ALLOW_CHANGE_DEADLINE";b:0;s:15:"MATCH_WORK_TIME";b:0;s:15:"FORM_FOOTER_PIN";b:0;}}";s:9:"task_list";a:2:{s:17:"enable_gantt_hint";s:1:"N";s:20:"enable_viewmode_hint";s:1:"N";}s:25:"tasks_component_ufp_state";s:77:"a:2:{i:86;a:2:{s:1:"D";b:1;s:1:"S";i:1;}i:293;a:2:{s:1:"D";b:1;s:1:"S";i:2;}}";}}';
+return true;
+?>

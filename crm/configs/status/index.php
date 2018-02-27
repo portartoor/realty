@@ -1,0 +1,10 @@
+<?
+require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetTitle("Справочники");
+?><?$APPLICATION->IncludeComponent(
+	"bitrix:crm.config.status",
+	"",
+	Array(
+	),
+false
+);?><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

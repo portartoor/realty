@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>33</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>300</sort>
+<timestamp_x>1422877378</timestamp_x>
+<date_create>1422877378</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Группы</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>В разделе <b>Группы</b> показаны все группы, в которых вы состоите:</p>
+
+<p><a href="javascript:ShowImg('/images/portal_user/personal_page/groups/all_user_groups.png',849,568,'Группы сотрудника')"><img style="cursor: pointer;" alt="Нажмите на рисунок, чтобы увеличить" src="cid:resources/res33/dMdXU.gPlK5.all_user_groups_sm.png" border="0" height="401" width="600"></a></p>
+
+<p><div class="hint"><b>Примечание:</b> Если у вас достаточно прав, то вам будут доступны дополнительные кнопки управления группами.
+<p><a href="javascript:ShowImg('/images/portal_user/personal_page/groups/group_controls.png',927,402,'Дополнительные кнопки управления группам')"><img style="cursor: pointer;" alt="Нажмите на рисунок, чтобы увеличить" src="cid:resources/res33/rN1aC.GHXjy.group_controls_sm.png" border="0" height="260" width="600"></a></p>
+</div></p>
+
+
+<p>При клике на картинку или название группы откроется <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2306">страница группы</a>. 
+
+<p><a href="javascript:ShowImg('/images/portal_user/personal_page/groups/group_page_user.png',889,591,'Вид страницы группы для обычного сотрудника')"><img style="cursor: pointer;" alt="Нажмите на рисунок, чтобы увеличить" src="cid:resources/res33/2G4KF.1fUKJ.group_page_user_sm.png" border="0" height="399" width="600"></a></p>
+
+<p><div class="hint"><b>Примечание:</b> Если у вас достаточно прав, то вам будут доступны дополнительные элементы управления группой.
+<p><a href="javascript:ShowImg('/images/portal_user/personal_page/groups/group_page_admin.png',930,596,'Вид страницы группы для сотрудника с расширенными правами')"><img style="cursor: pointer;" alt="Нажмите на рисунок, чтобы увеличить" src="cid:resources/res33/ZOft9.wm6nr.group_page_admin_sm.png" border="0" height="385" width="600"></a></p>
+</div></p>
+
+
+
+<br>
+
+
+
+<p><b>Вступление в группу</b></p>
+
+
+<p>Если какой-нибудь сотрудник отправит вам приглашение на вступление в группу, то вы увидите уведомление и получите соответствующее сообщение.</p>
+
+ <p><a href="javascript:ShowImg('/images/portal_user/personal_page/friends/messages_popup.png',1064,193,'Новые сообщения')">
+<img src="cid:resources/res33/msbsD.aveUN.messages_popup_sm.png" alt="Нажмите на рисунок, чтобы увеличить" border="0" height="120" width="660"></a></p>
+
+<p><img src="cid:resources/res33/cb1Ny.3m0i2.group_invite_from_user.png" alt="Приглашение вступить в группу" border="0" height="247" width="534"></p> 
+
+
+
+
+<br>
+
+
+<p><div class="hint"><b>Примечание:</b> Подробная информация о рабочих группах находится в главе <a href="/learning/course/index.php?COURSE_ID=45&CHAPTER_ID=790">Группы</a>.</div></p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>300</edge_sort>
+<id>33</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

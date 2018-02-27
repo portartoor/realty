@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>88</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>200</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Работа с документами в веб-браузере</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<ul>
+   <li><a href="#newfolder">Создание папки</a></li>
+   <li><a href="#delfolder">Удаление папки</a></li>
+   <li><a href="#upload">Загрузка документов</a></li>
+   <li><a href="#edit">Изменение свойств документа</a></li>
+   <li><a href="#bizproc">Запуск бизнес-процесса</a></li>
+   <li><a href="#history">История изменений</a></li>
+   <li><a href="#delete">Удаление документов</a></li>
+   <li><a href="#trash">Работа с Корзиной</a></li>
+   <li><a href="#office">Изменение документов с помощью Microsoft Office</a></li>
+</ul>
+
+<h4><a name="newfolder"></a>Создание папки</h4> 
+
+<p>Для создания папки перейдите на страницу <b>Общие документы</b> (<span class="path">Документы > Общие документы</span>). Нажмите кнопку <b>Создать папку</b>, расположенную на контекстной панели:</p> 
+<p><img src="cid:resources/res78/OKqnq.rPSj7.create_folder_contex_panel_sm.png" width="600" height="28" border="0"/></p> 
+
+<p>Откроется форма создания новой папки:</p> 
+
+<p><img src="cid:resources/res78/zTPfM.8FHvd.add_folder_dialog.png" width="471" height="151" border="0"/></p> 
+
+<p>Введите в поле <b>Название</b> имя создаваемой папки. Нажмите кнопку <b>Сохранить</b>. После перезагрузки страницы созданная папка отобразится в таблице элементов:</p> 
+
+<p><img src="cid:resources/res78/aiRAO.OSzJR.folder_results_sm1.png" width="600" height="422" border="0"/></p> 
+
+
+<br />
+<h4><a name="delfolder"></a>Удаление папки</h4> 
+
+<p>Для удаления папки нажмите на кнопку <b>Действия</b> <img src="cid:resources/res78/ewYHB.gIY3B.action_button.png" width="30" height="26" border="0"/> в строке с папкой, которую нужно удалить. Выберите действие <b>Удалить</b> в выпадающем списке:</p> 
+
+<p><img src="cid:resources/res78/tUTcP.GnMXv.delete_folder.png" width="284" height="217" border="0"/></p> 
+
+<p>Система переспросит подтверждение на удаление и после согласия произведет удаление папки вместе с содержимым в <b>Корзину</b>.</p> 
+
+
+
+
+<br />
+<h4><a name="upload"></a>Загрузка документов</h4> 
+
+<p>Для выполнения загрузки документов перейдите в папку, в которую необходимо загрузить документы. Нажмите кнопку <b>Загрузить</b>, расположенную на контекстной панели:</p> 
+
+<p><img src="cid:resources/res78/7pYky.VSAbj.load_contex_panel_sm.png" width="600" height="28" border="0"/></p> 
+
+<p>Откроется форма для загрузки одиночного файла:</p>
+<p><img src="cid:resources/res78/JdaTJ.am0Tn.load_form1_sm.png" width="600" height="473" border="0"/></p>
+<p>Нажатием кнопки <b>Обзор...</b> выберете нужный файл для загрузки, при необходимости заполните свойства документа, и нажмите кнопку <b>Загрузить</b> </p> 
+<p><div class="hint"><b>Примечание: </b>Если необходимо загрузить несколько документов за один раз, то нажмите ссылку <b>Загрузить несколько документов</b>. Откроется форма для мультизагрузки документов с 3 видами загрузки: 
+<ul> 
+<li><b>обычный</b> - позволяет выполнить пофайловую загрузку документов из различных директорий (кнопка <b>Добавить файлы</b>) или загрузить документы какой-нибудь папки (кнопка <b>Добавить папку</b>);</li> 
+<li><b>классический</b> - служит для загрузки документов из определенной директории;</li> 
+<li><b>простой</b> - используется для индивидуальной загрузки каждого документа.</li> 
+</ul> 
+
+<p>Выберите подходящий вам вид формы и укажите документы, которые должны быть загружены.</p> 
+
+<p><img src="cid:resources/res78/KulKO.kGWEQ.load_form2_sm.png" width="600" height="500" border="0"/></p></div></p> 
+
+<p>Нажмите кнопку <b>Загрузить</b>. Начнется процесс загрузки файлов, прогресс которого будет отображаться графическим индикатором:</p> 
+
+<p><img src="cid:resources/res78/ECFtO.B4VPS.load_files.png" width="400" height="177" border="0"/></p> 
+
+<p>Загруженные документы будут отображены в общем списке документов папки:</p> 
+
+<p><img src="cid:resources/res78/O7062.T4nWS.load_files_complete_sm.png" width="600" height="219" border="0"/></p> 
+
+
+<br />
+<h4><a name="edit"></a>Изменение свойств документа</h4> 
+
+<p>Для изменения свойств документа нажмите на кнопку <b>Действия</b> <img src="cid:resources/res78/bYAU3.D7h6x.action_button.png" width="30" height="26" border="0"/> в строке с документом, выберите <b>Свойство и описание</b>:</p>
+ 
+<p><img src="cid:resources/res78/zNJPZ.DZ7rS.edit_file.png" width="372" height="373" border="0"/></p> 
+
+<p>В открывшейся форме можно изменить свойства документа:</p> 
+
+<p><img src="cid:resources/res78/xs0oT.PFMRE.element_edit_sm.png" width="600" height="363" border="0"/></a></p> 
+<ul> 
+  <li>изменить название <b>Файла</b>;</li>
+  <li><b>Скачать</b> файл;</li>
+  <li><b>открыть</b> файл в соответствующей программе, нажав на ссылку имени файла;
+<p><div class="hint"><b>Примечание: </b>Если на компьютере установлен MS Office 2003 и выше и файл поддерживается в нем, то будет доступна кнопка <b>Редактировать в MS Office</b>, при нажатии которой файл откроется для редактирования в соответствующей программе из пакета MS Office. </div></p></li> 
+  <li>указать <b>Папку</b> размещения файла;</li>
+  <li>указать <b>Теги</b> - ключевые слова для поиска;</li>
+  <li>задать <b>Описание</b> файла;</li>
+  <li>заменить файл, нажав на кнопку <b>Загрузить новую копию</b> и указав путь для загрузки нового файла в появившемся окне.</li>  
+</ul> 
+<p>Нажмите кнопку <b>Сохранить изменения</b>.</p> 
+
+<br />
+<h4><a name="bizproc"></a>Запуск бизнес-процесса</h4> 
+
+<p>Для запуска бизнес-процесса нажмите на кнопку <b>Действия</b> <img src="cid:resources/res78/SzKp6.tdEoR.action_button.png" width="30" height="26" border="0"/> в строке с документом, выберите пункт меню <b>Новый бизнес-процесс</b> и шаблон бизнес-процесса:</p> 
+
+<p><img src="cid:resources/res78/ke70H.EIkUC.new_bizproc_sm.png" width="600" height="409" border="0"/></p> 
+
+<p>Откроется страница <b>Запуск бизнес-процесса</b>, позволяющая задать параметры бизнес-процесса и запустить его.</p> 
+
+
+<p><div class="hint"><b>Примечание</b>: Элементы управления, связанные с бизнес-процессами, могут отсутствовать, если администратор системы не разрешил использование данного функционала.</div></p> 
+
+<p><div class="hint"><b>Примечание</b>: подробную информацию о бизнес-процессах см. главу <a href="/learning/course/index.php?COURSE_ID=45&CHAPTER_ID=819" target="_blank" />Бизнес-процессы</a>.</div></p> 
+
+
+<p>Для перехода к управлению шаблонами бизнес-процессов нажмите на кнопку <b>Еще</b>, расположенную на контекстной панели, и выберите <b>Бизнес-процессы</b>:</p> 
+
+<p><img src="cid:resources/res78/ldbjP.0htmZ.bizproc_contex_panel_sm.png" width="600" height="126" border="0"/></p> 
+
+
+<br />
+<h4><a name="history"></a>История изменений</h4> 
+<p>Для просмотра истории изменений документа нажмите на кнопку <b>Действия</b> <img src="cid:resources/res78/fnFfo.uRVJ2.action_button.png" width="30" height="26" border="0"/> в строке с документом и выберите пункт меню <b>История изменений</b>:</p> 
+
+<p><img src="cid:resources/res78/5wF4M.7dFaq.history.png" width="395" height="352" border="0"/></p> 
+
+<p>Откроется страница, содержащая всю историю изменений документа:</p>
+
+<p><img src="cid:resources/res78/ytuTM.4RFcP.doc_history_sm.png" width="600" height="244" border="0" /></a></p>
+
+<p>Используя меню действий, можно восстановить или удалить более раннюю версию документа с помощью пунктов <b>Восстановить</b> или <b>Удалить</b> соответственно.</p>
+
+
+
+
+<br />
+<h4><a name="delete"></a>Удаление документов</h4> 
+
+<p>Для удаления документов нажмите кнопку <b>Действия</b> <img src="cid:resources/res78/MIGde.X3MkO.action_button.png" width="30" height="26" border="0"/> в строке с документом, который нужно удалить. Выберите действие <b>Удалить</b> в выпадающем списке:</p> 
+
+<p><img src="cid:resources/res78/2ycCw.jY6Hu.delete_file.png" width="382" height="353" border="0"/></p> 
+
+<p>Система переспросит подтверждение на удаление и после согласия произведет удаление документа в <b>Корзину</b>.</p>
+
+
+<br />
+<h4><a name="trash"></a>Работа с корзиной</h4> 
+
+<p>После удаления документа он помещается в <b>Корзину</b>, где к имени файла добавляется дата и время удаления: </p>
+<p><img src="cid:resources/res78/W9Zbt.QJq2A.doc_trash1_sm.png" width="600" height="350" border="0"/></p> 
+
+<p>Чтобы восстановить документ из <b>Корзины</b>, необходимо перейти в <b>Корзину</b> с помощью кнопки  <img src="cid:resources/res78/NpVN6.NPAuK.doc_trash_but.png" width="85" height="32" border="0"/>. Затем в меню действий файла выбрать команду <b>Восстановить</b>:</p>
+<p><img src="cid:resources/res78/uQEHD.e7763.doc_trash2_sm.png" width="600" height="379" border="0"/></p>
+<p>После этого документ будет восстановлен в первоначальную папку. </p>
+
+<p>Чтобы очистить корзину, необходимо нажать кнопку <b>Очистить корзину</b> <img src="cid:resources/res78/9kNPm.J5ghQ.doc_clean_trash_but.png" width="155" height="32" border="0"/>. Система выдаст подтверждение на удаление и после согласия произведет очищение <b>Корзины</b>.</p>
+
+<p><div class="warning"><b>Внимание!</b> Для восстановления документа из корзины и очистки корзины необходимо иметь соответствующие права. По умолчанию этот функционал доступен только администратору портала.</div></p>
+
+ 
+<br />
+<h4><a name="office"></a>Изменение документов с помощью Microsoft Office</h4> 
+
+<p>Для редактирования документов в этом режиме у вас на компьютере должен быть установлен <b>Microsoft Office</b> (версия 2003 и выше).</p> 
+
+<p><div class="warning"><b>Важно!</b> Редактирование производится <b>только</b> в <b>Internet Explorer</b> и <b>Mozilla Firefox</b>. В других веб-браузерах пункт меню действий <b>Редактировать в MS Ofiice</b>, а также кнопка <b>Редактировать в MS Ofiice</b> в форме редактирования свойств документа недоступны. Таким образом, при использовании браузеров, отличных от Internet Explorer и Mozilla Firefox, для изменения документа его необходимо предварительно скачать. </div></p> 
+
+<p>Для документов <b>MS Word</b>, <b>MS Excel</b> и <b>MS PowerPoint</b> кликните на название документа.</p>  
+
+<ul>
+<li><b>Internet Explorer</b>:
+<p>В появившемся окне предупреждения нажмите кнопку <b>ОК</b>:</p> 
+<p><img src="cid:resources/res78/EumcM.BkIGc.warning_ie.png" width="497" height="259" border="0"/></p></li>
+
+<li><b>Mozilla Firefox</b>:
+<p><div class="hint"><b>Примечание</b>: Для редактирования документов в Mozilla Firefox используется специальное расширение для Firefox - <b>Интеграция с 1С-Битрикс: Корпоративный портал</b>. При первом открытии документа MS Office потребуется установить это расширение, нажав на кнопку <b>Установить расширение</b>:
+<p><img src="cid:resources/res78/DQkH1.FX1Th.install_ffpl.png" width="550" height="290" border="0"/></p>
+</div></p>
+
+<p>В появившемся окне предупреждения нажмите кнопку <b>Да</b>:</p> 
+<p><img src="cid:resources/res78/djUMJ.D9S9G.warning_ff.png" width="437" height="129" border="0"/></p>
+
+<p>Введите логин и пароль пользователя портала для доступа к документу:</p> 
+<p><img src="cid:resources/res78/o6uls.d7v3p.login_ff.png" width="439" height="253" border="0"/></p> 
+</li>
+</ul>
+<p>Запустится приложение <b>Microsoft Office</b>, соответствущее типу документа.</p> 
+
+<p>Отредактируйте документ. Сохраните и закройте приложение. Изменения будут сохранены на сервере в библиотеке.</p>
+
+
+
+<br /> 
+<p>Пока документ открыт для изменения, он будет заблокирован от изменения другими пользователями.
+В строке с названием документа будет указано кем заблокирован документ:</p> 
+<p><img src="cid:resources/res78/1qgPi.HQFHW.locked_doc_sm.png" width="600" height="115" border="0"/></p>
+
+<p>После сохранения изменений документ автоматически разблокируется.</p>
+
+<p><p><div class="hint"><b>Примечание</b>: Если документ был заблокирован <b>вручную</b> с помощью команды <b>Заблокировать для редактирования</b> меню действий в списке файлов или аналогичной кнопкой в форме редактирования свойств документа, то после внесения изменений файл необходимо также вручную разблокировать. </p>
+<p>Для этого нажмите кнопку <b>Действия</b> <img src="cid:resources/res78/KE1dJ.bOeKF.action_button.png" width="30" height="26" border="0"/> и выберите <b>Разблокировать</b>:
+<p><img src="cid:resources/res78/XHzL8.g4mqr.unlock.png" width="353" height="350" border="0"/></p></li>
+ 
+</div></p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>200</edge_sort>
+<id>88</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

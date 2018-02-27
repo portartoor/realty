@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>135</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Работа с группами</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>В этом уроке рассказано как вступить в группу, следить за ее новостями, отправлять сообщения.</p>
+
+<p>Для взаимодействия с интересующей группой, необходимо перейти к просмотру группы, щелкнув по ее названию или изображению:</p>
+<p><img src="cid:resources/res126/ueW1r.k575K.group.png" width="495" height="116"  /></p>
+
+<p>После щелчка откроется страница профиля группы:</p>
+<p><img src="cid:resources/res126/8DFDq.qLoWq.profile_group.png" width="713" height="404"  /></p>
+
+<p>Справа находится меню взаимодействия с группой.</p>
+
+<p><div class="hint"><b>Примечание:</b> по отношению к группе сотрудник может быть владельцем группы, модератором группы, участником группы, пользователем из черного списка, и пользователем, не состоящим в группе. В этом уроке возможности описаны с точки зрения участника группы, либо человека, еще не вступившего в нее. Пользователю из черного списка часть функционала будет недоступна.</div></p>
+
+<br>
+
+<menu>
+  <li><a href="#join" >Вступление в группу</a></li>
+  <li><a href="#send_message" >Отправка сообщений</a></li>
+  <li><a href="#writier" >Подписка</a></li>
+  <li><a href="#exit" >Выход из группы</a></li>
+</menu>
+
+<br>
+
+<a name="join"></a><h4>Вступление в группу</h4>
+
+<p>Для того чтобы вступить в группу, выполните следующие действия:</p>
+<ul>
+  <li>Нажмите на ссылку <b>Вступить в группу</b>, расположенную на закладке <b>Основное</b> страницы просмотра группы. </li>
+  <li><p>Если группа является открытой, т.е. в нее может вступить любой желающий, то вы сразу присоединяетесь к группе. </p>
+    <p>Если группа является закрытой, то необходимо заполнить форму запроса на присоединение к группе:</p>
+      <p><a href="javascript:ShowImg('/images/portal_user/group/zapros_enter_group.png',842,233,'Запрос на присоединение к группе')">
+<img height="165" border="0" width="600" src="cid:resources/res126/Jqy4H.6d3ZN.zapros_enter_group_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a>      </p>
+
+      <p>Обязательно заполните поле <b>Сообщение</b>.</p>
+      <p>После того, как модератор группы (или администратор) одобрит ваш запрос, вы получите соответствующее сообщение и станете членом группы:</p> 
+      <p><img src="cid:resources/res126/6G8zH.cViVl.accept.png" width="604" height="389"></p>
+
+    </li>
+</ul>
+
+
+<br>
+  
+  
+<a name="send_message"></a><h4>Отправка сообщений</h4>
+<p>Вы можете послать сообщение всем участникам группы, нажав на ссылку <b>Написать сообщение</b>.</p>
+
+<p><div class="hint"><b>Примечание:</b> Ссылка может и отсутствовать, если владелец группы поставил запрет на отсылку сообщений для тех, кто не состоит в группе.</div></p>
+
+<p>Если ссылка доступна, то после ее нажатия появится окно отправки сообщений:</p>
+  <p><a href="javascript:ShowImg('/images/portal_user/group/message_from2.png',768,638,'Отправка сообщений')" ><img height="373" border="0" width="450" src="cid:resources/res126/GVI0n.hWl0C.message_from2_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;"  /></a> </p>
+
+<p>Данное окно можно условно разделить на три зоны:</p>
+
+<p><font size="4"><b><font color="#ff0000">1</font></b></font> - здесь отображаются отправленные и принятые сообщения в порядке следования друг за другом. </p>
+<p><b><font color="#0000ff" size="4">2</font></b> - в этой части окна можно поменять адресатов вашего сообщения (по умолчанию оно отсылается всем членам группы). Это делается аналогично <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2405#deal">выбору контакта</a>, описанному в разделе <b>CRM</b>.</p>
+<p><font color="#00ff00" size="4"><b>3</b></font> - редактор для создания сообщения.</p>
+
+<p><div class="hint"><b>Примечание:</b> Подробнее про отправку сообщений можно прочитать в разделе <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&amp;CHAPTER_ID=832" >Сообщения</a>.</div></p>
+
+
+
+<br />
+
+
+
+<a name="writier"></a><h4>Подписка</h4>
+
+<p>Если вы вступили в группу, то можете оформить подписку на различные виды событий в группе, для этого воспользуйтесь ссылкой <b>Подписка</b>:</p>
+  <p><img src="cid:resources/res126/mOvi4.e2XbA.podpiska.png" width="656" height="550"  /></p>
+
+<p>Вид подписки по умолчанию настраивается администратором. Чтобы изменить его на другой, щелкните по пиктограмме стрелки, откроется список: <img src="cid:resources/res126/QUcDG.ksXOr.uvedomlenie.png" width="301" height="87"  /></p>
+
+<p>События в группе разделены на несколько типов:</p>
+
+<ul>
+  <li><b>Системные события</b> - изменения во внутренней структуре группы (вступление в группу участника, назначение нового модератора, увольнение из модераторов и пр.); </li>
+  <li><b>Обсуждения</b> - создание тем на форуме и сообщения в них;  </li>
+  <li><b>Фото</b> - добавление новых фотографий в группе;  </li>
+  <li><b>Задачи</b> - изменения в задачах группы; </li>
+  <li><b>Файлы</b> - изменения в файлах группы; </li>
+  <li><b>Отчеты</b> - изменения в отчетах группы; </li>
+  <li><b>Wiki</b> - изменения в Wiki группы. </li>
+</ul>
+
+<p>Галочка в поле <b>Показывать в Живой ленте</b> означает, что события данного типа будут отображаться в <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&amp;LESSON_ID=2327" >Живой ленте</a>:</p>
+  <p><img src="cid:resources/res126/O5Xgc.9qWS5.show_in_list.png" width="205" height="22"  /></p>
+
+<p>Чтобы не отображать данные события в новостной ленте, щелкните левой кнопкой мыши по галочке, после чего она сменится на красный крестик:</p>
+  <p><img src="cid:resources/res126/D5F0j.H4RsF.not_show_in_list.png" width="205" height="22"  /></p>
+
+<div class="hint"><b>Примечание:</b> Подробнее про подписку смотрите в уроке <a href="/learning/course/index.php?bitrix_include_areas=Y&amp;COURSE_ID=45&amp;LESSON_ID=2328&amp;clear_cache=Y#subscribe">Подписка</a>.</div>
+
+<br />
+
+
+
+<a name="exit"></a><h4>Выход из группы</h4>
+
+<p>Чтобы выйти из состава участников группы, нажмите <b>Покинуть группу</b>, после чего возникнет следующее сообщение:</p>
+  <p><img src="cid:resources/res126/J4rYl.dTaIx.group_leave_msg.png" width="587" height="167"  /></p>
+<p>Нажмите <b>Покинуть группу</b> для подтверждения своего решения.</p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>135</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

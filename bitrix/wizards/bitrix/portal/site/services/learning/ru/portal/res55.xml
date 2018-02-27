@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>64</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Новости отрасли</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>На странице выводятся новости отрасли, получаемые из интернета. При достаточном уровне прав сотрудник может настроить получение новостей.</p>
+
+<p>Новости отрасли можно сформировать путем настройки гаджета <b>RSS новости</b> на импорт новостей с какого-либо сайта в RSS-формате:
+
+<p><a href="javascript:ShowImg('/images/portal_user/company/rss.png',848,202,'RSS лента')">
+<img height="142" border="0" width="600" src="cid:resources/res55/W0LSh.bzH7U.rss_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a></p>
+
+<ul>
+<li>Введите произвольное название в поле <b>Название гаджета</b>.</li>
+<li>Укажите сколько новостей показывать на странице в поле <b>Количество новостей</b>.</li> 
+<li>Укажите ссылку на RSS новости какого-либо сайта в поле <b>Ссылка на RSS ленту</b>.</li> 
+<li>Закончив настройку, нажмите <b>ОК</b>.</li>
+ </ul>
+
+<p>Чтобы скрыть показываемые новости, нажмите <img src="cid:resources/res55/zlpAi.1z4LG.svernut.png" width="30" height="37">.</p>
+
+
+<p>Чтобы удалить гаджет со страницы, нажмите <img src="cid:resources/res55/TBNH5.JLcDr.close.png" width="34" height="40">.</p>
+
+
+<p>Чтобы вернуть первоначальные настройки страницы (например если вы случайно удалили гаджет), нажмите <img src="cid:resources/res55/Yidyn.eK9CW.sbros.png" width="214" height="43">.</p>
+
+<p>Если вы обладаете правами не ниже <b>Отдел кадров</b>, то вам будет доступна кнопка <img src="cid:resources/res55/CdAP5.yeQ2V.save_as_default.png" width="213" height="43">. Нажав на нее, и подтвердив свое решение кликнув ОК в появившемся окне, вы сделаете текущие настройки настройками по умолчанию.</p>
+
+<p>В разделе <b>Новости отрасли</b> отображаются только заголовки новостей, для более подробного просмотра кликните по понравившейся новости, откроется анонс новости и станет доступна ссылка <b>Подробнее</b>, после нажатия которой откроется страница детального просмотра новости на новостном сайте: 
+</p>
+<p><a href="javascript:ShowImg('/images/portal_user/company/news_detail.png',1035,211,'RSS лента')">
+<img height="122" border="0" width="600" src="cid:resources/res55/0c6X7.cganG.news_detail_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a>
+</p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>64</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

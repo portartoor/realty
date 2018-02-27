@@ -1,0 +1,5 @@
+<?
+$MESS["SONET_SLM_FORMAT_DATE"] = "d. F, H:i";
+$MESS["SONET_SLM_FORMAT_DATE_YEAR"] = "d. F Y, H:i";
+$MESS["SONET_SLM_FORMAT_TIME"] = "H:i";
+?>

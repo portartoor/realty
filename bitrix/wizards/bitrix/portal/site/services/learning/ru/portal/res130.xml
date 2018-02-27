@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>139</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Функционал раздела</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Сотрудникам с разными правами доступа доступен различный функционал портала. Ниже в таблице приведены функции (<b>Функционал</b>), соответствующие различным группам сотрудников (<b>Права пользователя</b>), и указано, на какой странице раздела <b>Общение</b> можно этим функционалом воспользоваться (<b>Страница</b>).
+</p>
+
+<table cellspacing=0 cellpadding=0>        
+  <tbody> 
+    <tr bgcolor="white">
+    <td bgcolor="#8C8C8C"> 
+<table cellspacing="1" cellpadding="5">
+          <tbody>
+            <tr bgcolor="#8C8C8C"><td><b>Функционал</b></td><td><b>Страница</b></td><td><b>Права пользователя</b></td></tr>
+          
+    <tr bgcolor="#eeeeee">
+      <td>Блоги</td>
+<td>Подраздел Блоги</td>
+<td>Сотрудник</td></tr>
+  
+    <tr bgcolor="#ffffff"><td>Управление блогами</td>
+<td><i>Сервисы &gt; Блоги &gt; Блоги</i> в административной части</td>
+<td>Администрация портала</td>
+</tr>
+  
+    <tr bgcolor="#eeeeee"><td>Добавить/редактировать свое сообщение на Форуме</td>
+<td>Форум</td>
+<td>Сотрудник
+</td></tr>
+
+ <tr bgcolor="#ffffff"><td>Удалить любое сообщение\тему на Форуме</td>
+<td>Форум</td>
+<td>Администрация портала
+      </td></tr>
+
+  
+    <tr bgcolor="#eeeeee"><td>Управление форумом</td>
+<td><i>Сервисы &gt; Форумы</i> в административной части
+      </td><td>Администрация портала</td></tr>
+  
+    <tr bgcolor="#ffffff"><td>Фотогалерея</td>
+<td>Фотогалерея</td>
+<td>Сотрудник
+</td></tr>
+  
+    <tr bgcolor="#eeeeee"><td>Добавить/удалить/редактировать свое объявление </td>
+<td>
+        Все страницы подраздела <b>Доска объявлений</b> 
+     </td>
+<td>Сотрудник
+      </td></tr>
+  
+   </tbody>
+         </table>
+             </td></tr>
+
+  </tbody>
+</table>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>139</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

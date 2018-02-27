@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coursetoc><lesson_id>10</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>12</childs_cnt>
+<is_childs>1</is_childs>
+<sort>300</sort>
+<timestamp_x>1422877384</timestamp_x>
+<date_create>1422877378</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Обучающий курс по работе с порталом</name>
+<preview_picture>697.jpg</preview_picture>
+<preview_picture_description></preview_picture_description><preview_text><![CDATA[Учебный курс позволяет понять основные принципы работы с &laquo;1С-Битрикс: Корпоративный портал&raquo;. Предназначен для начинающих пользователей, освещает методы и способы работы с порталом.
+]]></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>text</detail_text_type>
+<launch></launch>
+<code>portal_s1</code>
+<active_from></active_from>
+<active_to></active_to>
+<rating>N</rating>
+<rating_type></rating_type>
+<scorm>N</scorm>
+<linked_lesson_id>10</linked_lesson_id>
+<course_id>2</course_id>
+<course_sort>300</course_sort>
+<id>2</id>
+</coursetoc>

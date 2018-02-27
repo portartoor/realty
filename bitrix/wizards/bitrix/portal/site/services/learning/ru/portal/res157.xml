@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>166</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877380</timestamp_x>
+<date_create>1422877380</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Отчеты</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>На странице <b>Отчеты</b> представлено количественное соотношение всех сделок на разных стадиях. Выведены таблицы двух видов сделок: тех, которые заключены, либо потенциально идут к этому:</p>
+
+<p><a href="javascript:ShowImg('/images/portal_user/crm/voronka1.png',815,221,'Сделки в работе')">
+<img height="162" border="0" width="600" src="cid:resources/res157/tcQPO.uF2Xh.voronka1_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a>
+</p>
+
+<p>В таблице <b>Сделки в работе</b> каждый нижележащий тип сделок включает в себя все те, что расположены выше, т.е. условно говоря считается, что сделка на стадии <b>Сделка заключена</b> прошла все предыдущие этапы и включена в них при подсчете статистики.</p>
+
+И тех, которые завершились неудачей:
+<p><a href="javascript:ShowImg('/images/portal_user/crm/voronka2.png',815,125,'Незаключенные сделки')">
+<img height="92" border="0" width="600" src="cid:resources/res157/g4yNp.JiEQv.voronka2_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a>
+</p>
+
+<p>В диаграмму незаключенных сделок попадают все сделки, находящиеся на стадиях, расположенных ниже <b>Сделка заключена</b> (<span class="path">Справочники -> Стадии сделки</span>).</p>
+
+<p>Полное количество сделок получится, если сложить все сделки на стадиях выполнения (72%) и незаключенные сделки (18% + 9%)</p>
+
+<p><div class="hint"><b>Примечание:</b> 1% может теряться в результате остатка от деления.</div></p>
+
+Остановимся подробнее на том, как формируется воронка продаж.
+
+<p>Например, рассмотрим сделки на стадии коммерческое предложение:</p>
+<p><img src="cid:resources/res157/s11qz.G48j0.business_predl.png" width="691" height="31"></p>
+
+36% показывает какой процент сделок от общего числа были или находятся на этой стадии. 36% всех сделок завершили стадии <b>В обработке</b> и <b>Уточнение информации</b>. Цифра 4 указывает фактическое количество таких сделок. Цветная полоска делает визуальное отображение количественного соотношения сделок на данной стадии по сравнению с другими, а в колонке <b>Сумма</b> написана общая сумма таких сделок.   
+
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>166</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

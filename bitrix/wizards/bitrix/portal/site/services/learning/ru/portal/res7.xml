@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>23</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>100</sort>
+<timestamp_x>1422877378</timestamp_x>
+<date_create>1422877378</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Публичный раздел</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p><b>Публичный раздел</b> - основное место работы сотрудника, имеющего права на редактирование информации на портале. Он является частью <i>&quot;1С-Битрикс: Корпоративный Портал&quot;</i>, видимой обычным пользователям.</p>
+
+<p><a href="javascript:ShowImg('/images/portal_user/interface/publi4ka.png',1078,679,'Публичный раздел')">
+<img height="344" border="0" width="600" src="cid:resources/res7/YNmOR.fsU8B.publi4ka_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;"/></a>
+</p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>100</edge_sort>
+<id>23</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

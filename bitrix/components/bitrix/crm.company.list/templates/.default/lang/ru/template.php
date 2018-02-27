@@ -1,0 +1,35 @@
+<?
+$MESS["CRM_ALL"] = "Всего";
+$MESS["CRM_COMPANY_SHOW_TITLE"] = "Просмотреть компанию";
+$MESS["CRM_COMPANY_SHOW"] = "Просмотреть компанию";
+$MESS["CRM_COMPANY_EDIT_TITLE"] = "Редактировать компанию";
+$MESS["CRM_COMPANY_EDIT"] = "Редактировать компанию";
+$MESS["CRM_COMPANY_COPY_TITLE"] = "Копировать компанию";
+$MESS["CRM_COMPANY_COPY"] = "Копировать компанию";
+$MESS["CRM_COMPANY_DELETE_TITLE"] = "Удалить компанию";
+$MESS["CRM_COMPANY_DELETE"] = "Удалить компанию";
+$MESS["CRM_COMPANY_EVENT_TITLE"] = "Добавить новое событие";
+$MESS["CRM_COMPANY_EVENT"] = "Добавить событие";
+$MESS["CRM_COMPANY_TASK_TITLE"] = "Добавить задачу";
+$MESS["CRM_COMPANY_TASK"] = "Добавить задачу";
+$MESS["CRM_COMPANY_BIZPROC_TITLE"] = "Бизнес-процесс";
+$MESS["CRM_COMPANY_BIZPROC"] = "Бизнес-процесс";
+$MESS["CRM_COMPANY_BIZPROC_LIST_TITLE"] = "Запустить новый бизнес-процесс";
+$MESS["CRM_COMPANY_BIZPROC_LIST"] = "Новый бизнес-процесс";
+$MESS["CRM_COMPANY_SUBSCRIBE_TITLE"] = "Отправить письмо";
+$MESS["CRM_COMPANY_SUBSCRIBE"] = "Отправить письмо";
+$MESS["CRM_COMPANY_CONTACT_ADD_TITLE"] = "Добавить новый контакт";
+$MESS["CRM_COMPANY_CONTACT_ADD"] = "Добавить контакт";
+$MESS["CRM_COMPANY_DEAL_ADD_TITLE"] = "Добавить новою сделку";
+$MESS["CRM_COMPANY_DEAL_ADD"] = "Добавить сделку";
+$MESS["CRM_COMPANY_DELETE_CONFIRM"] = "Вы уверены, что хотите удалить?";
+$MESS["CRM_STATUS_INIT"] = "- Статус -";
+$MESS["CRM_COMPANY_CALENDAR_TITLE"] = "Добавить новую запись в календарь";
+$MESS["CRM_COMPANY_CALENDAR"] = "Добавить звонок/встречу";
+$MESS["CRM_COMPANY_ADD_EMAIL_TITLE"] = "Написать письмо";
+$MESS["CRM_COMPANY_ADD_EMAIL"] = "Написать письмо";
+$MESS["CRM_COMPANY_ADD_CALL_TITLE"] = "Добавить новый звонок";
+$MESS["CRM_COMPANY_ADD_CALL"] = "Добавить звонок";
+$MESS["CRM_COMPANY_ADD_MEETING_TITLE"] = "Добавить новую встречу";
+$MESS["CRM_COMPANY_ADD_MEETING"] = "Добавить встречу";
+?>

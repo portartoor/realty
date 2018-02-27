@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/bitrix/js/socialnetwork/log-destination.js" => "151972746691104","/bitrix/js/socialnetwork/render_parts.js" => "15197274662050","/bitrix/js/socialnetwork/comment_aux.js" => "15197274662341",), 'CUR_SEL_CNT' => '0', 'CUR_IE_CNT' => '0'); ?>

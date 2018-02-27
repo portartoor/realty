@@ -1,0 +1,27 @@
+<?php
+$MESS['SALE_CASHBOX_ATOL_FARM_TITLE'] = 'Ферма-Атол';
+$MESS['SALE_CASHBOX_BITRIX_SETTINGS_VAT'] = 'Настройки ставок НДС';
+$MESS['SALE_CASHBOX_BITRIX_SETTINGS_VAT_LABEL_NOT_VAT'] = 'Без НДС [по умолчанию]';
+$MESS['SALE_CASHBOX_ATOL_FARM_SETTINGS_SNO'] = 'Налогообложение';
+$MESS['SALE_CASHBOX_ATOL_FARM_SETTINGS_SNO_LABEL'] = 'Система налогообложения';
+$MESS['SALE_CASHBOX_ATOL_FARM_SNO_OSN'] = 'общая';
+$MESS['SALE_CASHBOX_ATOL_FARM_SNO_UI'] = 'упрощенная';
+$MESS['SALE_CASHBOX_ATOL_FARM_SNO_UIO'] = 'пурощенная (доходы минус расходы)';
+$MESS['SALE_CASHBOX_ATOL_FARM_SNO_ENVD'] = 'единый налог на вмененный доход';
+$MESS['SALE_CASHBOX_ATOL_FARM_SNO_ESN'] = 'единый сельскохозяйственный налог';
+$MESS['SALE_CASHBOX_ATOL_FARM_SNO_PATENT'] = 'патентная';
+$MESS['SALE_CASHBOX_ATOL_FARM_SETTINGS_SERVICE'] = 'Информация об организации';
+$MESS['SALE_CASHBOX_ATOL_FARM_SETTINGS_SERVICE_INN_LABEL'] = 'ИНН организации';
+$MESS['SALE_CASHBOX_ATOL_FARM_SETTINGS_SERVICE_P_ADDRESS_LABEL'] = 'Адрес места расчетов (аналогичный реквизит пишется в ФН при регистрации ККТ)';
+$MESS['SALE_CASHBOX_ATOL_FARM_SETTINGS_P_TYPE'] = 'Настройки оплат';
+$MESS['SALE_CASHBOX_ATOL_FARM_SETTINGS_P_TYPE_LABEL_Y'] = 'Наличный';
+$MESS['SALE_CASHBOX_ATOL_FARM_SETTINGS_P_TYPE_LABEL_N'] = 'Безналичный';
+$MESS['SALE_CASHBOX_ATOL_FARM_SETTINGS_P_TYPE_LABEL_A'] = 'Эквайринговая операция';
+$MESS['SALE_CASHBOX_ATOL_VALIDATE_E_NUMBER_KKM'] = 'Не указан внешний идентификатор кассы';
+$MESS['SALE_CASHBOX_ATOL_VALIDATE_E_INN'] = 'Не указан ИНН организации';
+$MESS['SALE_CASHBOX_ATOL_VALIDATE_E_ADDRESS'] = 'Не указан адрес места расчетов';
+$MESS['SALE_CASHBOX_ATOL_FARM_SETTINGS_CONNECTION'] = 'Настройки подключения';
+$MESS['SALE_CASHBOX_ATOL_FARM_SETTINGS_CONNECTION_IP_LABEL'] = 'IP-адрес';
+$MESS['SALE_CASHBOX_ATOL_FARM_SETTINGS_CONNECTION_PORT_LABEL'] = 'Порт';
+$MESS['SALE_CASHBOX_ATOL_VALIDATE_E_IP'] = 'Не указан IP-адрес для подключения';
+$MESS['SALE_CASHBOX_ATOL_VALIDATE_E_IP'] = 'Не указан порт для подключения';

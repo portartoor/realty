@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>110</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>100</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Основные сведения</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Процесс проектирования шаблона бизнес-процесса можно разделить на два этапа:</p>
+
+<ul>
+<li>первый - это задание <a href="index.php?COURSE_ID=45&LESSON_ID=2280">основных параметров шаблона</a> бизнес-процесса;</li>
+<li>второй - это конструирование шаблона, по которому будет выполняться бизнес-процесс.</li></ul>
+
+<p><div class="warning"><b>Обратите внимание!</b>
+<br/><br/>
+Создание и редактирование шаблонов бизнес-процессов выполняется в административном разделе для всех инфоблоков, кроме используемых в рамках <b>Библиотеки документов</b> и <b>Бизнес-процессов организаций</b>.
+<br/><br/>
+Создание/редактирование шаблонов бизнес-процессов, используемых в рамках модуля <b>Библиотека документов</b>, следует выполнять только с помощью публичного интерфейса, поскольку в нем ведется работа с документами портала. Все созданные шаблоны бизнес-процессов в рамках этого модуля с помощью административного интерфейса не будут доступны в публичном разделе, работа с ними может быть осуществлена только в административном разделе.</div></p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>100</edge_sort>
+<id>110</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

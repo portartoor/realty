@@ -1,0 +1,23 @@
+<?
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "Модуль CRM не установлен.";
+$MESS["CRM_PERMISSION_DENIED"] = "Доступ запрещен";
+$MESS["CRM_CTRL_PANEL_ITEM_MY_ACTIVITY"] = "Мои дела";
+$MESS["CRM_CTRL_PANEL_ITEM_COMPANY"] = "Компании";
+$MESS["CRM_CTRL_PANEL_ITEM_CONTACT"] = "Контакты";
+$MESS["CRM_CTRL_PANEL_ITEM_DEAL"] = "Сделки";
+$MESS["CRM_CTRL_PANEL_ITEM_LEAD"] = "Лиды";
+$MESS["CRM_CTRL_PANEL_ITEM_REPORT"] = "Отчёты";
+$MESS["CRM_CTRL_PANEL_ITEM_MORE"] = "Ещё";
+$MESS["CRM_CTRL_PANEL_ITEM_FUNNEL"] = "Воронка продаж";
+$MESS["CRM_CTRL_PANEL_ITEM_EVENT"] = "События";
+$MESS["CRM_CTRL_PANEL_ITEM_CATALOGUE"] = "Каталог";
+$MESS["CRM_CTRL_PANEL_ITEM_CATALOGUE_2"] = "Товары";
+$MESS["CRM_CTRL_PANEL_ITEM_SETTINGS"] = "Настройки";
+$MESS["CRM_CTRL_PANEL_ITEM_MY_ACTIVITY_TITLE"] = "Список дел";
+$MESS["CRM_CTRL_PANEL_ITEM_CONTACT_TITLE"] = "Список контактов";
+$MESS["CRM_CTRL_PANEL_ITEM_COMPANY_TITLE"] = "Список компаний";
+$MESS["CRM_CTRL_PANEL_ITEM_DEAL_TITLE"] = "Список сделок";
+$MESS["CRM_CTRL_PANEL_ITEM_LEAD_TITLE"] = "Список лидов";
+$MESS["CRM_CTRL_PANEL_ITEM_REPORT_TITLE"] = "Список отчётов";
+$MESS["CRM_CTRL_PANEL_ITEM_MORE_TITLE"] = "Дополнительно";
+?>

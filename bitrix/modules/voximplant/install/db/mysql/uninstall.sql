@@ -1,0 +1,14 @@
+DROP TABLE if exists b_voximplant_statistic;
+DROP TABLE if exists b_voximplant_phone;
+DROP TABLE if exists b_voximplant_call;
+DROP TABLE if exists b_voximplant_sip;
+DROP TABLE if exists b_voximplant_config;
+DROP TABLE if exists b_voximplant_queue;
+DROP TABLE if exists b_voximplant_queue_user;
+DROP TABLE if exists b_voximplant_blacklist;
+DROP TABLE if exists b_voximplant_role;
+DROP TABLE if exists b_voximplant_role_permission;
+DROP TABLE if exists b_voximplant_role_access;
+DROP TABLE if exists b_voximplant_ivr;
+DROP TABLE if exists b_voximplant_ivr_item;
+DROP TABLE if exists b_voximplant_ivr_action;

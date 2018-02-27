@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>96</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>200</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>N</active>
+<name>История создания страниц сайта</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p><div class="important"><b>Внимание! </b>Просматривать историю изменения документов через документооборот может только <b>Администратор портала</b>. Если необходим данный функционал, обратитесь к <b>Администратор портала</b>. </div></p>
+
+<p>Каждое сохранение или изменение документа через документооборот оставляет записи в истории документа, список которых можно посмотреть на странице <b>История изменений</b> (<span class="path">Контент > Документооборот > История</span>) в Административном разделе портала.</p>
+
+<p><img src="cid:resources/res86/z7bgG.ZAM9G.workflow_history1_sm.png" width="600" height="506" border=0 /></p>
+
+<br />
+<p>Чтобы посмотреть детальную информацию конкретного этапа создания (редактирования) документа, необходимо выбрать в меню действий команду <b>Просмотр</b>. В результате откроется форма просмотра истории документа. </p>
+
+<p><img src="cid:resources/res86/4I5VS.CmJJY.workflow_history2_sm.png" width="600" height="478" border=0 /></p>
+
+<br />
+<p>Для удаления какого-либо этапа редактирования документа из истории, необходимо выбрать в меню действий команду <b>Удалить</b>.</p>
+
+
+
+
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>200</edge_sort>
+<id>96</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

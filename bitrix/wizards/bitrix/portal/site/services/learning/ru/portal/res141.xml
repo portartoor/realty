@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>151</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Импорт контактов</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>На данной странице можно импортировать в базу CRM список контактов в формате </b>.CSV</b>.</p>
+
+<p>Перейти на страницу импорта контактов можно так же нажав кнопку <b>Импорт контактов</b> на контекстной панели страницы <b>Список контактов</b>.</p>
+
+<p>На данной странице расположены следующие поля:</p>
+<p><img src="cid:resources/res141/9dMlh.5IzLs.import_cont.png" width="509" height="199"></p>
+
+<ul>
+<li><b>Выберите файл (csv)</b> - единственное обязательное для заполнения поле. Нажав на кнопку <b>Обзор</b>, укажите на своем компьютере местонахождение импортируемого списка контактов в формате <b>csv</b>.</li>
+
+<li><b>Пример файла</b> - нажмите на ссылку <b>Скачать</b>, если хотите сохранить на компьютере имеющийся в дистрибутиве файл <b>.csv</b> со списком контактов, которые есть в базе CRM для примера наполнения.
+<p>После щелчка по ссылке откроется окно сохранения файла. Нажмите <b>Открыть</b> если хотите просмотреть содержимое файла, и <b>Сохранить</b> - если хотите сохранить файл на компьютере:</p>
+<p><img src="cid:resources/res141/tnze2.L8slf.open_sample.png" width="446" height="318"></p>
+</li>
+
+<li><b>Участвуют в экспорте</b> -  снимите галочку, если не хотите, чтобы данный контакт можно было экспортировать куда-либо в общем списке.</li>
+</ul>
+
+<p>Нажмите <b>Сохранить</b>, если хотите сохранить данный список и перейти на страницу <b>Список контактов</b>.</p>
+<p>Нажмите <b>Применить</b>, если хотите сохранить данный список в базе и остаться на странице <b>Импорт контактов</b>.</p>
+<br>
+
+
+<h3>Импорт контактов с помощью vCard </h3>
+
+<p>Для того, чтобы осуществить импорт электронных визиток из <b>MS Outlook</b> в контакты CRM, запустите почтовый клиент Outlook, зайдите там в <b>Контакты</b> и выберите нужные визитные карточки. Затем в верхней панели выберите <span class="code">Переслать контакт > Как визитную карточку</span> и отправьте по <b>E-Mail адресу CRM</b>.
+
+<p><div class="hint"><b>Примечание</b>: об e-mail адресе CRM смотрите также на странице <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2421">Интеграция Send&Save</a>.</div>.</p>  
+ </p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>151</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

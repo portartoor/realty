@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>68</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Справочные страницы</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>В разделе <b>Компания</b> есть несколько страниц, которые несут только информационную нагрузку, это:</p>
+<ul>
+<li>
+<p>Страница <b>Экстранет</b> - статическая, на ней можно получить основную информацию об <b>Экстранете</b></p>
+
+<p><div class="hint"><b>Примечание</b>: присутствие данного модуля в системе, и страницы о нем в разделе <b>Компания</b>, зависит от редакции установленного <b>Корпоративного портала</b>. Они доступны для редакций, начиная с <b>Совместная работа</b>.</div></p>
+</li>
+
+<li><b>Контакты</b> - на данной странице представлена статическая информация о том, как можно связаться с компанией.</li>
+
+<li><b>Реквизиты</b> - здесь представлены банковские реквизиты компании</li>
+</ul>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>68</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

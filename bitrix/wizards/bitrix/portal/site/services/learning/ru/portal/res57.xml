@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>66</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Фотогалерея и Видеогалерея</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Фото и видеогалерея обеспечивают хранение, вывод и управление фотографиями и видеоматериалами соответственно. Управление интуитивно понятно и не должно вызвать особых сложностей.</p>
+<h3>Работа с фотогалереей</h3>
+
+<p>Подробную информацию по работе с <b>Фотогалереей</b>, смотрите в уроке <a href=/learning/course/index.php?COURSE_ID=45&CHAPTER_ID=823">Фотогалерея</a> главы <b>Личная страница</b>.</p>
+
+<h3>Работа с видеогалереей</h3>
+
+<p>Чтобы добавить видео, вы должны обладать правами не ниже <b>Отдел кадров</b>. Нажмите следующую кнопку:</p>
+<p><img src="cid:resources/res57/Bu3br.kK9ZZ.enter_video.png" width="214" height="28"></p>
+<p>Появится окно добавления нового видео:</p>
+
+<p><img src="cid:resources/res57/miESX.7szQY.add_video1.png" width="" height=""></p>
+
+<p>На вкладке <b>Видео-ролик</b> укажите следующие параметры:</p>
+<ul>
+<li><b>Название</b> - единственное обязательное к заполнению поле. Укажите как называется добавляемый ролик.</li>
+
+<li><b>Файл</b> - нажав <b>Обзор</b> можно выбрать видеофайл, однако для этого нужно настроить соответствующие права, обратитесь к администратору.</li>
+
+<li><b>Длительность</b> - указывается продолжительность видеоролика.</li>
+
+<li><b>Изображение для списка</b> - выберите картинку, которая будет представлять видео-ролик в общем списке.</li>
+
+<li><b>Краткое описание</b> - введите информацию о видео, которая будет видна в анонсе. Это можно сделать в трех режимах: <b>Текст</b>, <b>HTML</b>, <b>Визуальный редактор</b>.</li>
+</ul>
+<br>
+
+<p>Если вы обладаете правами доступа на корпоративный портал не ниже <b>Отдел кадров</b>, то для получения доступа к управлению видео, нажмите следующую кнопку:</p> 
+
+<p><img src="cid:resources/res57/V5kvv.G3K9l.video.png" width="215" height="28"></p>
+
+<p>Откроется административный раздел управления видео:</p>
+
+<p><a href="javascript:ShowImg('/images/portal_user/company/edit_video.png',1055,384,'Управление видео')">
+<img height="218" border="0" width="600" src="cid:resources/res57/yw1iq.9zSVD.edit_video_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a>
+</p>
+
+<p>Управление видео через административный раздел аналогично управлению новостями, описанному <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2267#admin">здесь</a>.</p>
+
+
+
+
+
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>66</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

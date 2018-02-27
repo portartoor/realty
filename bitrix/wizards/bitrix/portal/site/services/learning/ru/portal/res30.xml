@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>44</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>100</sort>
+<timestamp_x>1422877378</timestamp_x>
+<date_create>1422877378</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Календари</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Корпоративный портал позволяет создавать разные календари для разных типов событий, отображать их на общей сетке и добавлять важные календари в избранные, для быстрого доступа к ним.</p>
+
+<menu>
+  <li><a href="#calendar_add">Добавление календарей</a></li>
+  <li><a href="#external_calendar_add">Подключений внешних календарей</a></li>	
+  <li><a href="#calendar_fav_edit">Добавление календарей в избранные</a></li>
+  <li><a href="#calendar_edit">Управление календарями</a></li>
+    <menu>
+      <li><a href="#calendar_events_view">Отображение событий календарей в общей сетке</a></li>
+    </menu>
+</menu>
+
+<br>
+
+<h4><a name="calendar_add"></a>Добавление календарей</h4>
+
+<p>Для добавления нового календаря служит ссылка <b>Добавить календарь</b>:</p>
+
+<p><img src="cid:resources/res30/wUYJ5.RuCy8.profile_calendar_add.png" border="0" height="160" width="239"></p>
+
+<p>В форме создания календаря необходимо указать его <b>Название</b>, ввести <b>Описание</b>, а также выбрать <b>Цвет</b> показа его событий:</p> 
+
+
+<p><img src="cid:resources/res30/KSeKS.L26eD.profile_calendar_new.png" border="0" width="432" height="424" alt="Новый календарь" ></p>
+
+<p><b>Режим публичности</b> позволяет ограничить право на отображение событий календаря:</p>
+
+<ul>
+  <li><b>Частный календарь</b> - персональный календарь, события которого видны только сотруднику, создавшего его;</li>
+  <li><b>Показывать доступность</b> - режим публичности, при котором другим пользователям о событии будет известна только степень доступности сотрудника (<b>Занят</b>, <b>Под вопросом</b>, <b>Свободен</b>, <b>Отсутствую</b>);</li>
+
+  <li><b>Показывать доступность и название</b> - режим публичности, при котором другим пользователям о событии будет известна степень доступности сотрудника (<b>Занят</b>, <b>Под вопросом</b>, <b>Свободен</b>, <b>Отсутствую</b>) и название события;</li>
+  <li><b>Показывать всю информацию</b> - будет отображена вся информация календаря.</li>  
+
+</ul>
+
+<p>Если отметить опцию <b>Добавлять в этот календарь все приглашения на события от других пользователей</b>, то все приглашения на события от сотрудников компании будут добавляться в выбранный календарь.</p>
+
+<p>Если отметить опцию <b>Разрешить экспорт календаря</b>, то его можно будет связать с календарем <b>MS Outlook</b>. При этом в поле <b>Экспортировать cобытия</b> можно задать какие события будут экспортироваться:</p>
+<p><div class="warning"><b>Внимание! </b>Для полноценной интеграции КП с Outlook требуется версия Outlook 2007.</div></p>
+
+<p>Если отметить опцию <b>Синхронизировать календарь с Microsoft Exchange</b>, то он будет автоматически синхронизироваться с <b>MS Exchange</b>.</p>
+<p><div class="warning"><b>Внимание!</b> Данная опция будет присутствовать только, если администратор включил поддержку синхронизации календарей с <b>Microsoft Exchange</b>.</div></p>
+
+</p><p>Если отметить опцию <b>Добавить в избранные</b>, то календарь будет добавлен в список <a href="#calendar_fav_edit">избранных календарей</a>.</p>
+
+<br>
+
+<a name="external_calendar_add"></a><h4>Подключений внешних календарей</h4>
+<p>Корпоративный портал позволяет подключать внешние календари по протоколу <b>CalDAV</b> (например, <a href="http://www.google.com/calendar">календари Google</a>).</p>
+
+<p>Для подключения внешнего календаря используйте ссылку <b>Внешние календари (CalDAV)</b></p>
+  <p><img src="cid:resources/res30/YoGKT.Te59C.profile_ext_calendar_add.png" border="0" width="239" height="170"></p>
+
+<p>Поcле чего в форме <b>Список подключений внешних календарей</b> укажите:</p>
+  <p><img src="cid:resources/res30/0Zop7.h10Wd.profile_ext_calendar_add_form.png" border="0" width="502" height="372"></p>
+
+<ul>
+  <li><b>Название</b> календаря;</li>
+  <li><b>Адрес</b> подключения ко внешнему календарю;
+<p><div class="hint"><b>Например</b>, для календарей <b>Google</b> он будет иметь вид <code>https://www.google.com/calendar/dav/YOUREMAIL@DOMAIN.COM/user</code></div></p></li>
+  <li><b>Имя пользователя</b> и <b>Пароль</b>, для подключения к календарю.</li>
+  <li>Нажмите кнопку <b>Сохранить</b>.  </li>
+  
+  <p>В случае правильно указанных параметров в списке календарей появится внешний календарь:</p>
+  <p><img src="cid:resources/res30/algeK.e3iDR.profile_calendar_list_ext.png" border="0" width="239" height="209"></p>
+  
+  <p>а в сетке - события из него:</p>
+  <p><img src="cid:resources/res30/syVbC.fEAfH.profile_calendar_event_ext.png" border="0" width="781" height="340"></p>
+  
+
+</ul>
+
+<p><div class="hint"><b>Примечание:</b> Для добавления еще одного внешнего календаря используется ссылка <b>Добавить внешний календарь</b>.
+<br>
+При наведении на заголовок календаря появляются ссылки управления им:
+  <p><img src="cid:resources/res30/kEBV2.GM3mY.profile_ext_calendar_add_form_e_links.png" border="0" width="502" height="107"></p>
+</div></p>
+
+
+
+
+<br>
+
+
+
+
+<a name="calendar_fav_edit"></a><h4>Добавление календарей в избранные</h4>
+
+<p>Для быстрого доступа к календарям их можно добавить в список избранных:</p>
+
+<p><img src="cid:resources/res30/iQWwT.gcad6.profile_calendar_favorite.png" border="0" height="134" width="205"></p>
+
+<p>Ссылка <b>Настроить</b> служит для поиска и добавления календарей в избранные. При ее нажатии открывается следующее окно:</p>
+
+<p><img src="cid:resources/res30/LMefZ.DwrLb.profile_calendar_favorite_sett.png" border="0" width="552" height="442" alt="Календари доступные для подключения в избранные" ></p>
+
+<p>Кроме своих собственных календарей, пользователь может добавить общие календари в избранные и, если достаточно прав, то и календари других пользователей.</p>
+
+<p>Для этого необходимо найти пользователя с помощью поля <b>Найти пользователя</b> и нажать кнопку <b>Добавить</b>. После этого указать, какие календари должны быть добавлены:</p>
+
+<p><img src="cid:resources/res30/njcBZ.d4BIq.profile_calendar_favorite_users.png" border="0" width="552" height="472" alt="Добавление календарей пользователей в избранные" ></p>
+
+<p>Для удаления календарей из избранных используйте кнопку <b>Удалить</b>.</p>
+
+
+
+<br>
+
+
+
+<a name="calendar_edit"></a><h4>Управление календарями</h4>
+
+<p>Основные действия с календарем можно совершить через его меню действий:</p>
+
+<p><img src="cid:resources/res30/zCTDI.TiPqG.calendar_menu.png" border="0" width="239" height="209" alt="Меню календаря" ></p>
+
+<ul>
+  <li><b>Редактировать</b> - переход к форме редактирования календаря. Действия и элементы управления в ней аналогичны как и при <a href="">создании календаря</a>, за исключением ссылки <b>Удалить календарь</b>;
+
+  <p><img src="cid:resources/res30/R764w.Zw1Gy.profile_calendar_edit.png" border="0" width="432" height="366" alt="Редактировать календарь" ></p>
+
+  </li>
+
+  <li><b>Добавить в избранные</b> - <a href="#calendar_fav_edit">добавление календарей в избранные</a>;</li>
+
+  <li><b>Соединить с Outlook</b> - двухсторонняя <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2314#export_msoutlook">синхронизация событий календаря с MS Outlook</a>;</li>
+
+  <li><b>Экспорт (iCal)</b> - <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2314#export_ical">экспорт календарей в формате iCal</a>;</li>
+
+  <li><b>Удалить</b> - удаление выбранного календаря.</li>
+</ul>
+
+
+<br>
+
+
+<a name="calendar_events_view"></a><p><b>Отображение событий календарей в общей сетке</b></p>
+
+<p>В сетке календаря можно отображать события сразу из нескольких календарей. Для выбора календаря, события из которого будут отображены, используется флажок рядом с его названием:</p>
+
+<img src="cid:resources/res30/w049L.g5gxH.profile_calendar_list_sel.png" border="0" width="239" height="209" alt="Выбор календаря, события из которого будут отображены в сетке" >
+
+<p><div class="hint"><b>Примечание</b>: Для отображения/скрытия событий сразу из всех календарей используется флажок <b>Показать/Скрыть события всех календарей</b>:
+
+<p><img src="cid:resources/res30/gwKRx.XUYcc.profile_calendar_list_sel_all.png" border="0" width="239" height="209" alt="Показать/Скрыть события всех календарей" ></p>
+
+</div></p>
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>100</edge_sort>
+<id>44</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

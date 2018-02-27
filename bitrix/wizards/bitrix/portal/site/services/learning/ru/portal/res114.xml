@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>130</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>300</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Интерфейс видеопереговорной</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Интерфейс переговорной комнаты состоит из четырех частей:</p>
+<ul>
+  <li>Зоны изображения (1);</li>
+  <li>Списка участников (2);</li>
+  <li>Настроек (3);</li>
+  <li>Информация (для групповых видеоконференций).</li>
+</ul>
+<p><a href="javascript:ShowImg('/images/portal_user/services/video/video_iface.png',871,510,'Интерфейс видеозвонка')"><img height="351" border="0" width="600" style="cursor: pointer;" alt="Нажмите на рисунок, чтобы увеличить" src="cid:resources/res114/71b3F.S2ycY.video_iface_sm.png" /></a></p>
+
+<h4>Зона изображения</h4>
+<p><a href="javascript:ShowImg('/images/portal_user/services/video/video_iface_element.png',717,693,'Зона изображения')"><img height="630" border="0" width="600" style="cursor: pointer;" alt="Нажмите на рисунок, чтобы увеличить" src="cid:resources/res114/LA8Xj.jRlIv.video_iface_element_sm.png" /></a></p>
+<p>Зона изображения включает в себя:</p>
+<ul>
+  <li><b>1</b> - время продолжительности текущего звонка;</li>
+  <li><b>2</b> - кнопка <b>Завершить звонок</b>;</li>
+  <li><b>3</b> - регулировка громкости звука;</li>
+  <li><b>4</b> - быстрое отключение микрофона;</li>
+  <li><b>5</b> - быстрое отключение вебкамеры;</li>
+  <li><b>6</b> - быстрый вызов чата;</li>
+  <li><b>7</b> - зона изображения;</li>
+  <li><b>8</b> - вызов панели настроек;</li>
+  <li><b>9</b> - переход в полноэкранный режим;</li>
+  <li><b>10</b> - вызов чата;</li>
+  <li><b>11</b> - список участников чата;</li>
+  <li><b>12</b> - отключение/включение звуковых сообщений чата;</li>
+  <li><b>13</b> - окно просмотра сообщений чата;</li>
+  <li><b>14</b> - окно ввода сообщений для чата;</li>
+  <li><b>15</b> - кнопка отправки сообщений чата.</li>
+</ul>
+<p>Воспользовавшись кнопкой <b>Настройки</b> вы вызовите настройки параметров видеозвонка:</p>
+<p><img height="152" border="0" width="399" alt="Параметры настроек" src="cid:resources/res114/FmGVM.bCncz.videocall_settings.png" /></p>
+<p>В окне настроек можно задать устройства, которые должны использоваться в ходе работы видеозвонка.</p>
+<p>Настройку сети менять самостоятельно не рекомендуется, только по указанию администратора портала:</p>
+<p><img height="128" border="0" width="227" alt="Параметры настроек сети" src="cid:resources/res114/wXMek.HIugy.videocall_net_settings.png" /></p>
+
+<h4>Список участников</h4>
+<p>В <b>Списке участников</b> отображаются сотрудники, между которыми налажена видеосвязь. Инициатор контакта отображается ярлыком синего цвета, приглашенный участник - ярлыком зеленого цвета (если в сети) серый - если не в сети.</p>
+
+<h4>Настройки</h4>
+<p>В <b>Настройках</b> сотрудник может выбрать размер окна, в котором будет видно изображение партнера по разговору.</p>
+
+<h4>Интерфейс видеоконференции</h4>
+<p>Интерфейс видеоконференции несколько отличается от интерфейса видеозвонка:</p>
+<p><a href="javascript:ShowImg('/images/portal_user/services/video/videoconf_iface.png',738,580,'Видеоконференция')"><img height="471" border="0" width="600" style="cursor: pointer;" alt="Нажмите на рисунок, чтобы увеличить" src="cid:resources/res114/VKyYp.KYVAA.videoconf_iface_sm.png" /></a></p>
+<p>В случае видеоконференции внешний вид зоны изображения не меняется. Только появляется большее число экранов, по одному на каждого участника конференции.</p>
+<p>В <b>Списке участников</b> появляется кнопка <b>Пригласить</b>, с помощью которой добавляются участники конференции:</p>
+<p><img height="116" border="0" width="252" alt="Список участников в видеоконференции" src="cid:resources/res114/iWHl7.Rv7P4.videoconf_add_user.png" /></p>
+<p>Зона <b>Настройки</b> не изменяется, зато появляется новая зона <b>Информация</b>:</p>
+<p><img height="137" border="0" width="253" alt="Информация о конференции" src="cid:resources/res114/Tx2nY.k9abB.videoconf_info.png" /></p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>300</edge_sort>
+<id>130</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

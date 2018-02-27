@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>54</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>700</sort>
+<timestamp_x>1422877378</timestamp_x>
+<date_create>1422877378</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Задания бизнес-процессов</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Выполнение назначенных заданий по бизнес-процессам организации, как и заданий по бизнес-процессам документов, осуществляется на странице <b>Бизнес-процессы</b>.</p>
+<p><a href="javascript:ShowImg('/images/portal_user/personal_page/messages/messages_bp_page.png',949,522,'Бизнес-процессы')">
+<img src="cid:resources/res41/NmOEm.UI4Me.messages_bp_page_sm.png" alt="Нажмите на рисунок, чтобы увеличить" width="655" height="360" border="0" /></a></p>
+
+
+
+
+<p>Для перехода на эту страницу используйте ссылку <b>Бизнес-процессы</b>, расположенную в боковом меню: </p>
+<p><img src="cid:resources/res41/zwCEp.7ASBp.side_menu_bp.png" alt="Ссылка &quot;Бизнес-процессы&quot; в боковом меню" border="0" width="272" height="270" ></p>
+
+
+<p>При наличии назначенных заданий по бизнес-процессам, их количество будет отображено на панели статусов. Кликнув на иконку бизнес-процессов можно сразу перейти на страницу <b>Задания бизнес-процессов</b>:</p>
+<p><img src="cid:resources/res41/q6xuD.mvXux.new_bp_status_bar.png" alt="Количество активных бизнес-процессов на панели статусов" border="0" width="641" height="97" ></p>
+
+
+<br>
+
+<p>Все текущие задания отображаются в списке.</p>
+<p>Для просмотра подробной информации и выполнения задания бизнес процесса в меню действий выберите пункт <b>Подробнее</b> или дважды кликните на строку с необходимым заданием.	</p>
+
+<p><img src="cid:resources/res41/m1Gtp.50e89.messages_bp_details_2.png" alt="Подробнее" border="0" width="659" height="98" ></p>
+<p><img src="cid:resources/res41/IMrg1.byWT9.messages_bp_details_1.png" alt="Подробнее" border="0" width="659" height="98" ></p>
+	
+<p>После чего на странице будет отображена форма задания бизнес-процесса, в которой непосредственно и выполняется задание. Ниже ее расположена <b>История изменений документа</b>:</p>
+
+<p><a href="javascript:ShowImg('/images/portal_user/personal_page/messages/messages_bp_task_and_history.png',767,935,'Форма задания бизнес-процесса и история изменений документа')">
+<img src="cid:resources/res41/t5bdv.fHMBZ.messages_bp_task_and_history_sm.png" alt="Нажмите на рисунок, чтобы увеличить" width="484" height="590" border="0" /></a></p>
+<p><i>Пример формы задания подачи документов для командировки</i></p>	
+	
+<p><div class="hint"><b>Примечание:</b> Внешний вид формы будет зависеть от типа задания.</div></p>
+	
+
+
+<br>
+
+
+<p>Для фильтрации заданий в списке используется форма <b>Поиск</b>.</p>
+<p><img src="cid:resources/res41/J067C.yWljo.messages_bp_filter_form.png" alt="Форма &quot;Поиск&quot;" border="0" width="260" height="152" ></p>
+
+
+<p>Для поиска нужного задания введите текст в поле и нажмите кнопку <b>Найти</b>. После чего в списке будут отображены задания, удовлетворяющие условиям поиска.</p>
+
+<p>Для того чтобы снова отобразить все задания в списке нажмите кнопку <b>Отменить</b> или же воспользуйтесь ссылкой <b>Отменить фильтр</b> в форме над списком.</p>
+
+<p><img src="cid:resources/res41/Vv9Lc.YX7qt.messages_bp_cancel_filter_link.png" alt="Выведены результаты, отфильтрованные по условиям поиска. Отменить фильтр" border="0" width="676" height="185" ></p>
+
+<p><div class="hint"><b>Примечание:</b> При желании в фильтре можно указать дополнительные параметры поиска, предварительно настроив их с помощью меню фильтра:
+<p><img src="cid:resources/res41/uhtWo.YSqzU.messages_bp_filter_form_customize.png" alt="Настройка фильтра" border="0" width="377" height="154" ></p>
+<p>Например, можно добавить в поиск поле <b>Дата изменения</b>:</p>
+<p><img src="cid:resources/res41/tp56B.I85Jr.messages_bp_filter_form_2.png" alt="Результат настройки фильтра" border="0" width="260" height="207" ></p>
+</div></p>
+
+
+<p><div class="hint"><b>Примечание:</b> Подробнее про работу со списками смотрите в уроке <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2272">Списки</a>.</div></p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>700</edge_sort>
+<id>54</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

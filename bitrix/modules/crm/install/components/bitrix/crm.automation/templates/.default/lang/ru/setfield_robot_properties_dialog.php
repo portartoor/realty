@@ -1,0 +1,5 @@
+<?
+$MESS["CRM_AUTOMATION_SFA_FIELDS_LIST"] = "Выбрать поле";
+$MESS["CRM_AUTOMATION_SFA_DELETE"] = "Удалить";
+$MESS["CRM_AUTOMATION_SFA_NOT_SELECTED"] = "не выбрано";
+?>

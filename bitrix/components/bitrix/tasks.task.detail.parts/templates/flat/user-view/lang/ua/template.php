@@ -1,0 +1,12 @@
+<?
+$MESS["TASKS_TTDP_TEMPLATE_USER_VIEW_RESPONSIBLE"] = "Відповідальний";
+$MESS["TASKS_TTDP_TEMPLATE_USER_VIEW_ORIGINATOR"] = "Постановник";
+$MESS["TASKS_TTDP_TEMPLATE_USER_VIEW_AUDITORS"] = "Спостерігачі";
+$MESS["TASKS_TTDP_TEMPLATE_USER_VIEW_ACCOMPLICES"] = "Співвиконавці";
+$MESS["TASKS_TTDP_TEMPLATE_USER_VIEW_ADD"] = "додати";
+$MESS["TASKS_TTDP_TEMPLATE_USER_VIEW_CHANGE"] = "змінити";
+$MESS["TASKS_TTDP_TEMPLATE_USER_VIEW_DELETE"] = "Видалити";
+$MESS["TASKS_TTDP_TEMPLATE_USER_VIEW_ENTER_AUDITOR"] = "спостерігати";
+$MESS["TASKS_TTDP_TEMPLATE_USER_VIEW_LEAVE_AUDITOR"] = "не спостерігати";
+$MESS["TASKS_TTDP_TEMPLATE_USER_VIEW_LEAVE_AUDITOR_CONFIRM"] = "При виході зі спостерігачів ви можете втратити права на перегляд завдання. Вийти зі спостерігачів?";
+?>

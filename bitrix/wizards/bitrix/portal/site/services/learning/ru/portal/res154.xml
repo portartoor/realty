@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>163</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877380</timestamp_x>
+<date_create>1422877380</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Список лидов</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<ul>
+<li><a href="#watch">Просмотр лида</a></li>
+<li><a href="#menu">Меню действий</a>:
+   <ul>
+   <li><a href="#edit">Редактировать лид</a></li>
+   <li><a href="#add">Добавить событие</a></li>
+   <li><a href="#convert">Конвертировать лид</a></li>
+   <li><a href="#delete">Удалить лид</a></li>
+   </ul>
+</li>
+</ul>
+
+<p>На данной странице представлен список всех имеющихся лидов:</p>
+
+<p><a href="javascript:ShowImg('/images/portal_user/crm/leads_list.png',808,380,'Список лидов')">
+<img height="282" border="0" width="600" src="cid:resources/res154/lnhmg.0Z5Zz.leads_list_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a>
+</p>
+
+<a name="watch"></a>
+<h3>Просмотр лида</h3>
+
+
+<p>Есть несколько способов просмотреть интересующий вас лид:</p>
+<ul>
+
+<li>Два раза кликните на любом месте строки лида в таблице. После этого откроется страница детального просмотра лида:
+<p><a href="javascript:ShowImg('/images/portal_user/crm/lead_detail.png',807,508,'Просмотр лида')">
+<img height="377" border="0" width="600" src="cid:resources/res154/M868K.tu15N.lead_detail_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a>
+</p>
+</li>
+
+<li>Перейти на страницу детального просмотра лида можно щелкнув по ссылке с его названием.</li>
+
+<li>Можно щелкнуть по <b>меню действий</b>, и выбрать пункт <b>Просмотреть лид</b>:
+<p><img src="cid:resources/res154/fpGL8.2v76A.view_lead.png" width="463" height="186"></p>
+</li>
+</ul>
+
+<p>Чтобы вернуться к списку лидов со страницы просмотра лида, нажмите <b>Список лидов</b> на контекстной панели.</p>
+<br>
+
+<a name="menu"></a>
+<h3>Меню действий</h3>
+
+
+<p>Помимо <b>Просмотреть лид</b>, меню действий включает в себя следующие пункты: <b>Редактировать лид</b>, <b>Добавить событие</b>, <b>Конвертировать лид</b>, <b>Удалить лид</b>.</p>
+
+<a name="edit"></a>
+<h4>Редактировать лид</h4>
+
+
+<p>После клика по данному пункту появится форма редактирования лида, включающая в себя две вкладки: <b>Лид</b> и <b>События</b>:</p>
+<p><img src="cid:resources/res154/UYsAd.M9YQ7.edit_lead.png" width="663" height="452"></p>
+
+<p>О значениях полей формы редактирования лида вы можете подробнее узнать в уроке <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2348">Добавить лид</a>.</p>
+
+<p>На вкладке <b>События</b> расположена таблица с перечнем действий, производимых над параметрами лида, а также добавленных к нему:</p>
+<p><img src="cid:resources/res154/ezSqt.ARnSn.event_of_lead.png" width="663" height="152"></p>
+
+<a name="add"></a>
+<h4>Добавить событие</h4>
+
+
+<p>О том, как добавить событие, рассказано в уроке <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&CHAPTER_ID=869">События</a>.</p>
+
+
+<a name="convert"></a>
+<h4>Конвертировать лид</h4>
+
+
+<p>Лид, как потенциально возможная сделка, может превратится в контакт, компанию, и, при удачном стечении обстоятельств, в сделку.</p>
+
+<p>Щелкнув по этому пункту меню вы попадете на страницу конвертации лида:</p>
+<p><img src="cid:resources/res154/Y3LsT.6iCVI.convert_lead.png" width="662" height="450"></p>
+
+
+<p>При переходе на страницу конвертации лида, по умолчанию выставляется конвертация в контакт и компанию. Все поля конвертации идентичны описанным в уроках <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2341">Добавить контакт</a> и <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2402">Добавить компанию</a>.</p>
+
+<p>Если вы хотите конвертировать лид в уже имеющийся контакт, поставьте флажок в <b>Выбрать из списка</b>:</p>
+<p><img src="cid:resources/res154/X9wgO.OIYC9.choose_from_list.png" width="558" height="87"></p>
+<p>Выберите из имеющихся в системе контактов, пройдя по ссылке <b>Выбрать из списка</b>. Делается это аналогично указанию контакта, описанному в уроке <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2405#deal">Добавить сделку</a>.</p>
+
+<p>Обязательно нужно выбрать компанию. Изначально флажок стоит в опции <b>Выбрать из списка</b>, выберите компанию из уже имеющихся в модуле аналогично выбору контакта выше.</p>
+
+<p>Если помимо контакта и компании, вы хотите конвертировать лид также в сделку, поставьте галочку в поле <b>Конвертировать в сделку</b>, появится форма создания сделки:</p>
+<p><img src="cid:resources/res154/VCCQM.z8tue.convert_in_deal.png" width="586" height="599"></p>
+<p>Заполните поля идентично тому, как это делается при <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2405">добавлении сделки</a>.</p>
+
+<p>Закончив заполнять поля конвертации, нажмите <b>Сохранить</b> или <b>Применить</b>, чтобы сконвертировать лид.</p>
+
+<p>Сконвертированный лид отобразится в списке лидов с новым статусом <b>Сконвертирован</b>, у него не будет отображаться поле для галочки в <b>Колонке флажков</b>, а из возможных действий над лидом останутся <b>Просмотреть лид</b> и <b>Добавить событие</b>:</p>
+<p><a href="javascript:ShowImg('/images/portal_user/crm/end_of_convert_lead.png',907,123,'Лид сконвертирован)">
+<img height="81" border="0" width="600" src="cid:resources/res154/QAvlO.JEckF.end_of_convert_lead_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a>
+</p>
+
+<a name="delete"></a>
+<h4>Удалить лид</h4>
+
+
+<p>После щелчка по <b>Удалить лид</b> появится окно подтвеждения удаления лида:</p>
+<p><img src="cid:resources/res154/nEHYO.bWeMO.delete_lead.png" width="292" height="168"></p>
+<p>Нажмите <b>ОК</b>, и лид будет удален.</p>
+
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>163</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

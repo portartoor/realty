@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>133</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Мои группы</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<ul>
+  <li><a href="#group_view">Просмотр групп</a></li>
+  <li><a href="#group_create">Создание групп</a></li>
+</ul>
+
+<p>На странице <b>Мои группы</b> располагаются группы, в которых вы состоите: </p>
+
+<p><a href="javascript:ShowImg('/images/portal_user/group/my_groups_page.png',1019,543,'Мои группы')">
+<img height="346" border="0" width="650" src="cid:resources/res124/L45Yz.e12Vl.my_groups_page_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a></p>
+
+<p>Это группы, которые вы создали, либо в которые вступили.</p>
+  
+  
+<br>
+
+
+
+<p><a name="group_view"></a><h3>Просмотр групп</h3></p>
+<p>Щелкнув по значку любой группы можно перейти на страницу группы для детального просмотра:</p>
+
+<p><a href="javascript:ShowImg('/images/portal_user/group/sale.png',805,561,'Просмотр группы')">
+<img height="418" border="0" width="600" src="cid:resources/res124/098co.ddrs8.sale_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a>
+</p>
+
+<p>На закладке <b>Основное</b> представлена информация о группе, ее модераторах, участниках, типе группы, а также выведены последние отчеты, обсуждения и ближайшие задачи группы.</p>
+
+<p>В продукте используются группы следующих типов:</p>
+<ul>
+<li><b>открытая группа</b> - вступить в группу может любой желающий пользователь или сотрудник компании;</li> 
+<li><b>закрытая группа</b> - вступить в группу можно только после одобрения модератором (администратором) группы;</li> 
+<li><b>видимая группа</b> - наличие группы видно всем пользователям или сотрудникам компании;</li> 
+<li><b>невидимая группа</b> - группа видна только членам группы;</li> 
+<li><b>архивная группа</b> - группу может быть архивной (например, если активность в ней давно отсутствует).</li> 
+</ul>
+
+  
+   
+
+<br>
+
+
+
+<p><a name="group_create"></a><h3>Создание групп</h3></p>
+
+<p><div class="hint"><b>Примечание</b>: Создание групп доступно пользователям с правами не ниже <b>Могут создавать рабочие группы</b>.
+<br>
+Если вам необходимо создать группу, но не хватает прав, то обратитесь к администратору портала.</div></p>
+
+
+
+<p>Для создания новой группы, кликните по кнопке <img src="cid:resources/res124/0D6A1.aXqHu.create_group.png" width="215" height="28">:</p>
+<p><a href="javascript:ShowImg('/images/portal_user/group/my_groups_page_adm.png',1019,543,'Мои группы')">
+<img height="346" border="0" width="650" src="cid:resources/res124/vMY7x.FWpYZ.my_groups_page_adm_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a></p>
+
+
+<p>После щелчка вы попадете на страницу создания новой группы:</p>
+<p><img src="cid:resources/res124/CdwKa.iYyuc.create_newgroup.png" width="719" height="534"></p>
+
+<p>Обязательно заполните следующие поля формы:</p>
+<ul>
+  <li><b>Название группы</b> - укажите, как будет называться новая группа.</li>
+  <li><b>Описание группы</b> - введите информацию о группе, о темах, в ней обсуждаемых.</li>
+  <li><b>Тема группы</b> - выберите тему новой группы из представленных в списке: <img src="cid:resources/res124/f3bLQ.0Ple8.list_groups.png" width="174" height="120" align="top"></li>
+    <p><div class="hint"><b>Примечание</b>: Если тема вашей группы отличатся от уже имеющихся на портале, то для создания новой темы обратитесь к администратору.</div><p>
+</ul>
+
+<p>Следующие поля необязательны для заполнения, либо в них уже стоит значение по умолчанию:</p>
+<ul>
+<li><b>Изображение группы</b> - выберите картинку, которой будет представлена ваша группа на портале, нажав на кнопку <img src="cid:resources/res124/N4Apu.OUIJP.browse.png" width="72" height="24"></li>
+<li><b>Параметры группы</b> - включает в себя два параметра: <img src="cid:resources/res124/fFyw1.VKevu.options_group.png" width="422" height="53" align="top">
+ <p>При поставленной галочке <b>Группа видима всем посетителям</b> группа будет отображаться у любого пользователя, у которого есть доступ на корпоративный портал. В противном случае группа будет видна только ее участникам и сотрудникам с правами не ниже <b>Администрация портала</b>. При отмеченной опции <b>Группа открыта для свободного вступления</b> вступать в группу можно без предварительного одобрения заявки на участие администратором группы.</p></li>
+
+<li><b>Ключевые слова</b> - перечень слов, кратко характеризующих темы и вопросы вашей группы, они будут учитываться при поисковых запросах.</li>
+
+<li><b>Приглашать пользователей в группу могут:</b> - выбор тех членов группы, кто имеет право высылать приглашения на вступление в группу:  <p><img src="cid:resources/res124/tySSs.EDpDC.welcome.png" width="289" height="88"> По умолчанию выставлено <b>Все члены группы</b>.</p></li>
+
+<li><b>Отправлять сообщения членам группы могут:</b> - выбор тех сотрудников портала, кто может отправлять сообщения, которые будут выводиться всем членам группы:
+<p><img src="cid:resources/res124/AM6Ir.0JrXk.send_messages.png" width="265" height="103"> По умолчанию выставлено <b>Все члены группы</b>.</p></li>
+</ul>
+
+<p>После указания всех необходимых параметров для создания группы нажмите кнопку <b>Создать группу</b>. Если вы передумали создавать новую группу, нажмите <b>Отмена</b>.</p>
+
+
+
+
+
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>133</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

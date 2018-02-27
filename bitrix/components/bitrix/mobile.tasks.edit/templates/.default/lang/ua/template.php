@@ -1,0 +1,28 @@
+<?
+$MESS["MB_TASKS_TASK_EDIT_PULLDOWN_PULL"] = "Потягніть, щоб оновити";
+$MESS["MB_TASKS_TASK_EDIT_PULLDOWN_DOWN"] = "Відпустіть, щоб оновити";
+$MESS["MB_TASKS_TASK_EDIT_PULLDOWN_LOADING"] = "Оновлення даних ...";
+$MESS["MB_TASKS_TASK_EDIT_ORIGINATOR"] = "Постановник";
+$MESS["MB_TASKS_TASK_EDIT_RESPONSIBLE"] = "Відповідальний";
+$MESS["MB_TASKS_TASK_EDIT_PRIORITY"] = "Пріоритет";
+$MESS["MB_TASKS_TASK_EDIT_PRIORITY_LOW"] = "Низький";
+$MESS["MB_TASKS_TASK_EDIT_PRIORITY_AVERAGE"] = "Середній";
+$MESS["MB_TASKS_TASK_EDIT_PRIORITY_HIGH"] = "Високий";
+$MESS["MB_TASKS_TASK_EDIT_ACCOMPLICES"] = "Співвиконавці";
+$MESS["MB_TASKS_TASK_EDIT_AUDITORS"] = "Спостерігачі";
+$MESS["MB_TASKS_TASK_EDIT_DEADLINE"] = "Крайній термін";
+$MESS["MB_TASKS_TASK_EDIT_GROUP"] = "Проект";
+$MESS["MB_TASKS_TASK_EDIT_GROUP_NONE"] = "Немає групи";
+$MESS["MB_TASKS_TASK_EDIT_PLACEHOLDER_FOR_TITLE"] = "Назва завдання";
+$MESS["MB_TASKS_TASK_EDIT_PLACEHOLDER_FOR_DESCRIPTION"] = "Опис завдання";
+$MESS["MB_TASKS_TASK_EDIT_TITLE_NEW_TASK"] = "Нове завдання";
+$MESS["MB_TASKS_TASK_EDIT_TITLE_EDIT_TASK"] = "Редагування завдання №#TASK_ID#";
+$MESS["MB_TASKS_TASK_EDIT_BTN_CANCEL"] = "Скасувати";
+$MESS["MB_TASKS_TASK_EDIT_BTN_SELECT"] = "Вибрати";
+$MESS["MB_TASKS_TASK_EDIT_BTN_CREATE"] = "Створити";
+$MESS["MB_TASKS_TASK_EDIT_BTN_SAVE"] = "Зберегти";
+$MESS["MB_TASKS_TASK_EDIT_BTN_REMOVE"] = "Видалити";
+$MESS["MB_TASKS_TASK_EDIT_BTN_ADD_ACCOMPLICES"] = "Додати співвиконавців";
+$MESS["MB_TASKS_TASK_EDIT_BTN_ADD_AUDITORS"] = "Додати спостерігачів";
+$MESS["MB_TASKS_TASK_EDIT_NO_TITLE"] = "Не вказано назву завдання!";
+?>

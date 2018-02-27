@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>90</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>400</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>N</active>
+<name>Ошибки, возникающие при работе с библиотекой в ОС Windows !</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<ul> 
+  <li><a href="#limit">Ограничения ОС Windows</a></li>
+	 
+  <li><a href="#webdav">Таблица сравнений клиентских WebDAV-приложений</a></li>
+ 			 
+  <li><a href="#webclient">Запуск службы Веб-клиент</a></li>
+ 
+  <li><a href="#patch">Разрешение авторизации без https</a></li>
+ 
+  <ul> 	 
+    <li><a href="#reg">Изменение параметров с помощью файлов *.reg</a></li>
+   	 
+    <li><a href="#regedit">Изменение параметров с помощью Редактора реестра</a></li>
+   </ul>
+ 
+  <li><a href="#maxfilesize">Увеличение максимального размера загружаемых файлов</a></li>
+ </ul>
+ 
+<p><a name="limit"></a><b>Ограничения ОС Windows</b></p>
+
+<div class="hint"><p>В <b>Windows XP</b> всегда необходимо указывать номер порта, даже в том случае, если используется 80 порт (<i>http://servername:80/</i>).</p>
+
+<p>В <b>Windows Vista</b> запрещена базовая авторизация (<b>Basic Authorization</b>), необходимо внести <a href="#patch">изменения в реестр</a>.</p>
+
+<p>В <b>Windows 7</b> запрещена базовая авторизация (<b>Basic Authorization</b>), необходимо внести <a href="#patch">изменения в реестр</a>. Компонент веб-папок не работает по защищенному протоколу. Для работы с библиотекой из <b>Windows 7</b> по протоколу HTTPS необходимо использовать путь вида:
+<i><ваш_сервер>@SSLDavWWWRootdocsshared</i> вместо <i>https://<ваш_сервер>/docs/shared/</i>.</p>
+
+<p>Если требуется указание порта, то он указывается таким образом: <i>@SSL:443</i>. </p>
+
+<p>В <b>Windows 2008 Server</b> не установлена служба <b>Веб-клиент</b> (<b>WebClient</b>). Необходимо установить <b>Дополнения</b> (<b>Features</b>) след. образом:</p>
+<ul>
+<li>Перейдите на <i>Start > Administrative Tools > Server Manager > Features</i>;</li>
+<li>Справа сверху нажмите на <b>Add Features</b>;</li>
+<li>Выберите <b>Desktop Experience</b>, установите.</li>
+</ul>
+
+<p>Так же необходимо внести <a href="#patch">изменения в реестр</a>.</p>
+
+<p><b>Прежде, чем подключать библиотеку документов, убедитесь, что запущена служба Веб-клиент (WebClient).</b></p>
+ </div>
+
+
+<p><a name="webclient"></a><b>Таблица сравнений клиентских WebDAV-приложений</b></p>
+ 
+<div class="hint"><b>Примечание:</b> При использовании WebDAV-клиента для управления библиотекой в случае документооборота или бизнес-процессов, есть некоторые ограничения: 
+  <ul> 
+    <li>нельзя запустить бизнес-процесс для документа;</li>
+   
+    <li>нельзя загружать, изменять документы, если на автозапуске находятся бизнес-процессы с обязательными параметрами автозапуска без значений по-умолчанию;</li>
+   
+    <li>проследить историю документа. </li>
+   </ul>
+ </div>
+ <br> <br>
+<table cellspacing="1" cellpadding="1" border="1"> 
+  <tbody> 
+    <tr><td> WebDAV-клиент </td><td> Авторизация 
+        <br />
+       базовая (Basic) </td><td> Авторизация 
+        <br />
+       Windows (IWA) </td><td> 			SSL</td><td>Порт</td><td> Установлен 
+        <br />
+       в ОС </td></tr>
+   
+    <tr><td>Веб-папка, Windows XP</td><td align="center">+</td><td align="center">+</td><td align="center">+</td><td align="center">все</td><td align="center">+</td></tr>
+   
+    <tr><td>Веб-папка, Vista SP1</td><td align="center">+</td><td align="center">+</td><td align="center">+</td><td align="center">все</td><td align="center">+</td></tr>
+   
+    <tr><td>Веб-папка, Windows 7</td><td align="center">+</td><td align="center">+</td><td align="center">+</td><td align="center">все</td><td align="center">+</td></tr>
+   
+    <tr><td>Веб-папка, Windows 2003/2000</td><td align="center">+</td><td align="center">+</td><td align="center">+</td><td align="center">все</td><td align="center">-</td></tr>
+   
+    <tr><td>Веб-папка, Windows Server 2008</td><td align="center">+</td><td align="center">+</td><td align="center">+</td><td align="center">все</td><td align="center">-</td></tr>
+   
+    <tr><td>Сетевой диск, Windows XP</td><td align="center">+</td><td align="center">+</td><td align="center">+</td><td align="center">все</td><td align="center">+</td></tr>
+   
+    <tr><td>Сетевой диск, Vista SP1</td><td align="center">+</td><td align="center">+</td><td align="center">+</td><td align="center">все</td><td align="center">+</td></tr>
+   
+    <tr><td>Сетевой диск, Windows 7</td><td align="center">-</td><td align="center">+</td><td align="center">-</td><td align="center">80</td><td align="center">+</td></tr>
+   
+    <tr><td>Сетевой диск, Windows 2003/2000</td><td align="center">-</td><td align="center">+</td><td align="center">-</td><td align="center">80</td><td align="center">+</td></tr>
+   
+    <tr><td>MS Office 2007/2003/XP</td><td align="center">+</td><td align="center">+</td><td align="center">+</td><td align="center">все</td><td align="center">-</td></tr>
+   
+    <tr><td>MS Office 2010</td><td align="center">+</td><td align="center">+</td><td align="center">только</td><td align="center">все</td><td align="center">-</td></tr>
+   
+    <tr><td>MAC OS X</td><td align="center">+</td><td align="center">-</td><td align="center">+</td><td align="center">все</td><td align="center">+</td></tr>
+   </tbody>
+ </table>
+ 
+<p>При подключении папок из раздела <b>Документы</b> могут возникать ошибки, связанные с настройкой ОС <b>Windows</b>. За работу службы <b>Веб-клиент</b> в операционной системе отвечает специальный системный параметр. По умолчанию в ОС <b>Windows XP</b> он включен, а в <b>Windows Vista</b> - настроен на работу по защищенному протоколу <b>HTTPS</b>. Возможны ситуации, когда и в <b>Windows XP</b> это параметр будет не соответствовать значениям по умолчанию.</p>
+ 
+<p>В этих случаях кнопка <b>Сетевая папка</b>, а также возможность подключиться к диску или редактировать документы при помощи <b>Microsoft Office</b> будет невозможным. Чтобы исправить ошибки с этим связанные необходимо проверить и выполнить несколько настроек.</p>
+ 
+<p><a name="webclient"></a><b>Запуск службы Веб-клиент</b></p>
+ 
+<p>Для этого перейдите: <b>Пуск &gt; Панель управления &gt; Администрирование &gt; Службы</b>. Откроется диалог <b>Службы</b>: </p>
+ 
+<p><a href="javascript:ShowImg('/images/portal_admin/big/web_client.png',638,450,'Службы');"><img height="212" width="300" border="0" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" src="cid:resources/res80/VoRpF.Tjj6v.web_client_sm.png" /></a></p>
+ 
+<p>Найдите в общем списке служб строку <b>Веб-клиент</b>. В колонке <b>Состояние</b> должно стоять <b>Работает</b>.</p>
+ 
+<p>Если служба не запущена (отсутствует надпись <b>Работает</b> в колонке <b>Состояние</b>), то кликнете на строке со службой правой кнопкой мыши, вызовите контекстное меню. В этом меню выполните команду <b>Пуск</b>. Служба запуститься.</p>
+ 
+<p>Чтобы служба запускалась в дальнейшем при старте операционной системы, кликнете на строке со службой, вызовите контекстное меню. В контекстном меню выполните команду <b>Свойства</b>. Откроется диалог свойств службы <b>Веб-клиент</b>: 	 </p>
+ 
+<p><a href="javascript:ShowImg('/images/portal_admin/big/web_client_prop.png',410,461,'Свойство службы Веб-клиент');"><img height="230" width="205" border="0" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" src="cid:resources/res80/hzo48.eDmjC.web_client_prop_sm.png" /></a></p>
+ 
+<p>В выпадающем списке <b>Тип запуска</b> выберите <b>Авто</b>. Сохраните внесенные изменения.</p>
+ 
+<p>Теперь служба будет запускаться автоматически при запуске операционной системы. Можно приступать непосредственно к подключению папки.</p>
+ 
+<p><a name="patch"></a><b>Разрешение авторизации без https</b></p>
+ 
+<p>Для решения этой проблемы необходимо изменить параметр <b>Basic authentication</b> в реестре ОС. Сделать это можно двумя способами: с помощью <b>Редактора реестра</b> или с помощью специальных скриптов в дистрибутиве продукта &laquo;1С-Битрикс: Корпоративный портал&raquo;.</p>
+ 
+<p><a name="reg"></a><b>Изменение параметров с помощью файлов *.reg</b></p>
+ 
+<p>Способ рекомендуется для обычных пользователей.</p>
+ 
+<p>Откройте новое окно браузера <b>Internet Explorer</b>. Введите в адресной строке браузера: </p>
+ 
+<ul> 
+  <li> - для ОС <b>Windows XP</b>: <a href="/bitrix/webdav/xp.reg">http://<i>&lt;ваш_портал&gt;</i>/bitrix/webdav/xp.reg</a>.</li>
+ 
+  <li> - для ОС <b>Windows Vista</b>: <a href="/bitrix/webdav/vista.reg">http://<i>&lt;ваш_портал&gt;</i>/bitrix/webdav/vista.reg</a>.</li>
+ </ul>
+ 
+<p>Запустится окно загрузки и запуска файла:</p>
+ 
+<p><a href="javascript:ShowImg('/images/portal_admin/big/vista_reg.png',438,283,'Диалог ОС');"><img height="132" width="204" border="0" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" src="cid:resources/res80/1vvHV.89B94.vista_reg_sm.png" /></a></p>
+ 
+<p>Нажмите кнопку <b>Запустить</b>. Начнется загрузка файла. После ее завершения откроется диалог <b>Редактора реестра</b> с предупреждением о недостоверности источника:</p>
+ 
+<p><a href="javascript:ShowImg('/images/portal_admin/big/vista_reg_2.png',572,212,'Диалог ОС');"><img height="93" width="250" border="0" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" src="cid:resources/res80/tQvQp.nmEzn.vista_reg_2_sm.png" /></a></p>
+ 
+<p></p>
+ 
+<div class="hint"><b>Примечание</b>: при использовании других браузеров загрузка файла на локальный компьютер произойдет, но автоматически не запустится <b>Редактор реестра</b>. Необходимо вручную запустить загруженный файл.</div>
+ 
+<p></p>
+ 
+<p>Нажмите кнопку <b>Да</b>. Изменения будут внесены в реестр, появится соответствующее сообщение об изменении реестра. Перегрузите компьютер.</p>
+ 
+<p><a name="regedit"></a><b>Изменение параметров с помощью Редактора реестра</b></p>
+ 
+<p>Этот способ рекомендуется только для системных администраторов, понимающих особенности работы с реестром.</p>
+ 
+<p>Выполните команду: <b>Пуск &gt; Выполнить</b>. Откроется окно <b>Запуск программы</b>:</p>
+ 
+<p><a href="javascript:ShowImg('/images/portal_admin/big/regedit.png',347,179,'Запуск Редактора реестра');"><img height="77" width="149" border="0" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" src="cid:resources/res80/Psfs9.oQbyi.regedit_sm.png" /></a></p>
+ 
+<p>В поле <b>Открыть</b> введите <b>regedit</b> и нажмите кнопку <b>ОК</b>. Откроется редактор реестра:</p>
+ 
+<p><a href="javascript:ShowImg('/images/portal_admin/big/regedit_add.png',868,541,'Редактор реестра');"><img height="187" width="300" border="0" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" src="cid:resources/res80/MVjXe.XEUvU.regedit_add_sm.png" /></a></p>
+ 
+<p>Для <b>Windows XP</b> необходимо найти параметр:</p>
+ 
+<table cellspacing="0" cellpadding="0" border="1"> 
+  <tbody> 
+    <tr><td width="638" valign="top"> 
+        <p>[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WebClient\Parameters] &quot;UseBasicAuth&quot;=dword:00000001</p>
+       </td></tr>
+   </tbody>
+ </table>
+ 
+<p>Если параметр отличается от указанного в листинге, то выставьте его равным <b>1</b>.</p>
+ 
+<p>Для <b>Windows Vista</b> и <b>Windows 7</b> нужно найти параметр:</p>
+ 
+<table cellspacing="0" cellpadding="0" border="1"> 
+  <tbody> 
+    <tr><td width="638" valign="top"> 
+        <p>[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WebClient\Parameters] 
+          <br />
+         &quot;BasicAuthLevel&quot;=dword:00000002</p>
+       </td></tr>
+   </tbody>
+ </table>
+ 
+<p>Если параметр отличается от указанного в листинге, то выставьте его равным <b>2</b>.</p>
+ 
+<br />
+ 
+<div class="hint"><b>Примечание:</b> 
+  <p>При переходе на новую версию MS Office 2010 Prof возможны ошибки при синхронизации с Outlook 2010. В результате ошибки выводится сообщение: <b>Задача 'SharePoint' сообщила об ошибке (0x80070005) : 'Отсутствуют разрешения на просмотр этого списка SharePoint. Обратитесь к администратору сайта SharePoint. HTTP 401.'</b> </p>
+ 
+  <p>Причина в том, что Outlook 2010 не поддерживает простую авторизацию. Для авторизации требуется либо использовать ntlm (авторизация на AD-сервере), либо необходмо работать с сервером через SSL (https). При https варианте, начиная с Windows 7, потребуется также иметь действующий ssl-сертификат (сгенерированный самостоятельно работать не будет). </p>
+ 
+  <p>Решение: добавить в реестре по пути: 
+    <br />
+   <i>HKEY_CURRENT_USER\Software\Microsoft\Office\14.0\Common\Internet</i> 
+    <br />
+   ключ <i>&quot;BasicAuthLevel&quot;=dword:00000002</i></p>
+ </div>
+ 
+<p>Перезапустите службу <b>Веб-клиент</b>.</p>
+ 
+<p><a name="maxfilesize"></a><b>Увеличение максимального размера загружаемых файлов</b></p>
+ 
+<p>Максимальный размер загружаемого файла - это минимальные значения переменных PHP (<b>upload_max_filesize</b> и <b>post_max_size</b>) и параметры настройки компонентов.</p>
+ 
+<p>Если вы хотите увеличить квоту, которая превышает рекомендуемые значения, то внесите следующие изменения <b>php.ini</b>:</p>
+ 
+<table cellspacing="0" cellpadding="0" border="1"> 
+  <tbody> 
+    <tr><td width="638" valign="top"> 	 
+        <p>upload_max_filesize = желаемое_значение; 	 
+          <br />
+         post_max_size = превышает_размер_upload_max_filesize;</p>
+       </td></tr>
+   </tbody>
+ </table>
+ 
+<p>Если вы арендуете площадку (виртуальный хостинг), то внесите изменения в файл <b>.htaccess</b>:</p>
+ 
+<table cellspacing="0" cellpadding="0" border="1"> 
+  <tbody> 
+    <tr><td width="638" valign="top"> 	 
+        <p>php_value upload_max_filesize желаемое_значение 
+          <br />
+         	 php_value post_max_size превышает_размер_upload_max_filesize</p>
+       </td></tr>
+   </tbody>
+ </table>
+ 
+<p>Возможно, вам придется обратиться к хостеру с просьбой увеличить минимальные значения переменных PHP (<b>upload_max_filesize</b> и <b>post_max_size</b>).</p>
+ 
+<p>После того, как будут увеличены квоты PHP, следует внести изменения в настройки компонентов.</p>
+ ]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>400</edge_sort>
+<id>90</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

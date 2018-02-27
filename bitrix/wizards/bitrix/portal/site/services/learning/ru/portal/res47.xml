@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>57</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>300</sort>
+<timestamp_x>1422877378</timestamp_x>
+<date_create>1422877378</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Просмотр задачи</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<menu id="topictoc">
+  <li><a href="#tasks_view">Описание задачи</a></li>
+  <li><a href="#tasks_view_buttons">Элементы управления задачей</a></li>
+  <li><a href="#tasks_view_info_panel">Информационная панель</a></li>
+</menu>
+
+<br>
+
+<p>Сотрудник может просматривать только те задачи, к которым он причастен. Например, задачи, в которых он соисполнитель или задачи назначенные группе, в которой он состоит.</p>
+
+<p>Для просмотра задачи кликните на ее заголовок в <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2360#tasks_list">списке задач</a>, после чего откроется страница просмотра задачи:</p>
+
+<p><a href="javascript:ShowImg('/images/portal_user/personal_page/tasks/task_view.png',1033,409,'Страница просмотра задачи')">
+<img src="cid:resources/res47/bQNav.PSvOK.task_view_sm.png" alt="Нажмите на рисунок, чтобы увеличить" width="655" height="259" border="0" /></a></p>
+
+
+
+<p>В верхней части страницы указан <b>номер задачи</b> и ссылки навигации:</p>
+<ul>
+  <li><b>Добавить подзадачу</b> - ссылка, позволяющая перейти к форме создания подзадачи, которая аналогична <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2370#task_create">форме создания задачи</a>;  </li>
+  <li><b>Вернуться к списку задач</b> - ссылка, позволяющая перейти на страницу со <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2360#tasks_list">списком задач</a>;  
+ </li>
+</ul>
+
+  <p><div class="hint"><b>Примечание:</b> Если просматриваемая задача содержит подзадачи, то будет доступна кнопка <img src="cid:resources/res47/ayEfy.txsxx.but_task_add_quick.png" border="0" width="19" height="19" />. Она позволяет создать быструю подзадачу прямо в списке подзадач аналогично созданию <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2360#tasks_buttons">быстрой задачи</a>.</div></p>
+
+
+
+<br>
+
+<a name="tasks_view"></a><h4>Описание задачи</h4>
+
+
+<p>В центральной части страницы расположено описание задачи и поле тегов:</p>
+<p><img src="cid:resources/res47/mV7HW.3JAY2.task_view_main.png" border="0" alt="Описание задачи и поле тегов" width="643" height="230" /></p>
+
+<p>Если Вы являетесь создателем задачи для другого сотрудника, то в поле <b>Теги</b> будет доступна ссылка <b style="color: #888888;">добавить</b>, которая позволяет добавить теги к задаче. Подробнее про добавление тегов смотрите в разделе <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2370#task_create">Создание задач</a>.</p>
+
+
+<br>
+
+<a name="tasks_view_buttons"></a><h4>Элементы управления задачей</h4>
+<p>Под описанием задачи расположены элементы управления:</p>
+<ul>
+  <li><img src="cid:resources/res47/jtquA.Myd0E.but_tview_accept.png" border="0" width="117" height="27" /> - кнопка <b>Принять задачу</b>, позволяющая принять назначенную задачу;
+  <p><div class="hint"><b>Примечание:</b> Данная кнопка не будет отображаться у сотрудника, если задача поставлена начальником какого-либо отдела. Другими словами задача от начальника принимается автоматически.</div></p>
+  </li>
+    <li><img src="cid:resources/res47/b7vgA.ZdmRZ.but_tview_finish.png" border="0" width="88" height="27" /> - кнопка <b>Завершить</b>, позволяющая завершить выполнение задачи;  </li>
+  <li><img src="cid:resources/res47/USIRy.JiCnm.but_tview_start.png" border="0" width="151" height="27" /> - кнопка <b>Начать выполнение</b>, позволяющая начать выполнение задачи;  </li>
+  <li><img src="cid:resources/res47/tTaWb.w1prz.but_tview_reject.png" border="0" width="87" height="27" /> - кнопка <b>Отклонить</b>, позволяющая отклонить назначенную задачу;  </li>
+ 
+  <li><b style="color: #DD7D00;">Приостановить</b> - ссылка, позволяющая временно приостановить выполнение задачи;  </li>
+  <li><b style="color: #DD7D00;">Возобновить</b> - ссылка, позволяющая продолжить выполнение приостановленной или завершенной задачи.  </li>
+</ul>
+
+<br>
+
+<p>Если вы являетесь создателем задачи, то для вас будут доступны другие элементы управления задачей:</p>
+<ul>
+
+
+  <li><img src="cid:resources/res47/0wldQ.EcjBG.but_tview_approve.png" border="0" width="115" height="27" /><font color="red">*</font> - кнопка <b>Принять работу</b>, позволяющая принять выполненную сотрудником задачу;</li>
+  <li><img src="cid:resources/res47/Jf4LS.oCAtQ.but_tview_rework.png" border="0" width="83" height="27" /><font color="red">*</font> - кнопка <b>Доделать</b>, позволяющая повторно поставить сотруднику задачу с целью ее доделывания;</li>
+
+  <li><b>Редактировать</b> - ссылка, позволяющая перейти к форме <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2370#task_create">создания/редактирования</a> задачи;  </li>
+  
+  <li><b style="color: #0069C4;">Принять работу</b> - ссылка, позволяющая принять и закрыть выполненную сотрудником задачу;  </li>
+  <li><b style="color: #DD7D00;">Возобновить</b> - ссылка, позволяющая продолжить выполнение приостановленной или завершенной сотрудником задачи;  </li>
+  <li><b style="color: #CC2020;">Удалить </b> - ссылка, позволяющая удалить задачу.  </li>
+</ul>
+
+  <p><div class="hint"><b>Примечание:</b> Элементы управления, отмеченные <font color="red">*</font>, доступны только при постановке задачи, которая требует <b>Проконтролировать результат выполнения</b> (при создании была отмечена соответствующая опция).</div></p>
+
+
+<br>
+
+
+<p><div class="hint">
+<b>Примечание:</b> Если просматриваемая задача содержит подзадачи, то на странице просмотра будет отображен соответствующий список, действия которого аналогичны <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2360">обычному списку задач</a>:
+
+<p><a href="javascript:ShowImg('/images/portal_user/personal_page/tasks/task_view_subtasks_list.png',746,410,'Список подзадач')">
+<img src="cid:resources/res47/w5Vnr.AWDwC.task_view_subtasks_list_sm.png" alt="Нажмите на рисунок, чтобы увеличить" width="600" height="330" border="0" /></a></p>
+</div></p>
+
+
+<br>
+
+
+<p>Под элементами управления расположена форма для комментариев, которая становится доступна по клику на ссылку <b>Добавить комментарий или отчет</b>:</p>
+
+<p><a href="javascript:ShowImg('/images/portal_user/personal_page/tasks/task_view_comments.png',723,518,'Форма комментариев')">
+<img src="cid:resources/res47/igOnd.oflf3.task_view_comments_sm.png" alt="Нажмите на рисунок, чтобы увеличить" width="590" height="423" border="0" /></a></p>
+
+
+<p>В нее можно занести комментарии к поставленной задаче или же написать отчет о выполненной работе.</p>
+
+
+<br>
+
+
+
+
+
+<a name="tasks_view_info_panel"></a><h4>Информационная панель</h4>
+
+<p>В правой части страницы расположена информационная панель. В ней отображается основная информация о поставленной задаче и следующие элементы управления:</p>
+
+<table width="100%" cellpadding="5"> 
+  <tbody> 
+    <tr valign="top">
+	 <td>  <p><img src="cid:resources/res47/RnZJn.Bo0U3.task_view_infopanel_1.png" border="0" alt="Информационная панель" width="260" height="360" /></p> </td>
+
+	 <td>
+        <ul> 
+          <li>поле <b>Крайний срок</b> - позволяет изменить дату до, которой должна быть выполнена задача;
+            <p><div class="hint"><b>Примечание:</b> Крайний срок может изменить:
+              <ul>
+                <li>постановщик задачи;</li>
+                <li>сотрудник, которому назначена задача, но только если при её создании постановщик отметил опцию <b>Разрешить ответственному менять сроки</b>.</li>
+              </ul>
+            </div></p>
+          </li>
+
+          <li>поле <b>Затрачено</b> - позволяет изменить время, затраченное на выполнение задачи.</li>
+	   </ul>
+	 </td>
+    </tr>
+  </tbody> 
+</table> 
+	 
+<p><div class="hint"><b>Примечание:</b> Если вы являетесь создателем задачи, то для вас будут доступны дополнительные элементы управления задачей на этой панели:
+<table width="100%" cellpadding="5"> 
+  <tbody> 
+    <tr valign="top">
+	 <td>  <p><img src="cid:resources/res47/0o0dD.YYaD2.task_view_infopanel_2.png" border="0" alt="Информационная панель постановщика задачи" width="260" height="426" /></p> </td>
+
+	 <td>
+        <ul>  
+          <li>ссылка <b style="color: #888888;">сменить</b> - позволяет сменить сотрудника, ответственного за выполнение задачи;</li>
+          <li>поле <b>Приоритет</b> - позволяет изменить приоритет задачи;</li>
+          <li>поле <b>Крайний срок</b> - позволяет изменить дату до которой должна быть выполнена задача;</li>
+          <li>поле <b>Оценка</b> - позволяет выставить задаче оценку;</li>
+          <li>ссылка <b style="color: #888888;">Добавить соисполнителей</b> - позволяет добавить к задаче еще сотрудников, которые буду также ее выполнять;</li>
+          <li>ссылка <b style="color: #888888;">Добавить наблюдателей</b> - позволяет добавить к задаче сотрудников, которые будут получать уведомления о ходе задачи, но не смогут участвовать в ней или изменять ее.</li>
+        </ul>
+	 </td>
+    </tr>
+  </tbody> 
+</table>
+</div></p>
+
+
+<p><div class="hint"><b>Примечание:</b> Если вы являетесь руководителем отдела, то вам будет доступно включение задачи в отчет по эффективности:
+<p><img src="cid:resources/res47/swc2B.vrOJX.task_view_infopanel_3.png" border="0" alt="Информационная панель постановщика задачи" width="260" height="117" /></p></div>
+</p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>300</edge_sort>
+<id>57</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

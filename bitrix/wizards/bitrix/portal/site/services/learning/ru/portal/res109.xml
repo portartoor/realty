@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>118</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>300</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Бизнес-процессы</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Бизнес процессы организации предназначены для автоматизации рутинной деятельности оганизации. По умолчанию создано и представлено два типовых бизнес-процесса: Оформление командировки и оформление отпуска. Администратор системы может добавлять собственные процессы.</p>
+
+<p><img src="cid:resources/res109/Qohlp.neNqC.bizproc_org_view.png" border="0" height="306" width="513" /></p>
+
+<p>Детально о бизнес-процессах компании смотрите в уроке <a href="https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2363" target="_blank">Бизнес-процессы организации</a></p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>300</edge_sort>
+<id>118</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

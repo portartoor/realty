@@ -1,0 +1,97 @@
+.jcarousel-wrapper {
+    margin: 0 auto;
+    position: relative;
+}
+
+
+.jcarousel-wrapper .photo-credits {
+    position: absolute;
+    right: 15px;
+    bottom: 0;
+    font-size: 13px;
+    color: #fff;
+    text-shadow: 0 0 1px rgba(0, 0, 0, 0.85);
+    opacity: .66;
+}
+
+.jcarousel-wrapper .photo-credits a {
+    color: #fff;
+}
+
+/** Carousel **/
+
+.jcarousel {
+    position: relative;
+    overflow: hidden;
+    width: 600px;
+	margin: 0 auto;
+}
+
+.jcarousel ul {
+    width: 20000em;
+    position: relative;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.jcarousel li {
+    float: left;
+}
+
+/** Carousel Controls **/
+
+.jcarousel-control-prev,
+.jcarousel-control-next {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 50%;
+}
+a.jcarousel-control-prev, a.jcarousel-control-next {
+	outline:none;
+	outline-width:0;
+	-moz-user-select:none;
+    -webkit-user-select:none;
+}
+.jcarousel-control-prev {
+    left: 0;
+}
+
+.jcarousel-control-next {
+    right: 0;
+}
+
+.jcarousel-control-prev:hover span,
+.jcarousel-control-next:hover span {
+    display: block;
+}
+
+.jcarousel-control-prev.inactive,
+.jcarousel-control-next.inactive {
+    opacity: .5;
+    cursor: default;
+}
+
+/** Carousel Pagination **/
+
+.jcarousel-pagination {
+    position: relative;
+    bottom: 40px;
+	text-align:center;
+}
+
+.jcarousel-pagination a {
+    display: inline-block;
+    font-size: 0px;
+    background:url("/bitrix/templates/realty/images/jcarousel_point.png") left center no-repeat;   
+    margin-right: 2px;
+	width:20px;
+	height:20px;
+	background-size: cover;
+}
+
+.jcarousel-pagination a.active {
+    background:url("/bitrix/templates/realty/images/jcarousel_point_a.png") left center no-repeat;   
+	background-size: cover;
+}

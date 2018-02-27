@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>146</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>100</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Функционал раздела</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Помимо администрации и руководства, по умолчанию к CRM доступ имеют только сотрудники, входящие в группу <b>Маркетинг и продажи</b>.</p>
+
+<p>Для различных групп пользователей функционал CRM несколько различается. Ниже в таблице приведен функционал, соответствующий различным группам сотрудников и указаны соответствующие страницы:</p>
+
+<table cellspacing=0 cellpadding=0>        
+  <tbody> 
+    <tr bgcolor="white">
+    <td bgcolor="#8C8C8C"> 
+<table cellspacing="1" cellpadding="5">
+          <tbody>
+            <tr bgcolor="#8C8C8C"><td><b>Функционал</b></td><td><b>Страница</b></td><td><b>Права пользователя</b></td></tr>
+          
+    
+    <tr bgcolor="#ffffff"><td>Добавить гаджет</td>
+<td>Рабочий стол CRM</td>
+<td>Маркетинг и продажи</td>
+</tr>
+  
+    <tr bgcolor="#eeeeee"><td>Сбросить текущие настройки</td>
+<td>Рабочий стол CRM</td>
+<td>Маркетинг и продажи</td></tr>
+
+ <tr bgcolor="#ffffff"><td>Сохранить текущие настройки как настройки по умолчанию</td>
+<td>Рабочий стол CRM</td>
+<td>Администрация портала</td></tr>
+
+  
+    <tr bgcolor="#eeeeee"><td>Действия с сущностями CRM</td>
+<td>Страницы разделов Контакты, Компании, Сделки, Лиды</td>
+<td>Маркетинг и продажи</td></tr>
+  
+    <tr bgcolor="#ffffff"><td>Назначение прав доступа</td>
+<td>Права доступа</td>
+<td>Руководство</td></tr>
+  
+    <tr bgcolor="#eeeeee"><td>Настройка значений параметров сущностей</td>
+<td>Справочники   
+     </td>
+<td>Руководство
+      </td></tr>
+
+    <tr bgcolor="#ffffff"><td>Создание новых полей</td>
+<td>Настраиваемые поля</td>
+<td>Руководство</td></tr>
+
+<tr bgcolor="#eeeeee"><td>Создание интеграции Send&Save</td>
+<td>Интеграция Send&Save
+     </td>
+<td>Руководство
+      </td></tr>
+  
+   </tbody>
+         </table>
+             </td></tr>
+
+  </tbody>
+</table>
+
+
+
+
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>100</edge_sort>
+<id>146</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

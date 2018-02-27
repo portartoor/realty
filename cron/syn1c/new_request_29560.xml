@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<REQUESTS><item><ID>29560</ID><UF_ID>0</UF_ID><uf_source>00-00000069</uf_source><uf_operation_type>Продажа вторичной недвижимости</uf_operation_type><uf_status>Открыт в продажу</uf_status><uf_realty_type>Жилая</uf_realty_type><uf_object_type>000000001</uf_object_type><uf_contragent><new><UF_PHONE>1111</UF_PHONE><UF_PHONE_1/><UF_FIO>Тест</UF_FIO><UF_MAIL>wasilevskaja@gmail.com</UF_MAIL><UF_PHONE_1_CODE/></new></uf_contragent><uf_agent>259eec70-6ae1-11e2-b6b7-b74deef9eed9</uf_agent><uf_addr_block>Индекс=238222
+КодРегиона=39
+Регион=Калининградская обл
+Район=Гвардейский р-н
+Город=Ельняки п
+Улица=Мира ул
+Дом=1
+Страна=РОССИЯ
+КодСтраны=643</uf_addr_block><uf_addr_flat>11</uf_addr_flat><uf_add_date>19.10.2016 15:52:12</uf_add_date><uf_update_date>19.10.2016 16:00:10</uf_update_date><uf_etage>1</uf_etage><uf_etage_count>3</uf_etage_count><uf_total_square>30</uf_total_square><uf_living_square>25</uf_living_square><uf_kitchen_square>5</uf_kitchen_square><uf_rooms>2</uf_rooms><UF_CLIENT_PRICE>3000</UF_CLIENT_PRICE><uf_remont_status>000000009</uf_remont_status><uf_sanusel_type>000000003</uf_sanusel_type><uf_water>000000004</uf_water><uf_heating>000000008</uf_heating><uf_reklama>111</uf_reklama><uf_www>Нет</uf_www><uf_comment></uf_comment><uf_garage_square>0</uf_garage_square><uf_cellar_square>0</uf_cellar_square><uf_lot_square>0</uf_lot_square><uf_gas></uf_gas><uf_land_owner_type></uf_land_owner_type><uf_naruzhn_reklama>Нет</uf_naruzhn_reklama><uf_house_type></uf_house_type><uf_entrance></uf_entrance><uf_construct_perm></uf_construct_perm><uf_owner_rights></uf_owner_rights><uf_goal></uf_goal><uf_entry></uf_entry><uf_electricity></uf_electricity><uf_distance></uf_distance><uf_latitude>54.6561</uf_latitude><UF_PRICE_CUST>0</UF_PRICE_CUST><uf_longitude>21.0778</uf_longitude><UF_PRICE_SELL>0</UF_PRICE_SELL><uf_balcony></uf_balcony><uf_phone></uf_phone><uf_internet></uf_internet><uf_furniture>Нет</uf_furniture><uf_refrigerator>Нет</uf_refrigerator><uf_parking></uf_parking><UF_ROOMS_FROM>0</UF_ROOMS_FROM><UF_ROOMS_TO>0</UF_ROOMS_TO><UF_SQUARE_FROM>0</UF_SQUARE_FROM><UF_SQUARE_TO>0</UF_SQUARE_TO><UF_PRICE_FROM>0</UF_PRICE_FROM><UF_PRICE_TO>0</UF_PRICE_TO><UF_MATERIAL>1</UF_MATERIAL><UF_PHOTO_PREVIEW>http://portal.invent-realty.ru/upload/pictures/29560/47a/3-r.png</UF_PHOTO_PREVIEW><UF_PHOTOS><item>http://portal.invent-realty.ru/upload/pictures/29560/17d/20160910_165004 (1).jpg</item></UF_PHOTOS><UF_PLAN_PHOTOS><item>http://portal.invent-realty.ru/upload/pictures/29560/b9b/bl_view_a.png</item></UF_PLAN_PHOTOS><UF_DOCS><item>http://portal.invent-realty.ru/upload/pictures/29560/0dc/bl_view.png</item></UF_DOCS><UF_URL></UF_URL><UF_CEILING_HEIGHT></UF_CEILING_HEIGHT><UF_SEWERAGE></UF_SEWERAGE><uf_price>3000</uf_price><UF_ADDR_HOUSE>1</UF_ADDR_HOUSE><uf_loggia></uf_loggia><UF_CATEGORY></UF_CATEGORY><UF_SEARCH_LINE>new_client_65844, 564d5d7e-122d-11e5-a293-005056a97139, Индекс=352500 КодРегиона=39 Регион=Калининградская обл Страна=РОССИЯ КодСтраны=643</UF_SEARCH_LINE><answer_1c_Exception>SoapFault exception: [soap:Client] Unknown error. {WebСервис.WS.Модуль(248)}: Value is not of object type (Номер)
+reason:
+{WebСервис.WS.Модуль(248)}: Value is not of object type (Номер) in /var/www/admin/data/www/portal.invent-realty.ru/bitrix/php_interface/init.php:39
+Stack trace:
+#0 /var/www/admin/data/www/portal.invent-realty.ru/bitrix/php_interface/init.php(39): SoapClient-&gt;__call('NewOrder', Array)
+#1 /var/www/admin/data/www/portal.invent-realty.ru/bitrix/php_interface/init.php(39): SoapClient-&gt;NewOrder(Array)
+#2 /var/www/admin/data/www/portal.invent-realty.ru/cron/syn_1c.php(366): SoapPortalInvent-&gt;NewApplication('PD94bWwgdmVyc2l...')
+#3 /var/www/admin/data/www/portal.invent-realty.ru/cron/syn_1c.php(53): Syn1c-&gt;SendRequests()
+#4 /var/www/admin/data/www/portal.invent-realty.ru/cron/syn_1c.php(449): Syn1c-&gt;Run()
+#5 {main}</answer_1c_Exception></item></REQUESTS>

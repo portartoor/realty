@@ -1,0 +1,11 @@
+<?
+$DB->Query("DELETE FROM b_event_type WHERE EVENT_NAME in (
+	'VIDEO_CALL_USER_INVITE', 
+	'VIDEO_CONF_USER_INVITE'
+	)");
+
+$DB->Query("DELETE FROM b_event_message WHERE EVENT_NAME in (
+	'VIDEO_CALL_USER_INVITE', 
+	'VIDEO_CONF_USER_INVITE'
+	)");
+?>

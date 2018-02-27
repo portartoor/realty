@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>45</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>200</sort>
+<timestamp_x>1422877378</timestamp_x>
+<date_create>1422877378</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>События</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>В каждый из календарей можно добавлять события несколькими способами, а для планирования коллективных событий можно использовать <b>Планировщик событий</b>.</p>
+
+<menu>
+  <li><a href="#event_add">Добавление событий</a></li>
+  <li><a href="#event_manage">Управление событиями</a></li>
+  <li><a href="#event_plan">Планировщик событий</a></li>
+</menu>
+
+<br>
+
+
+<h4><a name="event_add"></a>Добавление событий</h4>
+
+<p>Мероприятия могут быть однодневными или занимать несколько дней. Добавить событие можно одним из двух способов.</p>
+
+<p><b>Способ 1</b>:</p>
+
+<ul>
+  <li>В сетке календаря выберите день события, проведения мероприятия и кликнете по нему. Откроется окно добавления события:
+
+<p><img src="cid:resources/res31/h1E4m.b0qjR.profile_calendar_event_simple.png" border="0" width="362" height="234" alt="Новое событие" ></p>
+
+  </li>
+
+  <li>Укажите <b>Название</b> события, выберите <b>Календарь</b>, к которому относится это событие, и при необходимости задайте <b>Описание</b> события.</li> 
+
+  <p></p><div class="hint"><b>Примечание</b>: если событие должно быть многодневным, то нажмите ссылку <b>Еще...</b> (смотрите <a href="#way_2">Способ 2</a>).</div><p></p>
+
+  <li>Нажмите кнопку <b>Добавить</b>. </li>
+</ul>
+
+<a name="way_2"></a><p><b>Способ 2</b>:</p>
+
+<ul>
+  <li>Нажмите на кнопку <img src="cid:resources/res31/gpmSE.rNIde.profile_calendar_event_plus.png" border="0" height="20" width="20">, расположенную в верхнем левом углу календаря. Откроется окно добавления нового события:
+
+<p><img src="cid:resources/res31/uVfZW.HjusF.profile_calendar_event_new.png" alt="Новое событие" border="0" width="472" height="409" ></p>
+
+  </li>
+
+  <li>Обязательно укажите дату начала и, если необходимо, дату окончания мероприятия. Можно задать время начала и окончания мероприятия. Для этого используйте кнопку <img src="cid:resources/res31/AuG8L.KRJoQ.profile_calendar_clock_button.png" border="0" height="17" width="17">, по нажатию которой откроется форма с часами:
+  
+  <p><img src="cid:resources/res31/FwPMV.PiNjE.profile_calendar_clock.png" border="0" height="175" width="112"></p>
+  
+  <p>С помощью стрелок на циферблате или полей для ввода времени установите необходимое время и нажмите кнопку <b>Вставить</b>.</p>
+  </li>
+
+  <li>Укажите <b>Название</b> нового события, <b>Место проведения</b>, выберите <b>Календарь</b>, к которому оно относится.</li>
+
+  
+  <li>На закладке <b>Описание</b> задайте краткое описание события (для форматирования текста описания можно использовать элементы панели инструментов):
+  
+   <p><img src="cid:resources/res31/yYlUD.JrL18.profile_calendar_event_new_txt.png" border="0" width="472" height="409" alt="Описание нового события" ></p>
+  
+  </li>  
+  
+  <li>На закладке <b>Участники</b> можно указать участников события.</li>
+  
+  <p></p><div class="hint"><b>Примечание</b>: детальное планирование событий осуществляется с помощью ссылки <a href="#event_plan">Планировщик событий</a>.</div><p></p>
+
+  
+  <p>Для этого в поле <b>Добавить участника</b> введите несколько букв имени (фамилии, имени или отчества) сотрудника, выберите сотрудника из выпадающего списка и нажмите кнопку <b>Добавить</b>:</p>
+  
+   <p><img src="cid:resources/res31/oLWWy.kSA3Z.profile_calendar_event_person_list.png" border="0" width="472" height="409" alt="Участники события" ></p>
+
+  <p>Добавить участников события также можно <b>Из структуры компании</b>:</p>
+  
+    <p><img src="cid:resources/res31/1oYqb.2iPXC.profile_calendar_event_person.png" border="0" width="513" height="468" alt="Выбор участников события из структуры" ></p>
+
+  <p>Текст приглашения для всех участников можно добавить с помощью ссылки <b>Добавить текст приглашения</b>, по нажатии которой будет отображено поля для ввода текста:</p>
+
+  <p><img src="cid:resources/res31/GJjWy.usORU.profile_calendar_event_person_txt.png" border="0" width="472" height="445" alt="Текст приглашения" ></p>
+
+  <p></p><div class="hint"><b>Примечание</b>: изменение текста приглашения приведет к повторному оповещению всех участников события.</div><p></p>
+  
+  <p>Указанным сотрудникам будет отправлено соответствующее сообщение с приглашением, посредством которого он согласится или откажется от участия в событии. После принятия решения сотрудником по поводу участия в событие в списке участников события будет отображен один из статусов:</p>
+  <ul>
+    <li><img src="cid:resources/res31/u3iWJ.urVmU.profile_calendar_event_1.png" border="0" height="13" width="13"> - сотрудник подтвердил свое участие;</li>
+    <li><img src="cid:resources/res31/9xy4k.lb0Jd.profile_calendar_event_3.png" border="0" height="13" width="13"> - сотрудник отказался принять участие;</li>
+
+    <li><img src="cid:resources/res31/sB1uc.B8Pem.profile_calendar_event_2.png" border="0" height="13" width="13"> - мнение сотрудника неизвестно.</li>
+  </ul>
+
+  <p>Удалить участника из списка приглашенных можно с помощью кнопки <img src="cid:resources/res31/x4cOZ.fVLrg.profile_calendar_event_person_delete.png" border="0" height="12" width="12">. Очистить весь список участников позволяет ссылка <b>Удалить всех</b>.</p>
+  
+  <p></p><div class="hint"><b>Примечание</b>: удаление организатора события ведет к удалению всех участников события.</div><p></p>
+
+  
+  <li>На закладке <b>Дополнительно</b> настраиваются дополнительные параметры события:
+
+    <p><img src="cid:resources/res31/IuynR.DhsqZ.profile_calendar_event_adds.png" border="0" width="472" height="445" alt="Закладка Дополнительно" ></p>
+  
+  <ul>
+    <li><b>Повторяемость события</b> - позволяет задать повтор события (каждый день/неделю/месяц/год) и ограничить время повтора события; </li>
+    <li><b>Напоминание</b> - позволяет задать время (за сколько минут/часов/дней) будет осуществляться напоминание о событии;</li>
+
+    <li><b>Особые отметки</b> - позволяет указать важность события (<b>Высокая</b>, <b>Нормальная</b>, <b>Низкая</b>) и сделать событие частным.</li>
+	<p></p><div class="hint"><b>Примечание</b>: частное событие будет отображено в календаре только сотруднику, который создал это событие. Пригласить участников события нельзя.</div><p></p>
+  </ul>  
+  </li>
+
+  
+  <li>Нажмите кнопку <b>Сохранить</b>.</li>
+</ul>
+
+<p>В итоге в общей сетке календаря будут показаны события отмеченных избранных и личных календарей:</p>
+
+    <p><img src="cid:resources/res31/RbVKM.M1Atl.profile_calendar_view_all.png" border="0" width="687" height="633" alt="Календарь событий" ></p>
+
+<br>
+
+
+<h4><a name="event_manage"></a>Управление событиями</h4>
+
+<p>Управление созданным событием календаря осуществляется с помошью инструментов, доступных при наведении курсором мыши на событие:</p>
+
+<p><img src="cid:resources/res31/U9ojI.sjoea.profile_calendar_managment.png" border="0" height="87" width="195"></p>
+
+<ul>
+  <li><img src="cid:resources/res31/ZtDsW.u7MYK.profile_calendar_event_view_but.png" border="0" height="18" width="17"> - позволяет перейти к форме просмотра события:</li>
+  
+  <p><img src="cid:resources/res31/zoPAd.VGKt6.profile_calendar_event_view.png" border="0" width="477" height="370" alt="Просмотр события" ></p>
+  
+  <li><img src="cid:resources/res31/LNejn.AEhfJ.profile_calendar_event_edit.png" border="0" height="18" width="17"> - позволяет перейти к форме редактирования события, аналогичной форме создания события;</li>
+  <li><img src="cid:resources/res31/r6tNn.Dtp7M.profile_calendar_event_delete.png" border="0" height="18" width="17"> - позволяет удалить событие.</li>
+
+  <p></p><div class="hint"><b>Примечание</b>: изменить или удалить событие календаря также можно в форме просмотра события с помощью ссылок <b>Редактировать</b> или <b>Удалить</b>.</div><p></p>
+</ul>
+
+
+<br>
+
+
+<h4><a name="event_plan"></a>Планировщик событий</h4>
+
+<p>На портале сотрудникам удобно планировать коллективные (общие) события, контролируя занятость или отсутствие приглашенных сотрудников в офисе. Для этого в продукте реализован <b>Планировщик событий</b>:</p>
+
+  <p><img src="cid:resources/res31/0ckhf.GyC67.profile_calendar_event_group_green.png" border="0" width="662" height="500" alt="Планировщик событий" ></p>
+
+<p>Перейти в <b>Планировщик событий</b> можно:</p>
+<ul>
+  <li>с помощью кнопки <img src="cid:resources/res31/oXzmq.Owu0h.profile_calendar_event_plan.png" border="0" height="20" width="20">, расположенной на странице календаря сотрудника, компании и т.д.;</li>
+  <li>при создании нового события с помощью ссылки <b>Планировщик событий</b>, расположенной на закладке <b>Участники</b> формы создания/редактирования события.</li>
+
+</ul>
+
+<p>При создании нового коллективного события укажите:</p>
+
+<ul>
+  <li><b>Начало</b> и <b>Окончание</b> события с помощью инструментов <b>Календарь</b> (<img src="cid:resources/res31/hTZJJ.40Fdq.profile_calendar_event_person_calendar.png" border="0" height="15" width="15">) и <b>Часы</b> (<img src="cid:resources/res31/VvFPU.Zii1Z.profile_calendar_event_person_clock.png" border="0" height="17" width="17">);</li>
+
+  <li><b>Длительность</b> (в минутах, часах, днях) события;</li>
+
+  <p></p><div class="hint"><b>Примечание</b>: продолжительность события можно заблокировать (<img src="cid:resources/res31/wPWCK.8rbWY.profile_calendar_event_lock.png" border="0" height="14" width="11">) или разблокировать (<img src="cid:resources/res31/KIauz.6TCNE.profile_calendar_event_unlock.png" border="0" height="14" width="16">).</div><p></p>
+
+  <li><b>Место проведения</b> события;</li>
+
+  <li>участников события:
+  <p>- в поле <b>Добавить участника</b> задайте несколько букв имени (фамилии, имени или отчества) сотрудника, выберите сотрудника из выпадающего списка и добавьте к списку участников с помощью кнопку <b>Добавить</b>;</p> 
+  <p>- выбрав участников события с помощью ссылки <b>Из структуры компании</b>:</p>
+  
+  <p><img src="cid:resources/res31/DCAy6.VvbsW.profile_calendar_event_person.png" border="0" width="513" height="468" alt="Выбор участников события из структуры" ></p>
+  
+  <p></p><div class="hint"><b>Примечание</b>: удалить сотрудника из списка участников можно с помощью кнопки <img src="cid:resources/res31/QFXSM.eKhep.profile_calendar_event_person_delete.png" border="0" height="12" width="12">. Удалить всех участников из список позволяет ссылка <b>Очистить</b>.</div><p></p>
+
+  </li>
+</ul>
+
+<p>В результате на сетке планировщика можно будет просмотреть коллективное событие.</p>
+
+<p>Масштаб сетки можно регулировать с помощью поля <b>Масштаб</b>, указав в каком представлении времени отображать сетку: <b>30 минут</b>, <b>1 час</b>, <b>2 часа</b>, <b>1 день</b>.</p>
+
+<p>Если выбранные сотрудники заняты или отсутствуют в офисе, то на сетке планировщика будут отображены соответствующие интервалы времени. При этом если планируемое событие пересекается с этими интервалами, то на сетке оно будет отображено красным цветом:</p>
+
+  <p><img src="cid:resources/res31/WWA6W.6qwgm.profile_calendar_event_group_red.png" border="0" width="662" height="500" alt="Планировщик событий" ></p>
+
+<p>После изменения времени общего события (например, заблокировать продолжительность события и переместить его по сетке при помощи мыши) с учетом занятости/отсутствия сотрудников планируемое событие будет отображено зеленым цветом:</p>
+
+  <p><img src="cid:resources/res31/P97Dp.1jfVM.profile_calendar_event_group_green.png" border="0" width="662" height="500" alt="Спланированное событие в окне планировщика" ></p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>200</edge_sort>
+<id>45</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

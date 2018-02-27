@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>46</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>300</sort>
+<timestamp_x>1422877378</timestamp_x>
+<date_create>1422877378</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Экспорт календарей</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Календари портала могут быть экспортированы разными способами, которые рассмотрены ниже.</p>
+<menu>
+  <li><a href="#export_msoutlook">Экспорт (MS Oulook)</a></li>
+  <li><a href="#export_ical">Экспорт (iCal)</a></li>
+  
+  <li><a href="#mobile_connect">Соединение календарей с мобильными устройствами</a></li>
+  <li><a href="#exchange_connect">Соединение календарей с Microsoft Exchange</a></li>
+</menu>
+
+<p>Основные операции по синхронизации/экспорту календарей вынесены на специальный баннер:</p>
+  <p><img src="cid:resources/res32/jlckJ.DoEQG.banner.png" border="0" width="356" height="129"></p>
+
+<p><div class="hint"><b>Примечание:</b> Функционал соединения календарей с <b>мобильными устройствами</b> и <b>Microsoft Exchange</b> зависит от настроек портала и может быть недоступен для конкретной реализации портала компании. При возникновении трудностей обратитесь к администратору портала.</div></p>
+  
+  
+
+<br>
+
+
+
+<p><a name="export_msoutlook"></a><b>Экспорт (MS Oulook)</b></p>
+<p><div class="warning"><b>Внимание! </b>Для полноценной интеграции КП с Outlook требуется версия <b>Outlook 2007</b>.</div></p>
+
+<p>Для двусторонней синхронизации событий календарей портала (например, личного, компании, сотрудников) с календарями <b>MS Outlook</b> необходимо экспортировать эти календари из Корпоративного портала.</p>
+
+<p>Для этого выполните следующее:</p>
+<ul>
+  <li>В портале перейдите на страницу содержащую календарь событий, который нужно экспортировать. В меню действий календаря выберите пункт <b>Соединить с Outlook</b>:
+   <p><img src="cid:resources/res32/sdd2A.ZUZTn.profile_calendar_export_msoulook_go.png" border="0" height="188" width="239"></p>
+
+  <p>или</p>
+
+  <p>В специальной форме соединения с Outlook выберите требуемый календарь:</p> 
+  <p><img src="cid:resources/res32/grtw7.NCTHJ.profile_calendar_export_msoulook_banner.png" border="0" height="152" width="356"></p>
+
+  <p>По этой команде запустится <b>MS Outlook</b>, при этом будет выведено следующее предупреждение:</p>
+   <p><img src="cid:resources/res32/tiM0e.Tx8C7.profile_calendar_export_msoutlook_1.png" border="0" width="482" height="202" alt="Предупреждение" ></p>
+  
+  </li>
+
+  <li>Нажмите кнопку <b>Да</b> для продолжения подключения календаря, либо кнопку <b>Дополнительно...</b> для вызова диалога дополнительной настройки параметров:</li>
+  <p><img src="cid:resources/res32/Obuyd.I8l6s.profile_calendar_export_msoutlook_2.png" border="0" width="518" height="448" alt="Дополнительные параметры" ></p>
+
+  <li>Введите <b>Имя папки</b> (название календаря) и <b>Описание</b> календаря и нажмите кнопку <b>OK</b>.</li>
+  <p>В результате в <b>MS Oulook</b> будет добавлен календарь, в данном случае <b>Тимофей Барановский - Работа</b>, события которого будут отображены на сетке календаря:</p>
+  <p><img src="cid:resources/res32/bVVeO.dRNkg.profile_calendar_export_msoutlook_3.png" border="0" width="650" height="527" alt="Календарь Тимофей Барановский - Работа" ></p>
+
+  <li>Аналогичным образом выполняется экспорт нескольких календарей. Если события нескольких календарей отобразить на одной сетке, то календарь примет вид, схожий с календарем портала:</li>
+  <p><img src="cid:resources/res32/mLqxR.oS8te.profile_calendar_export_msoutlook_4.png" border="0" width="650" height="527" alt="Календарь" ></p>
+  
+</ul>
+
+<p>При добавлении нового события в календарь <b>MS Outlook</b> это событие будет автоматически добавлено в календарь портала.</p>
+
+<p>Для этого выполните следующее:</p>
+
+<ul>
+  <li>В сетке календаря выберите день события проведения мероприятия и дважды кликнете по нему. Откроется окно добавления нового события:</li>
+  <p><img src="cid:resources/res32/yu9Qv.Y6lyi.profile_calendar_export_msoutlook_new_event.png" border="0" width="650" height="409" alt="Создание события в календаре MS Outlook" ></p>  
+
+  <li>Заполните поля: <b>Тема</b>, <b>Начало</b>, <b>Конец</b> и <b>Описание</b>.</li>
+
+  <p></p><div class="hint"><b>Примечание</b>: поле <b>Место</b> можно заполнять, но при экспорте события в календари портала это поле в событиях отображаться не будет.</div><p></p>
+
+  <li>Нажмите кнопку <b>Сохранить и закрыть</b>.</li>
+
+</ul>
+
+<p>В результате новое событие будет добавлено в календарь <b>MS Outlook</b>:</p>
+  <p><img src="cid:resources/res32/QGV85.s79aU.profile_calendar_export_msoutlook_event.png" border="0" width="650" height="527" alt="Событие в календаре MS Outlook" ></p> 
+ 
+<p>После добавления события в календарь <b>MS Outlook</b> автоматически произойдет синхронизация с календарем портала. Ход синхронизации будет отображен в нижнем правом углу <b>MS Outlook</b>:</p>
+  <p><img src="cid:resources/res32/v2kLv.elEPm.profile_calendar_export_msoutlook_status.png" border="0" height="24" width="362"></p>
+ 
+
+
+<p>В календаре портала новое событие при детальном просмотре будет иметь вид:</p>
+  <p><img src="cid:resources/res32/YhxD2.704pA.profile_calendar_export_msoutlook_portal_view.png" border="0" width="477" height="291" alt="Событие календарь в портале" ></p> 
+
+<p>Управление событием возможно как в <b>MS Outlook</b>, так и в календаре портала.</p>
+
+<p>В <b>MS Outlook</b> дважды кликнете по событию, которое необходимо изменить. В открывшемся окне измените событие. Нажмите кнопку <b>Сохранить и закрыть</b>.</p>
+
+<p>Для удаления события в календаре <b>MS Outlook</b> выберите событие, в меню действий укажите пункт <b>Удалить</b>.</p>
+
+<p>После редактирования или удаления произойдет автоматическая синхронизация, событие будет изменено или удалено как в календаре <b>MS Outlook</b>, так и в портале.</p>
+
+
+<br>
+
+
+<p><a name="export_ical"></a><b>Экспорт (iCal)</b></p>
+
+<p>Если в настройках собственных календарей разрешен экспорт (опция <b>Разрешить экспорт</b>), то в меню действий календарей доступен пункт <b>Экспорт (iCal)</b>:</p>
+  <p><img src="cid:resources/res32/NxH3a.MGEPq.profile_calendar_export_ical_go.png" border="0" height="188" width="239"></p>
+
+<p>Аналогичным образом вы можете экспортировать избранные календари. Кроме того, можно осуществить экспорт сразу всех избранных календарей с помощью кнопки <img src="cid:resources/res32/YElGb.AUxBm.profile_calendar_export_ical_button.png" border="0" height="16" width="21">:</p>
+  <p><img src="cid:resources/res32/NzghX.kZpHG.profile_calendar_export_ical_button_2.png" border="0" height="126" width="205"></p>
+
+<p>Чтобы экспортировать календари выполните следующее:</p>
+<ul>
+  <li>Нажмите на пункт меню <b>Экспорт (iCal)</b> нужного календаря или на кнопку <img src="cid:resources/res32/cIjiK.p0ibh.profile_calendar_export_ical_button.png" border="0" height="16" width="21">, если необходимо экспортировать все избранные календари.</li>
+
+   <li>Скопируйте ссылку в буфер обмена:</li>
+     <p><img src="cid:resources/res32/nI2cN.G62xe.profile_calendar_export_ical_link.png" border="0" width="752" height="177" alt="Ссылка для экспорта календаря" ></p> 
+  
+  <li>Запустите <b>MS Outlook</b> и перейдите <span class="path">Сервис &gt; Настройка учетных записей</span>.</li>
+  <li>В открывшемся окне перейдите на закладку <b>Интернет-календари</b> и нажмите <b>Создать...</b>.</li>
+
+  <li>В окне <b>Создание подписки на Интернет-календарь</b> вставьте ссылку на календарь из буфера обмена:</li>
+    <p><img src="cid:resources/res32/rGntH.5jIQw.profile_calendar_export_ical_ms_link.png" border="0" width="463" height="126" alt="Создание подписки на Интернет-календарь" ></p> 
+  
+  <li>Нажмите кнопку <b>Добавить</b>. Откроется диалог <b>Параметры подписки</b>, в котором укажите <b>Имя папки</b> и <b>Описание</b> импортируемого календаря.</li>
+
+  <li>Сохраните внесенные данные. Подключение календаря выполнено.</li>
+</ul>
+
+
+
+
+
+<br>
+
+
+
+
+
+<p><a name="mobile_connect"></a><b>Соединение календарей с мобильными устройствами</b></p>
+
+  <p>Корпоративный портал позволяет подключать календари к мобильным устройствам по протоколу <b>CalDav</b>. Для этого специальной форме соединения с мобильными устройствами выберите требуемый календарь:</p>
+    <p><img src="cid:resources/res32/CTdHx.CCFef.profile_calendar_export_mobile_banner.png" border="0" height="212" width="405"></p>
+ <p>После чего на экран будут выведены рекомендации по подключению:</p>
+    <a name="ios_link"></a><p><img src="cid:resources/res32/GxQ1k.5cIQG.profile_calendar_export_mobile_instr.png" border="0" height="352" width="552"></p>
+  <ul>
+    <li><b>Устройства Apple: iPhone, iPad</b>
+       <ul><p>Для того чтобы добавить выбранный календарь в устройство Apple, выполните следующие действия:</p>
+         <li>На устройстве Apple, зайдите в <b>Настройки</b> и перейдите на вкладку <b>Учетные записи</b>
+		  <p><img src="cid:resources/res32/eawdG.SlbYd.ios_1_sm.png" border="0" height="320" width="213"></p>
+		</li>
+         <li>Нажмите на кнопку <b>добавления</b> новой учетной записи</li>
+		  <p><img src="cid:resources/res32/IE1aU.19qqM.ios_2_sm.png" border="0" height="320" width="213"></p>
+		  <p><img src="cid:resources/res32/rtFja.fgVjy.ios_3_sm.png" border="0" height="320" width="213"></p>
+         <li>Выберите тип учетной записи <b>CalDAV</b>.</li>
+		  <p><img src="cid:resources/res32/Qm7EU.CHN1G.ios_4_sm.png" border="0" height="320" width="213"></p>
+         <li>В настройках параметров учетной записи введите адрес портала вида <code>http://адрес_портала:порт</code> а также ваши <b>логин</b> и <b>пароль</b>
+		  <p><img src="cid:resources/res32/JLBHp.Kbp58.ios_5_sm.png" border="0" height="320" width="213"></p>
+		 <p><div class="hint"><b>Примечание:</b> Устройства Apple с новой версией iOS дальше подключатся сами. В старых версиях iOS необходимо указать <a href="#ios_link">ссылку</a> (пункт 4 рекомендации по подключению), сгенерированную на портале, в <b>Дополнительных</b> настройках учетной записи. </div></p>
+		 
+         <li>В качестве типа авторизации следует использовать <b>базовую авторизацию</b> (не использовать SSL). </li>
+       </ul>
+	</li>
+  
+  
+	<li><b>Mozilla Sunbird, приложения Android</b>
+	  <p><div class="hint"><b>Примечание:</b> По умолчанию ОС Android не поддерживает подключение ко внешним календарям. Для этого установите соответствующее программное обеспечение.</div></p>
+	  
+      <ul>Чтобы настроить поддержку CalDAV в Mozilla Sunbird, выполните следующие действия:
+        <li>Запустите приложение <b>Sunbird</b> и выберите <span class="path">Файл &gt; Новый календарь</span>.</li>
+        <li>Выберите пункт <b>В сети</b> (On the Network) и нажмите кнопку <b>Далее</b>.</li>
+        <li>Выберите формат <b>CalDAV</b>.</li>
+        <li>В поле <b>Расположение</b> (Location) введите указанную <b>ссылку</b> (для разных сотрудников она будет иметь разный вид) и нажмите кнопку <b>Далее</b>.</li>
+        <li>Задайте имя и выберите цвет для вашего календаря.</li>
+        <li>Во всплывающем окне введите ваше <b>имя пользователя</b> и <b>пароль</b>.</li>
+      </ul>
+	</li>
+  </ul>
+  
+ 
+
+
+
+<br>
+
+
+  
+
+<p><a name="exchange_connect"></a><b>Соединение календарей с Microsoft Exchange</b></p>
+
+<p>Синхронизация календарей с Microsoft Exchange будет происходить автоматически, но только в том случае, если она включена и настроена администратором. О правильной настройке и включенной автоматической синхронизации будет свидетельствовать баннер:</p>
+    <p><img src="cid:resources/res32/Rfkc9.cBhll.calendar_banner_exchange_2.png" border="0" height="129" width="133"></p>
+
+<p>Существует возможность и синхронизации вручную. Для этого используется ссылка <b>Синхронизировать</b> на баннере.
+</p>
+
+
+<p><div class="hint"><b>Примечание:</b> Если у вас отображается следующий баннер:
+    <p><img src="cid:resources/res32/ge57d.UgC8x.calendar_banner_exchange_1.png" border="0" height="129" width="133"></p>
+то это значит, что соединение с Exchange лишь включено, но не настроено. При возникновении проблем синхронизации в таком случае обратитесь к администратору портала.
+
+<p>Если у вас отсутствует такой баннер вообще, то соединение c Exchange невозможно.</p>
+</div></p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>300</edge_sort>
+<id>46</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

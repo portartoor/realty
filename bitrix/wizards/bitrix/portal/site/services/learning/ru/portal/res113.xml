@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>129</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>200</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Установка плагина</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Сотрудникам потребуется установка специального плагина веб-клиента на компьютер. «1С-Битрикс: Корпоративный портал» поддерживает работу с браузерами <b>Internet Explorer</b> и <b>Mozila FireFox</b>. Кроме этих браузеров возможна работа в <b>Opera</b>, <b>Google Chrome</b> и <b>Safari</b>.</p>
+<p>При самом первом вызове видеосервиса, не важно в каком режиме это делается - видеоконференция или звонок сотруднику, браузер должен будет установить веб-клиент для обеспечения видеосвязи.</p>
+
+<h4>Установка плагина в Internet Explorer</h4>
+<p>Загрузка клиента произойдет автоматически:</p>
+
+<p><img height="261" border="0" width="692" src="cid:resources/res113/emUvd.hdKQy.web_client_download.png" /></p>
+
+
+<p>После загрузки файла в верхней части окна появится полоска с уведомлением о попытке установить надстройку. Правой кнопкой мыши вызовите выпадающее окно и выберите в нем <b>Установить эту надстройку</b>:</p>
+<p><a href="javascript:ShowImg('/images/portal_user/services/video/web_client_go_to_install.png',847,322,'Разрешение на установку надстройки')"><img height="228" border="0" width="600" style="cursor: pointer;" alt="Нажмите на рисунок, чтобы увеличить" src="cid:resources/res113/2EpoN.z5bRu.web_client_go_to_install_sm.png" /></a></p>
+<p>Появится окно операционной системы с предупреждением системы безопасности:</p>
+
+<p><img height="230" border="0" width="464" src="cid:resources/res113/HyGuA.FsKl5.web_client_install_warning.png" /></p>
+
+<p>Нажмите <b>Установить</b>, система установит Веб-клиент и запустит видеоконференцию.</p>
+
+<h4>Установка плагина в Mozila FireFox, Opera, Google Chrome и Safari</h4>
+<p>После клика на <b>Видеозвонок</b> или ответа на чужой звонок появится пошаговая инструкция по установке веб-клиента. Следуйте ее указаниям:</p>
+<p><a href="javascript:ShowImg('/images/portal_user/services/video/web_client_install_not_ie.png',736,553,'Установка плагина в Firefox')"><img height="450" border="0" width="600" style="cursor: pointer;" alt="Нажмите на рисунок, чтобы увеличить" src="cid:resources/res113/QjyPG.XDaU2.web_client_install_not_ie_sm.png" /></a></p>
+<ul>
+  <li>Скачайте инсталлятор веб-клиента.</li>
+  <li>Закройте браузер.</li>
+  <li>Запустите инсталлятор и установите его, следуя шагам мастера.</li>
+  <li>Перезапустите браузер, можно начинать работу с видеоконференциями.</li>
+</ul>
+
+<h4>Обновление плагинов</h4>
+<p>Периодически производится обновление плагинов для видеоконфренций. В этом случае браузер автоматически выдаст сообщение о том, что надо обновиться. Обновите плагин, по аналогии с установкой.</p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>200</edge_sort>
+<id>129</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

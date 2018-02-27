@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="CHA"><lesson_id>12</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>11</childs_cnt>
+<is_childs>1</is_childs>
+<sort>100</sort>
+<timestamp_x>1422877378</timestamp_x>
+<date_create>1422877378</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Основные сведения</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>В главе необходимо приводятся основные сведения о корпоративном портале, которые необходимо знать пользователю перед началом работы:</p>
+
+<ul>
+<li>Как регистрироваться и авторизоваться на корпоративном портале;</li>
+<li>Структура корпоративного портала;</li> 
+<li>Страница "Мой портал";</li>
+<li>Поиск на корпоративном портале;</li> 
+<li>Система прав доступа к информации на портале;</li> 
+<li>Интерфейс программы;</li>
+<li>Навигация по порталу.</li> 
+<li>Работа с формами отчета;</li> 
+<li>Работа с визуальным редактором.</li>
+ </ul>
+
+<p><table width="100%" height="1" cellspacing="0" cellpadding="0" bgcolor="#cecece"> 
+  <tbody> 
+    <tr><td></td></tr>
+   </tbody>
+ </table></p>
+
+<p><img height="18" border="0" width="18" src="cid:resources/res3/1zYnU.3auxk.pdf_doc.gif" /> Скачать материалы главы в формате <a href="http://dev.1c-bitrix.ru/docs/pdf_files/intranet_user_basics.pdf" target="_blank">PDF</a></p> ]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>100</edge_sort>
+<id>12</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

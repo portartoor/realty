@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1192" height="905" viewBox="0 0 1192 905" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <rect id="a" width="1250" height="1165"/>
+    <mask id="b" width="1250" height="1165" x="0" y="0" fill="white">
+      <use xlink:href="#a"/>
+    </mask>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(-58 -34)">
+    <use stroke="#FFFFFF" stroke-opacity=".01" stroke-width="2" mask="url(#b)" opacity=".01" xlink:href="#a"/>
+    <g fill="#9EA6AD" transform="translate(58 34)" opacity=".2">
+      <rect width="1192" height="12" rx="2"/>
+      <rect width="1192" height="12" y="215" rx="2"/>
+      <rect width="1192" height="12" y="609" rx="2"/>
+      <rect width="412" height="8" x="780" y="74" rx="2"/>
+      <rect width="1002" height="8" y="143" rx="2"/>
+      <rect width="1056" height="8" y="291" rx="2"/>
+      <rect width="1056" height="8" y="343" rx="2"/>
+      <rect width="971" height="6" y="275" rx="2"/>
+      <rect width="971" height="6" y="327" rx="2"/>
+      <rect width="1056" height="8" y="395" rx="2"/>
+      <rect width="971" height="6" y="379" rx="2"/>
+      <rect width="1056" height="8" y="447" rx="2"/>
+      <rect width="971" height="6" y="431" rx="2"/>
+      <rect width="1056" height="8" y="499" rx="2"/>
+      <rect width="1056" height="8" y="775" rx="2"/>
+      <path d="M0 682.998101C0 681.89458.89101551 681 1.99406677 681L1192 681 1192 687.001899C1192 688.10542 1192 689 1192 689L1192 689 1.99406677 689C.892774102 689 0 688.113294 0 687.001899L0 682.998101zM0 701.998101C0 700.89458.89101551 700 1.99406677 700L1192 700 1192 708 1.99406677 708C.892774102 708 0 707.113294 0 706.001899L0 701.998101z"/>
+      <rect width="1192" height="8" y="719" rx="2"/>
+      <rect width="1056" height="8" y="836" rx="2"/>
+      <rect width="971" height="6" y="483" rx="2"/>
+      <rect width="971" height="6" y="759" rx="2"/>
+      <rect width="971" height="6" y="665" rx="2"/>
+      <rect width="971" height="6" y="820" rx="2"/>
+      <rect width="1056" height="8" y="897" rx="2"/>
+      <rect width="971" height="6" y="881" rx="2"/>
+      <rect width="89" height="8" x="1051" y="143" rx="2"/>
+      <path d="M1185,144.998101 C1185,143.89458 1185.88655,143 1187.00592,143 L1192,143 L1192,143 C1192,143 1192,143.886706 1192,144.998101 L1192,149.001899 C1192,150.10542 1192,151 1192,151 L1192,151 L1187.00592,151 C1185.89808,151 1185,150.113294 1185,149.001899 L1185,144.998101 Z"/>
+      <rect width="123" height="8" x="23" y="74" rx="2"/>
+      <rect width="123" height="8" x="215" y="74" rx="2"/>
+      <rect width="123" height="8" x="407" y="74" rx="2"/>
+      <rect width="123" height="8" x="600" y="74" rx="2"/>
+    </g>
+  </g>
+</svg>

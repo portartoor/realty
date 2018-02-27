@@ -1,0 +1,35 @@
+table.bx-interface-toolbar a.btn-import,
+div.bx-interface-toolbar .btn-import {
+	background-image:url("images/buttons/import.gif");
+}
+.crm-field-action-link, .crm-field-action-link:link, .crm-field-action-link:visited, .crm-field-action-link:hover, .crm-field-action-link:active {
+    border-bottom: 1px dashed #938F79;
+    color: #757361;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 13px;
+    outline: medium none;
+    text-decoration: none;
+}
+
+div.crm-config-ext-sale-edit
+{
+}
+
+div.crm-config-ext-sale-edit select.crm-config-ext-sale-scheme
+{
+    width:64px;
+}
+
+div.crm-config-ext-sale-edit input.crm-config-ext-sale-server
+{
+    width:256px;
+}
+div.crm-config-ext-sale-edit input.crm-config-ext-sale-port
+{
+    width:32px;
+}
+
+div.crm-config-ext-sale-edit span.crm-config-ext-sale-text
+{
+}

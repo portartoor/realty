@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>99</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>100</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Общие моменты</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<div class="hint"><b>Примечание:</b> Работа с <b>Бизнес-процессами</b> может осуществляться как с публичной, так и с административной части. Обычным пользователям рекомендуется работать только в публичной части сайта.</div>
+
+<menu id="topictoc">
+  <li><a href="#bizproc_types">Типы бизнес-процессов</a></li>
+  <li><a href="#bizproc_statuses">Статусы</a></li>
+</menu>
+
+<br />
+
+<a name="bizproc_types"></a><h4>Типы бизнес-процессов</h4>
+
+<p>При помощи модуля <b>Бизнес-процессы</b> могут быть описаны два способа обращения документов:</p>
+<ul>
+  <li><b>последовательный бизнес-процесс</b> (конечный автомат) - действия выполняются одно за другим от точки входа до точки выхода;</li>
+  <li><b>бизнес-процесс со статусами</b> (машина состояний) - имеет начальный статус, в процессе работы происходит переход из одного состояния в другое, может быть завершен в любой точке.</li>
+
+</ul>
+
+<table border="0" cellpadding=5>
+<tr>
+<td colspan=2><h4>Последовательный процесс</h4></td>
+</tr>
+
+<tr>
+<td valign=top><a href="javascript:ShowImg('/images/portal_user/bizproc/big/bizproc_sequential.png',239,418,'Последовательный бизнес-процесс')"><img src="cid:resources/res92/UtWQz.aatTK.bizproc_sequential_sm.png" style="cursor: pointer;" alt="Нажмите на рисунок, чтобы увеличить" border="0" height="250" width="143"></a></td>
+
+<td valign=top>Последовательная схема применяется для процессов, имеющих определенный ограниченный жизненный цикл (например, создание текстового документа и его утверждение). Примерная схема такого процесса состоит из нескольких действий разного типа между начальной и конечной точкой процесса.</td>
+</tr>
+
+</table>
+
+<table border="0" cellpadding=5>
+<tr>
+<td colspan=2><h4>Процесс со статусами</h4></td>
+</tr>
+
+<tr>
+<td valign=top><a href="javascript:ShowImg('/images/portal_user/bizproc/big/bizproc_statuses.png',654,326,'Процесс со статусами')"><img src="cid:resources/res92/lXOO6.LUFEa.bizproc_statuses_sm.png" style="cursor: pointer;" alt="Нажмите на рисунок, чтобы увеличить" border="0" height="125" width="250"></a></td>
+
+<td valign=top><p>Процесс со статусами используется для бизнес-процессов, в которых документ находится в одном из заранее заданных состояний (<b>статусов</b>) и может переходить из одного состояния в другое при определенных условиях. Статус может состоять из любого количества действий и каждое действие внутри статуса - это собственный конечный последовательный подпроцесс.</p>
+
+<p>Таким образом, <b>процесс со статусами</b> объединяет в себе несколько последовательных процессов в единый сложный бизнес-процесс с возможностью перехода от одного последовательного процесса к другому в некотором порядке.</p>
+</td>
+</tr>
+</table>
+
+<br />
+<a name="bizproc_statuses"></a><h4>Статусы</h4>
+<p><div class="note"><b>Статусы</b> - это некоторое состояние, в котором находится документ. Статус может состоять из любого количества действий и каждое действие внутри статуса - это собственный конечный последовательный подпроцесс. Статусы позволяют облегчить описание цикличности реального процесса средствами модуля <b>Бизнес-процессы</b>.</div></p>
+
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>100</edge_sort>
+<id>99</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

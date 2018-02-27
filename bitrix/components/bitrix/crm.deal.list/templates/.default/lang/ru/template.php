@@ -1,0 +1,29 @@
+<?
+$MESS["CRM_ALL"] = "Всего";
+$MESS["CRM_DEAL_SHOW_TITLE"] = "Просмотреть сделку";
+$MESS["CRM_DEAL_SHOW"] = "Просмотреть";
+$MESS["CRM_DEAL_TASK_TITLE"] = "Добавить задачу";
+$MESS["CRM_DEAL_TASK"] = "Добавить задачу";
+$MESS["CRM_DEAL_BIZPROC_TITLE"] = "Бизнес-процесс";
+$MESS["CRM_DEAL_BIZPROC"] = "Бизнес-процесс";
+$MESS["CRM_DEAL_BIZPROC_LIST_TITLE"] = "Запустить новый бизнес-процесс";
+$MESS["CRM_DEAL_BIZPROC_LIST"] = "Новый бизнес-процесс";
+$MESS["CRM_DEAL_EDIT_TITLE"] = "Редактировать сделку";
+$MESS["CRM_DEAL_EDIT"] = "Редактировать";
+$MESS["CRM_DEAL_COPY_TITLE"] = "Копировать";
+$MESS["CRM_DEAL_COPY"] = "Копировать";
+$MESS["CRM_DEAL_EVENT_TITLE"] = "Добавить новое событие";
+$MESS["CRM_DEAL_EVENT"] = "Добавить событие";
+$MESS["CRM_DEAL_DELETE_TITLE"] = "Удалить сделку";
+$MESS["CRM_DEAL_DELETE"] = "Удалить";
+$MESS["CRM_DEAL_DELETE_CONFIRM"] = "Вы уверены, что хотите удалить?";
+$MESS["CRM_DEAL_CALENDAR_TITLE"] = "Добавить новую запись в календарь";
+$MESS["CRM_DEAL_CALENDAR"] = "Добавить звонок/встречу";
+$MESS["CRM_STAGE_INIT"] = "- Стадия сделки -";
+$MESS["CRM_DEAL_SET_STAGE"] = "Установить стадию";
+$MESS["CRM_DEAL_ASSIGN_TO"] = "Назначить ответственного";
+$MESS["CRM_DEAL_ADD_CALL_TITLE"] = "Добавить новый звонок";
+$MESS["CRM_DEAL_ADD_CALL"] = "Добавить звонок";
+$MESS["CRM_DEAL_ADD_MEETING_TITLE"] = "Добавить новую встречу";
+$MESS["CRM_DEAL_ADD_MEETING"] = "Добавить встречу";
+?>

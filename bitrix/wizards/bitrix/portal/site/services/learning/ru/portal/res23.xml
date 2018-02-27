@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="CHA"><lesson_id>38</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>4</childs_cnt>
+<is_childs>1</is_childs>
+<sort>100</sort>
+<timestamp_x>1422877378</timestamp_x>
+<date_create>1422877378</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Фото</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[В разделе <b>Фото</b> располагается личная фотогалерея сотрудника, которая позволяет:
+<ul>
+<li>сортировать фото по альбомам (с возможностью создания вложенных альбомов);</li>
+<li>загружать в них фото;</li>
+<li>делать подписи к фотографиям;</li>
+<li>при просмотре оставлять отзывы и голосовать за понравившиеся фото;</li>
+<li>вести обсуждение и т.д.</li>
+</ul>
+
+ <p><a href="javascript:ShowImg('/images/portal_user/personal_page/photo/gallery_overview.png',1082,407,'Личная фотогалерея сотрудника')">
+<img src="cid:resources/res23/4rYt1.GiWNv.gallery_overview_sm.png" alt="Нажмите на рисунок, чтобы увеличить" width="650" height="245" border="0" /></a></p>
+
+<p><div class="hint"><b>Примечание:</b> Доступ к вашим фотографиям для других сотрудников устанавливается в форме <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2249#change_func_access">Настройки пользователя</a> раздел <b>Функционал 'Фотогалерея'</b>.</div></p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>100</edge_sort>
+<id>38</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

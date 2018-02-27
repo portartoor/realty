@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>169</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877380</timestamp_x>
+<date_create>1422877380</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Справочники</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<div class="hint"><b>Справочник</b> - список значений параметров, относящихся к той или иной сущности.</div>
+
+<p>Справочники, которые можно настроить, располагаются в списке слева:</p>
+<img src="cid:resources/res160/w8EZl.V3BMl.new_zone.png" width="558" height="347">
+
+
+<p><font color="red" size="5">1</font> - область вкладок. Перечислены параметры, к настройке которых можно перейти, щелкнув по ним левой кнопкой мыши.</p>
+
+<p><font color="purple" size="5">2</font> - значения параметров. Перечислены все допустимые значения, которые может принимать выбранный параметр. Вы можете их изменять.</p>
+
+<p><font color="green" size="5">3</font> - кнопки возврата к оригинальному названию. Если вы изменили какое-либо название в каком-либо поле области 2, то нажав на данную кнопку вы вернете оригинальное наименование.</p>
+
+<p><div class="hint"><b>Примечание</b>: при наведении курсора мыши на кнопки возврата к оригинальному названию или управления положением отображается их значение:
+<p><img src="cid:resources/res160/2HVFb.mI6bL.return_original.png" width="212" height="82"></p>
+</div></p>
+
+<p><font color="aqua" size="5">4</font> - кнопки управления положением. Нажатие на стрелочку вверх переместит значение параметра на позицию выше, стрелочка вниз - на позицию вниз.</p>
+
+<p><font color="blue" size="5">5</font> - добавление поле. Чтобы добавить новое значение параметра впишите его в свободное поле и нажмите <b>Сохранить</b>. Чтобы удалить добавленное, или какое-либо другое поле, нажмите на крестик (<img src="cid:resources/res160/5HQo6.cLhfH.del.png" width="25" height="24">) в колонке кнопок управления положением. Добавленное поле появится в общем списке значений поля, к которому оно относится.</p>
+
+<p>Например, если на приведенной иллюстрации добавить значение поля <b>Качественный лид</b>, то в форме создания лида, в выпадающем списке поля <b>Статус</b>, появится в общем списке статус <b>Качественный лид</b>.<p>
+
+<p><div class="warning"><b>Внимание!</b> Крестик не отображается для тех полей, удаление которых невозможно (ключевые поля).</div></p> 
+<br>
+
+Для сохранения всех внесенных изменений на данной странице нажмите <b>Сохранить</b>.]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>169</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

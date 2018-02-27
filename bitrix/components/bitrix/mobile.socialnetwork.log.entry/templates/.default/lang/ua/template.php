@@ -1,0 +1,25 @@
+<?
+$MESS["MOBILE_LOG_DESTINATION_MORE_1"] = "і ще #COUNT# одержувач";
+$MESS["MOBILE_LOG_DESTINATION_MORE_2"] = "і ще #COUNT# одержувача";
+$MESS["MOBILE_LOG_DESTINATION_MORE_3"] = "і ще #COUNT# одержувача";
+$MESS["MOBILE_LOG_DESTINATION_MORE_4"] = "і ще #COUNT# одержувача";
+$MESS["MOBILE_LOG_DESTINATION_MORE_5"] = "і ще #COUNT# одержувачів";
+$MESS["MOBILE_LOG_DESTINATION_MORE_6"] = "і ще #COUNT# одержувачів";
+$MESS["MOBILE_LOG_DESTINATION_MORE_7"] = "і ще #COUNT# одержувачів";
+$MESS["MOBILE_LOG_DESTINATION_MORE_8"] = "і ще #COUNT# одержувачів";
+$MESS["MOBILE_LOG_DESTINATION_MORE_9"] = "і ще #COUNT# одержувачів";
+$MESS["MOBILE_LOG_DESTINATION_MORE_0"] = "і ще #COUNT# одержувачів";
+$MESS["MOBILE_LOG_MORE"] = "Ще";
+$MESS["MOBILE_LOG_COMMENT_ADD_TITLE"] = "Написати коментар ...";
+$MESS["MOBILE_LOG_COMMENT_ADD_BUTTON_SEND"] = "Надіслати";
+$MESS["MOBILE_LOG_COMMENT_FORMAT_TIME"] = "G:i";
+$MESS["MOBILE_LOG_COMMENT_FORMAT_DATE"] = "j F, G:i";
+$MESS["MOBILE_LOG_COMMENT_FORMAT_DATE_YEAR"] = "j F Y, G:i";
+$MESS["MOBILE_LOG_LIKE_ME"] = "Вам";
+$MESS["MOBILE_LOG_LIKE_COUNT_USERS"] = "#COUNT# #USERS#";
+$MESS["MOBILE_LOG_LIKE_YOU"] = "#YOU# це подобається.";
+$MESS["MOBILE_LOG_LIKE_YOU_OTHERS"] = "#YOU# і ще #COUNT_USERS# це подобається.";
+$MESS["MOBILE_LOG_LIKE_OTHERS"] = "#COUNT_USERS# це подобається.";
+$MESS["MOBILE_LOG_LIKE_USERS_1"] = "користувачеві";
+$MESS["MOBILE_LOG_LIKE_USERS_2"] = "користувачам";
+?>

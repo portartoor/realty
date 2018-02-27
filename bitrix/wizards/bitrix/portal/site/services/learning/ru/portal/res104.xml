@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>85</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>1400</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Функционал раздела</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Сотрудникам с разными правами доступа доступен различный функционал портала. Ниже в таблице приведены функции (<b>Функционал</b>), соответствующие различным группам сотрудников (<b>Права пользователя</b>), и указано, на какой странице раздела <b>Документы</b> можно этим функционалом воспользоваться (<b>Страница</b>).
+</p>
+
+<table cellspacing=0 cellpadding=0>        
+  <tbody> 
+    <tr bgcolor="white">
+    <td bgcolor="#8C8C8C"> 
+
+<table cellspacing="1" cellpadding="5">
+   <tbody>
+      <tr bgcolor="#8C8C8C">
+        <td><b>Функционал</b></td>
+        <td><b>Страница</b></td>
+        <td>Права пользователя</td>
+      </tr>
+          
+      <tr bgcolor="#eeeeee">
+        <td>Доступ в раздел</td>
+        <td>Любой раздел</td>
+        <td>В соответствии с группой, к которой приписан сотрудник</td>
+      </tr>
+  
+      <tr bgcolor="#ffffff">
+        <td>Добавление/Удаление/Редактирование папки</td>
+        <td>Любой раздел</td>
+        <td>Сотрудник, имеющий доступ в раздел</td>
+      </tr>
+
+      <tr bgcolor="#eeeeee">
+        <td>Добавление/Удаление/Редактирование документа</td>
+        <td>Любой раздел</td>
+        <td>Сотрудник, имеющий доступ в раздел</td>
+      </tr>
+  
+      <tr bgcolor="#ffffff">
+        <td>Подключение папки как сетевого диска</td>
+        <td>Любой раздел</td>
+        <td>Сотрудник, имеющий доступ в раздел. Доступно только для браузера Internet Explorer.</td>
+      </tr>
+
+      <tr bgcolor="#eeeeee">
+        <td>Запуск бизнес-процессов</td>
+        <td>Любой раздел</td>
+        <td>В зависимости от настроек конкретного бизнес-процесса</td>
+      </tr>
+
+      <tr bgcolor="#ffffff">
+        <td>Создание/редактирование шаблона бизнес-процесса документов</td>
+        <td>Любая страница</td>
+        <td>Сотрудник</td>
+      </tr>
+
+      <tr bgcolor="#eeeeee">
+        <td>Создание типовых шаблонов бизнес-процессов документов</td>
+        <td>Любая страница</td>
+        <td>Сотрудник</td>
+      </tr>
+
+      <tr bgcolor="#ffffff">
+        <td>Создание/редактирование шаблона бизнес-процесса организации</td>
+        <td>Любая страница</td>
+        <td>Администратор системы</td>
+      </tr>
+
+      <tr bgcolor="#eeeeee">
+        <td>Восстановление документа из "Корзины", очистка "Корзины"</td>
+        <td>Любой файл/папка</td>
+        <td>Администратор портала</td>
+      </tr>
+
+      <tr bgcolor="#ffffff">
+        <td>Добавление/редактирование документа через "Документооборот"</td>
+        <td>Любой документ</td>
+        <td>Сотрудник</td>
+      </tr>
+
+   </tbody>
+</table>
+   </td></tr>
+
+  </tbody>
+</table>
+ ]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>1400</edge_sort>
+<id>85</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

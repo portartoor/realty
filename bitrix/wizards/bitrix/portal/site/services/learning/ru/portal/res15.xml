@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="CHA"><lesson_id>27</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>2</childs_cnt>
+<is_childs>1</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877378</timestamp_x>
+<date_create>1422877378</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Визуальный редактор</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>html</preview_text_type>
+<detail_text><![CDATA[<p>Познакомимся с правилами и возможностями работы в визуальном HTML-редакторе, который позволяет управлять содержанием страницы в режиме реального времени через браузер. Визуальный редактор доступен в формах, которые могут редактировать сотрудники, обладающие статусом доступа не ниже <b>Отдел кадров</b>.</p>
+
+<div class="hint"><b>WYSIWYG</b> (произносится как «ви-зи-виг», от англ. What You See Is What You Get — «что видишь, то и получишь») — способ редактирования, при котором корректируемый материал в процессе редактирования выглядит в точности так же, как и конечный результат.</div>
+
+<p>Визуальный редактор в "1С-Битрикс: Корпоративный Портал" является штатным функционалом и не требует дополнительной установки. Администратор сайта может запретить использование редактора в некоторых случаях. Если Визуальный редактор недоступен, то обратитесь к администратору портала.</p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>27</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

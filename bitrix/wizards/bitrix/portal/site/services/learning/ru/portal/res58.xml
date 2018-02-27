@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>67</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Карьера, вакансии</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<ul>
+<li><a href="#add">Добавление вакансии</a></li>
+<li><a href="#rule">Управление вакансиями</a></li>
+</ul>
+<br>
+
+<p>У каждой компании есть потребность в персонале. На смену ушедших сотрудников или на новые должности. Для объявления открытых вакансий есть страница <b>Карьера, вакансии</b>. Обычный сотрудник может ее просматривать и заполнять форму резюме, изменять данные могут сотрудники с уровнем прав не ниже <b>Отдел кадров</b>.</p>
+
+<a name="add"></a>
+<h3>Добавление вакансии</h3>
+
+<p>Добавление вакансии осуществляется с помощью кнопки <b>Добавить Вакансию</b>:</p>
+<p><img src="cid:resources/res58/wY37k.EWKwS.add_vacanse0.png" width="214" height="28">.</p>
+
+<p>После нажатия появится окно добавления вакансии:</p>
+
+<p><img src="cid:resources/res58/SSA2s.qdUWh.add_vacans11.png" width="654" height="351"></p>
+
+<p>В форме добавления вакансии присутствуют несколько вкладок.</p>
+
+<h4>Вкладка Вакансия</h4>
+
+<ul>
+<li><b>Вакансия активна</b> - снимите галочку, если хотите чтобы вакансия отображалась только в административном режиме.</li>
+
+<li><b>Индекс сортировки в списке вакансий</b> - данный параметр настраивается администратором и определяет очередность следования вакансии в общем списке.</li>
+
+<li><b>Название вакансии</b> - единственное обязательное к заполнению поле, в котором следует написать должность добавляемой вакансии</li>
+
+<li>В случае необходимости, можно указать принадлежность к офису, в полях <b>Офис</b> и <b>Департамент</b></li>
+</ul>
+
+
+<h4>Вкладка Анонс для списка</h4>
+
+<p><b>Описание для показа в списке</b> - введите информацию о вакансии, которая будет отображаться в анонсе. Это можно сделать в трех режимах: <b>Текст</b>, <b>HTML</b>, <b>Визуальный редактор</b>.</p>
+
+<h4>Вкладка Вакансия подробно</h4>
+
+<p>Здесь введите подробную информацию о добавляемой вакансии. Это также можно сделать в трех режимах: <b>Текст</b>, <b>HTML</b>, <b>Визуальный редактор</b>.</p>
+
+<h4>Вкладка Категории</h4>
+
+<p>Левым щелчком мыши выделите нужный раздел, куда вы хотите добавить вакансию:</p>
+
+<p><img src="cid:resources/res58/3HmYQ.XlTAe.category.png" width="653" height="199"></p>
+
+<p>Для добавления вакансии нажмите <b>Сохранить</b>.</p>
+
+
+<br>
+<a name="rule"></a>
+<h3>Управление вакансиями</h3>
+
+<p>Управление вакансиями осуществляется по кнопке <b>Вакансии</b>: <img src="cid:resources/res58/3G3Wk.Q00jA.edit_vacanse.png" width="214" height="28">.</p>
+
+<p>После нажатия вы попадете в административный раздел управления вакансиями:</p>
+
+<p><a href="javascript:ShowImg('/images/portal_user/company/edit_vacanse1.png',1350,451,'Управление вакансиями')">
+<img height="217" border="0" width="650" src="cid:resources/res58/uFEHX.xwBTF.edit_vacanse1_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;"/></a>
+</p>
+
+<p>Управление вакансиями через административный раздел аналогично управлению новостями, описанному <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2267#admin">здесь</a>.</p>
+
+<p>Чтобы отредактировать стандартную форму резюме обратитесь к администратору. </p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>67</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

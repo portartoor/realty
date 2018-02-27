@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>13</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>50</sort>
+<timestamp_x>1422877378</timestamp_x>
+<date_create>1422877378</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Регистрация и авторизация</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>В большинстве случаев доступ на корпоративный портал ограничен сотрудниками компании. Кроме того, администратором портала настраивается способ регистрации и авторизации на портале.</p>
+
+<h4>Регистрация</h4>
+
+<p>Если настройки портала разрешают самостоятельную регистрацию пользователей, то для регистрации на портале служит ссылка <b>Регистрация</b>, которая может располагаться:</p>
+<ul>
+<li>В верхнем правом углу портала, если разрешен просмотр портала неавторизованными пользователями. В этом случае откроется форма регистрации следующего вида:
+
+<p><img height="279" border="0" width="428" src="cid:resources/res4/jF3Zc.EEzbY.reg_form1.png" /></p></li>
+
+<li>На форме авторизации, если просмотр портала неавторизованными пользователями запрещен. В этом случае форма регистрации будет иметь следующий вид:
+
+<p><img height="380" border="0" width="502" src="cid:resources/res4/68V9n.5SMnh.reg_form2.png" /></p></li></ul>
+
+
+<p>В форме укажите регистрационные данные: <b>Имя</b>, <b>Фамилию</b>, <b>Логин</b>, <b>Пароль</b>, <b>Подтверждение пароля</b>, <b>E-Mail</b>.
+
+<p>Нажмите кнопку <b>Регистрация</b>, страница обновится и вы можете приступать к работе на портале.</p>
+
+<p><div class="hint"><b>Примечание:</b> если самостоятельная регистрация запрещена, то регистрация пользователя выполняется администратором портала или сотрудником, обладающим необходимыми правами. В этом случае администратор портала должен был сообщить вам ваш логин и пароль.</div></p>
+
+<h4>Авторизация</h4>
+
+<p>Если настройки портала позволяют неавторизованным пользователям просматривать портал, то в верхнем правом углу портала располагается ссылка <b>Войти на сайт</b>, позволяющая авторизоваться пользователю на портале и вести полноценную работу. При нажатии на ссылку открывается форма авторизации:</p>
+
+<p><img src="cid:resources/res4/S4TGq.ziKkN.author.png" width="284" height="113" border="0"/></a></p>
+
+<p>Если неавторизованным пользователям запрещено просматривать портал, то при открытии портала сразу будет отображаться следующая форма авторизации:</p>
+
+<p><img height="321" border="0" width="502" src="cid:resources/res4/IAznu.SA5HC.auth_form2.png" /></p>
+
+<p>Введите в открывшейся у вас форме авторизации свой <b>Логин</b>, <b>Пароль</b> и нажмите кнопку <b>Войти на сайт</b>. Страница обновится и теперь вы можете приступать к работе на портале.</p>
+
+<p>Когда сотрудник авторизован на портале, то в верхнем правом углу отображается приветствие и ссылки на часто используемые страницы:</p>
+
+<p><img src="cid:resources/res4/8xi2B.45xYh.user_links.png" width="273" height="170" border="0"/></a></p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>50</edge_sort>
+<id>13</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

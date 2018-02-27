@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>62</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>100</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Функционал раздела</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Сотрудникам с разными правами доступа доступен различный функционал страниц портала. Ниже в таблице приведены функции (<b>Функционал</b>), соответствующие различным группам сотрудников (<b>Права пользователя</b>), и указано, на какой странице раздела <b>Компания</b> можно этим функционалом воспользоваться (<b>Страница</b>).</p>
+
+        <table cellspacing="0" cellpadding="0">
+          <tbody>
+ <tr bgcolor="white">
+            <td bgcolor="#8C8C8C">
+
+<table cellspacing="1" cellpadding="5">           
+          <tbody> 
+
+<td><b>Функционал</b></td><td><b>Страница</b></td><td><b>Права пользователя</b></td></tr>
+          
+            <tr bgcolor="#eeeeee"><td>Просмотр новостей компании</td><td>Официально</td><td>Сотрудники</td></tr>
+          
+            <tr bgcolor="#ffffff"><td>Создание новости компании</td><td>Официально</td><td>Отдел кадров</td></tr>
+          
+            <tr bgcolor="#eeeeee"><td>Управление новостями компании</td><td><i>Страница Контент &gt; Новости &gt; Официальная информация</i> в административной части</td><td>Отдел кадров</td></tr>
+          
+            <tr bgcolor="#ffffff"><td>Просмотр информации в подразделе</td><td>Подраздел Компания сегодня</td><td>Сотрудники</td></tr>
+          
+            <tr bgcolor="#eeeeee"><td>Редактирование информации в подразделе</td><td>Подраздел Компания сегодня</td><td>Администрация портала</td></tr>
+          
+            <tr bgcolor="#ffffff"><td>Просмотр новостей <b>Наша жизнь</b></td><td>Наша жизнь</td><td>Сотрудники</td></tr>
+          
+            <tr bgcolor="#eeeeee"><td>Создание новости <b>Наша жизнь</b></td><td>Наша жизнь</td><td>Отдел кадров</td></tr>
+          
+            <tr bgcolor="#ffffff"><td>Управление новостями <b>Наша жизнь</b></td><td>Страница <i>Контент &gt; Новости &gt; Наша жизнь </i>в административной части</td><td"></td"><td>Отдел кадров</td></tr>
+          
+            <tr bgcolor="#eeeeee"><td>Просмотр новостей RSS</td><td>Новости отрасли</td><td>Сотрудники</td></tr>
+          
+            <tr bgcolor="#ffffff"><td>Настройка RSS</td><td>Новости отрасли</td><td>Сотрудники</td></tr>
+
+<tr bgcolor="#eeeeee"><td>Сохранение текущих настроек RSS как настроек по умолчанию</td><td>Новости отрасли</td><td>Отдел кадров</td></tr>
+
+
+          
+            <tr bgcolor="#ffffff"><td>Просмотр календарей событий компании</td><td>Календарь событий</td><td>Сотрудники</td></tr>
+
+<tr bgcolor="#eeeeee"><td>Экспорт календарей в формате iCal</td><td>Календарь событий</td><td>Сотрудники</td></tr>
+          
+            <tr bgcolor="#ffffff"><td>Импорт событий из календаря компании</td><td>Календарь событий</td><td>Отдел кадров</td></tr>
+
+<tr bgcolor="#eeeeee"><td>Подключение календарей</td><td>Календарь событий</td><td>Сотрудники</td></tr>
+          
+            <tr bgcolor="#ffffff"><td>Создание событий в календаре компании</td><td>Календарь событий</td><td>Отдел кадров</td></tr>
+          
+            <tr bgcolor="#eeeeee"><td>Просмотр фотогалереи компании</td><td>Фотогалерея</td><td>Сотрудники</td></tr>
+          
+            <tr bgcolor="#ffffff"><td>Управление фотогалерей</td><td>Фотогалерея</td><td>Администрация портала</td></tr>
+          
+            <tr bgcolor="#eeeeee"><td>Просмотр видео</td><td>Архив видео</td><td>Сотрудники</td></tr>
+          
+            <tr bgcolor="#ffffff"><td>Добавление видео</td><td>Архив видео</td><td>Отдел кадров</td></tr>
+          
+            <tr bgcolor="#eeeeee"><td>Управление видеоархивом</td><td>Страница <i>Контент &gt; Сервисы &gt; Видео архив &gt; Видео в разделе Компания</i> в административном разделе</td><td>Отдел кадров</td></tr>
+          
+            <tr bgcolor="#ffffff"><td>Просмотр Вакансий</td><td>Вакансии</td><td>Сотрудники</td></tr>
+          
+            <tr bgcolor="#eeeeee"><td>Управление Вакансиями </td><td>Страница <i>Контент &gt; Сервисы &gt; Вакансии</i> в административном разделе</td><td>Отдел кадров </td></tr>
+          
+            <tr bgcolor="#ffffff"><td>Заполнение формы резюме </td><td>Вакансии </td><td>Сотрудники</td></tr>
+          
+            <tr bgcolor="#eeeeee"><td>
+                Редактирование формы резюме</td><td>
+                Страница <i>Сервисы &gt; Веб-формы &gt; Настройка форм</i> в административном разделе. </p>
+              </td><td>
+               Администраторы</td></tr>
+          
+            <tr bgcolor="#ffffff"><td>Просмотр Контактов </td><td>Контакты </td><td>Сотрудник </td></tr>
+          
+            <tr bgcolor="#eeeeee"><td>Редактирование Контактов 
+                <p></p>
+              </td><td>Контакты </td><td>Отдел кадров </td></tr>
+          
+            <tr bgcolor="#ffffff"><td>Просмотр Реквизитов</td><td>Реквизиты </td><td>Сотрудник </td></tr>
+          
+            <tr bgcolor="#eeeeee"><td>Редактирование Реквизитов</td><td>Реквизиты </td><td>Отдел кадров </td></tr>
+          </tbody>
+        </table>
+  </table>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>100</edge_sort>
+<id>62</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

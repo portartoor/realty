@@ -1,0 +1,8 @@
+<?
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "Das Modul CRM ist nicht installiert.";
+$MESS["CRM_PERMISSION_DENIED"] = "Zugriff verweigert";
+$MESS["M_CRM_COMM_SELECTOR_OWNER_NOT_FOUND"] = "Besitzer wurde nicht gefunden";
+$MESS["M_CRM_COMM_SELECT_SEARCH_PLACEHOLDER_PERSON"] = "Name";
+$MESS["M_CRM_COMM_SELECT_SEARCH_PLACEHOLDER_PHONE"] = "Name oder Telefon";
+$MESS["M_CRM_COMM_SELECT_SEARCH_PLACEHOLDER_EMAIL"] = "Name oder E-Mail";
+?>

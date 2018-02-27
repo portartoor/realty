@@ -1,0 +1,10 @@
+<?
+require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetTitle("Настройки");
+?><?$APPLICATION->IncludeComponent(
+	"bitrix:crm.config.external_sale",
+	"",
+	Array(
+	),
+false
+);?><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

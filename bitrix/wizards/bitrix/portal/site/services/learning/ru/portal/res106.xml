@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>115</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>50</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Функционал раздела</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<table cellpadding="0" cellspacing="0">        
+  <tbody> 
+    <tr bgcolor="white">
+    <td bgcolor="#8c8c8c"> 
+
+<table cellpadding="5" cellspacing="1">
+   <tbody>
+      <tr bgcolor="#8c8c8c">
+        <td><b>Функционал</b></td>
+        <td><b>Страница</b></td>
+        <td>Права пользователя</td>
+      </tr>
+          
+      <tr bgcolor="#eeeeee">
+        <td>Резервирование переговорных</td>
+        <td><i>Сервисы &gt; Переговорные</i></td>
+        <td>Администраторы
+		 
+      </tr>
+  
+      <tr bgcolor="#ffffff">
+        <td>Создание переговорных</td>
+        <td><i>Сервисы &gt; Переговорные</i></td>
+        <td>Администраторы
+		</td>
+      </tr>
+	  
+      <tr bgcolor="#eeeeee">
+        <td>Создание своих списков </td>
+        <td><i>Сервисы &gt; Списки</i></td>
+        <td>Группы пользователей, указанные в настройках модуля <b>Универсальные списки</b></td>
+      </tr>
+
+      <tr bgcolor="#ffffff">
+        <td>Просмотр или изменение содержимого списка (записей или разделов)</td>
+        <td><i>Сервисы &gt; Списки</i></td>
+        <td>Группы пользователей, указанные в настройках конкретного списка (в публичной части сайта)</td>
+      </tr>
+	  
+      <tr bgcolor="#eeeeee">
+        <td>Работа с бизнес-процессами организации</td>
+        <td><i>Сервисы &gt; Бизнес-процессы</i></td>
+        <td>Сотрудники</td>
+      </tr>
+	  
+      <tr bgcolor="#ffffff">
+        <td>Создание нового бизнес-процесса</td>
+        <td><i>Сервисы &gt; Бизнес-процессы</i></td>
+        <td>Администраторы (по умолчанию)
+		</td>
+      </tr>
+	  
+      <tr bgcolor="#eeeeee">
+        <td>Работа с электронными заявками</td>
+        <td><i>Сервисы &gt; Электронные заявки</i></td>
+        <td>Сотрудники</td>
+      </tr>
+	  
+      <tr bgcolor="#ffffff">
+        <td>Просмотр курсов</td>
+        <td><i>Сервисы &gt; Обучение</i></td>
+        <td>Сотрудники</td>
+      </tr>
+	  
+      <tr bgcolor="#eeeeee">
+        <td>Создание и редактирование курсов</td>
+        <td><i>Сервисы &gt; Обучение</i></td>
+        <td>Администрация портала</td>
+      </tr>
+	  
+      <tr bgcolor="#ffffff">
+        <td>Создание/изменение страниц</td>
+        <td><i>Сервисы &gt; База знаний (wiki)</i></td>
+        <td>Сотрудники</td>
+      </tr>
+
+      <tr bgcolor="#eeeeee">
+        <td>Удаление страниц и истории</td>
+        <td><i>Сервисы &gt; База знаний (wiki)</i></td>
+        <td>Отдел кадров, Руководство, Администрация портала (по умолчанию)</td>
+      </tr>
+	  
+      <tr bgcolor="#ffffff">
+        <td>Просмотр вопросов</td>
+        <td><i>Сервисы &gt; Вопросы и ответы</i></td>
+        <td>Сотрудники</td>
+      </tr>
+	  
+      <tr bgcolor="#eeeeee">
+        <td>Создание вопросов</td>
+        <td><i>Сервисы &gt; Вопросы и ответы</i></td>
+        <td>Отдел кадров, Администрация портала, Администраторы
+		</td>
+      </tr>
+	  
+      <tr bgcolor="#ffffff">
+        <td>Создание/управление опросами </td>
+        <td><i>Сервисы &gt; Опросы</i></td>
+        <td>Отдел кадров, Администрация портала (по умолчанию)
+         </td>
+      </tr>
+	
+      <tr bgcolor="#eeeeee">
+        <td>Создание новой заявки</td>
+        <td><i>Сервисы &gt; Техническая поддержка</i></td>
+        <td>Сотрудники</td>
+      </tr>
+	  
+   </tbody>
+</table>
+   </td></tr>
+
+  </tbody>
+</table>
+
+	  
+	  
+	  
+	  
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>50</edge_sort>
+<id>115</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

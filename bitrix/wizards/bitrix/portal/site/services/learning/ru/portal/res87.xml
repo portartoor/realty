@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>97</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>300</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>N</active>
+<name>Статусы</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Статусы используются для разделения работы над документами на определенные этапы, за каждый из которых отвечает один, либо группа пользователей.</p>
+
+<p>Изначально в дистрибутиве <b>«1C-Битрикс: Корпоративный портал»</b> предусмотрено всего три статуса: <b>Опубликован</b>, <b>Черновик</b> и <b>Готов</b>, достаточных для самой простой схемы документооборота. Для создания реальной схемы документооборота, действующей в конкретном проекте необходимо добавление новых статусов.</p>
+
+<p>Статус <b>Опубликовано</b> (<b>ID=1</b>) является конечным в цепочке документооборота, он зарезервирован и не подлежит удалению. При достижении документом данного статуса все изменения, выполненные в документе, вступают в силу (т.е. документ публикуется).</p>
+
+
+<p>Модуль <b>Документооборот</b> позволяет назначать сотрудников, ответственных за перевод документа в/из статуса в статус, и назначать сотрудников, имеющих права на редактирование документа в том или ином статусе. Также обеспечивается хранение копий документов в зависимости от настроек этого модуля.</p>
+
+
+<p><div class="hint"><b>Примечание: </b>Создавать статусы и осуществлять настройку модуля <b>Документооборот</b> может только <b>Администратор портала</b>, либо сотрудники, наделенные соответствующими правами доступа к управлению порталом. </div></p>
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>300</edge_sort>
+<id>97</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

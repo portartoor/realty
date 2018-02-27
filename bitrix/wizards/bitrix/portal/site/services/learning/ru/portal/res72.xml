@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>81</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>1000</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Доска почета</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<div class="note"><b>Доска почета</b> - это специальный инструмент для морального поощрения сотрудников.</div>
+
+<p>За особые заслуги сотрудник может быть помещен на <b>Доску почета</b>. В этом случае на странице отображается визитка сотрудника, заголовком которой является причина занесения сотрудника на доску почета:</p>
+<p><img src="cid:resources/res72/MwaiB.4rhvR.desk_of_fame.png" width="701" height="434"></p>
+
+<p>Если вы обладаете правами доступа к порталу не ниже <b>Отдел кадров</b>, то вам будет доступна кнопка <img src="cid:resources/res72/77LwU.Loaqh.add_zapis.png" width="214" height="29">, нажав на которую вы можете добавить сотрудника на <b>Доску почета</b>:</p>
+<p><img src="cid:resources/res72/l6lvL.tYtHb.desk_of_fame22.png" width="718" height="408"></p>
+
+<p>Заполните поля:</p>
+<h4>Вкладка Сотрудник</h4>
+<ul>
+<li><b>Активность</b> - снимите галочку, если хотите, чтобы запись была видна только из административного режима.</li>
+
+<li><b>Начало активности</b> - нажмите на пиктограмму календаря и выберите дату, и, при необходимости, время начала активности.</li>
+
+<li><b>Окончание активности</b> - нажмите на пиктограмму календаря и выберите дату, и, при необходимости, время конца активности.</li>
+
+<p><div class="hint"><b>Примечание</b>: об использовании календарей читайте в уроке <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2447">Добавление сотрудника</a>.</div></p>
+
+<li><b>Название</b> - укажите здесь заслугу, за которую сотрудник был внесен на доску почета (обязательное к заполнению поле).</li>
+
+<li><b>Пользователь</b> - нажмите на <img src="cid:resources/res72/u6gJ9.RLyO9.button.png" width="22" height="19"> и выберите из структуры награждаемого сотрудника. О том, как это сделать, можно прочитать в уроке <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2405#deal">Добавить сделку</a>.</li>
+</ul>
+
+<h4>Вкладка Анонс</h4>
+
+<p>На данной вкладке можно указать следующий параметр:</p>
+<p><b>Описание для анонса</b> - данное поле функционально идентично полю <b>Название</b> на вкладке <b>Сотрудник</b>.</p>
+
+<h4>Вкладка Подробно</h4>
+
+<p>На данной вкладке можно указать следующие параметры:</p>
+<ul>
+<li><b>Детальное описание</b> - введите описание, которое будет видно при просмотре профиля награжденного сотрудника:
+<p><img src="cid:resources/res72/1rCFJ.n2gE9.profile_desk_of_fame.png" width="305" height="495"></p>
+</li>
+</ul>
+
+<h4>Вкладка Разделы</h4>
+
+<p>На данной вкладке можно указать следующие параметры:</p>
+<ul>
+<li><p><b>Разделы</b> - выберите в какой раздел добавить запись о заслуге сотрудника, для этого выделите его левым кликом мыши:</p>
+<p><img src="cid:resources/res72/3DUxA.Qjyfa.razdely.png" width="213" height="90"></p>
+
+<p><div class="hint"><b>Примечание</b>: при отсутствии разделов запись будет добавлена в верхний уровень.</div></p>
+
+<li>Поля <b>Сортировка</b>, <b>Символьный код</b> и <b>Теги</b> настраиваются администратором.</li>
+</li>
+</ul>
+
+<h4>Вкладка Дополнительно</h4>
+
+<p>На данной вкладке настраиваются дополнительные опции добавляемой записи, которых может и не быть.</p>
+
+<p>Для внесения сотрудника на <b>Доску почета</b> нажмите <b>Сохранить</b>.</p>
+
+<p>Если вы обладаете правами доступа к порталу не ниже <b>Отдел кадров</b>, то вам также будет доступна кнопка <img src="cid:resources/res72/JUxvp.WSVfl.control_desk_of_fame.png" width="214" height="43">, нажав на которую вы получаете доступ к административному режиму управления <b>Доской почета</b>:</p>
+<p><img src="cid:resources/res72/K0jbG.xY55R.desk_admin.png" width="692" height="299"></p>
+
+<p>Здесь представлены имеющиеся записи о заслугах, за которые сотрудники помещаются на <b>Доску почета</b>. Добавление\удаление\редактирование записей осуществляется аналогично работе с другими элементами в административном разделе.</p>
+
+<p><div class="hint"><b>Примечание</b>: подробнее о предоставляемых административным режимом операциях, рассказано в разделе <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=23&LESSON_ID=1366">Информационные блоки</a> курса по администрированию портала.</div></p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>1000</edge_sort>
+<id>81</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

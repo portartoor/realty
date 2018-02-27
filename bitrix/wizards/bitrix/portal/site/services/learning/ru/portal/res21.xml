@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="CHA"><lesson_id>30</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>11</childs_cnt>
+<is_childs>1</is_childs>
+<sort>200</sort>
+<timestamp_x>1422877378</timestamp_x>
+<date_create>1422877378</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Личная страница</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<menu id="topictoc">
+  <li><a href="#p_page">Личная страница</a></li>
+  <li><a href="#a_menu">Меню пользователя</a></li>
+  <li><a href="#users_page">Просмотр личных страниц других сотрудников</a></li>
+</menu>
+
+<br>
+
+<a name="p_page"></a><h4>Личная страница</h4>
+
+<p>Для каждого сотрудника доступна <b>Личная страница</b> (или <b>Моя страница</b>), на которой представлена как служебная, так и личная его информация. Сотрудник может заводить друзей, организовывать группы, размещать фотографии, создавать темы на форуме и сообщения в блоге, управлять задачами, персональными календарями событий и файловым хранилищем.</p>
+
+<p><a href="javascript:ShowImg('/images/portal_user/personal_page/personal_page.png',1043,716,'Личная страница')">
+<img src="cid:resources/res21/PNdzE.R4gaF.personal_page_sm.png" alt="Нажмите на рисунок, чтобы увеличить" width="600" height="412" border="0" /></a></p>
+
+<p>Чтобы открыть свою страницу:</p>
+         <p>Выполните переход: <span class="path">Сотрудники &gt; Личная страница</span>.</p>
+         <p><img src="cid:resources/res21/Y71T4.yWaeW.menu_company_personal.png" alt="Меню &quot;Сотрудники &gt; Личная страница&quot;" border="0" width="411" height="291" /></p>
+
+	    <p>Используйте ссылку <b>Моя страница</b>, расположенную в личном меню:</p>
+         <p><img src="cid:resources/res21/lbUzW.ybZAa.personal_page_t_menu_link.png" alt="Ссылка &quot;Моя страница&quot;" border="0" width="288" height="177" /></p>
+
+<p>Отметим, что основным средством для управления информацией на личной странице является гаджет <b>Управление</b>:</p>
+
+<p><img src="cid:resources/res21/l2GOQ.88nL7.user_control_gadget.png" alt="Гаджет &quot;Управление&quot;" border="0" width="242" height="410" /></p>
+
+<p>С помощью следующего ряда ссылок открываются страницы управления персональными настройками:</p>
+<ul>
+  <li><b>Изменить профиль</b> - служит для изменения данных сотрудника: личной, контактной, рабочей информации и параметров авторизации;</li>
+  <li><b>Изменить приватность</b> - предназначена для установления прав другим сотрудникам по просмотру вашей личной страницы, друзей, групп, а также помогает определить сотрудников, которые смогут приглашать в группу и писать личные сообщения:</li>
+  <li><b>Изменить настройки</b> - предназначена для включения/выключения определенного функционала (<b>Форум</b>, <b>Фотогалерея</b> и т.д.) и установки прав использования этим функционалом;</li>
+  <li><b>Подписка</b> – служит для просмотра и управления подписками на обновления групп и пользователей.</li>
+</ul>
+
+<p><div class="hint"><b>Примечание:</b> Подробнее про настройки личной страницы смотрите в уроке <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2249">Основное</a> главы <b>Личная страница</b>.</div></p>
+
+<p><div class="hint"><b>Примечание:</b> Подробнее про гаджеты описано в уроке <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2190">Страница &quot;Мой портал&quot;</a> главы <b>Основные сведения</b>.</div></p>
+
+
+<br>
+
+
+<a name="a_menu"></a><h4>Меню пользователя</h4>
+
+<p>Для навигации по разделам личной страницы используется меню пользователя.</p>
+
+<p><img src="cid:resources/res21/Wn5mY.Bb8hs.user_r_menu.png" alt="Дополнительное меню" border="0" width="746" height="59" /></p> 
+
+<p>В нем выводится <b>Имя сотрудника</b>, его <b>Должность</b> в компании и <b>Статус нахождения на портале</b> (например, <b>вне офиса</b>).</p>
+
+<p>Переход разделами личной страницы реализуется с помощью соответствующих ссылок:</p>
+<ul>	  
+  <li><b>Основное</b> - просмотр <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2249">основной информации</a> о сотруднике: должность, контактные данные и.т.д.;</li>
+  <li><b>Группы</b> - просмотр <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2246">рабочих групп</a>, в которых состоит сотрудник;</li>
+  <li><b>Задачи</b> - просмотр <a href="/learning/course/index.php?COURSE_ID=45&CHAPTER_ID=857">задач</a> поставленных сотруднику/сотрудником;</li>
+  <li><b>Календарь</b> - просмотр личного <a href="/learning/course/index.php?COURSE_ID=45&CHAPTER_ID=831">календаря</a> сотрудника;</li>
+  <li><b>Микроблог</b> - переход к <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2399">микроблогу</a>;</li>
+  <li><b>Блог</b> - просмотр записей личного <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2252">блога</a> сотрудника;</li>
+  <li><b>Файлы</b> - переход к <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2322">файловому хранилищу</a> сотрудника;</li>
+  <li><b>Фото</b> - просмотр <a href="/learning/course/index.php?COURSE_ID=45&CHAPTER_ID=823">фотогалереи</a> сотрудника;</li>
+  <li><b>Форум</b> - переход к просмотру личного <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2294">форума</a> сотрудника;</li>
+  <li><b>Сообщения</b> - переход к просмотру <a href="/learning/course/index.php?COURSE_ID=45&CHAPTER_ID=832">личных сообщений</a>;</li>
+</ul>	
+
+<p><div class="hint"><b>Примечание:</b> Количество пунктов меню пользователя, т.е. доступный функционал, определяется настройками модуля <b>Социальная сеть</b>, которые задает администратор, и персональными настройками пользователя.</div></p>
+
+<p>Для быстрого перехода к своим настройкам из любого раздела личной страницы используется специальное меню, пункты которого аналогичны ссылкам в гаджете <b>Управление</b>:</p>
+<p><img src="cid:resources/res21/6Zl2F.LyDNN.user_menu_settings_list_b.png" alt="Меню настроек профиля в меню пользователя" border="0" width="351" height="217" /></p> 
+<p>Для вызова этого меню кликните на свое имя в меню пользователя:</p>
+<p><img src="cid:resources/res21/2jBt7.ApREe.user_menu_settings_list_a.png" alt="Меню настроек профиля в меню пользователя" border="0" width="351" height="63" /></p> 
+
+
+
+
+<br>
+
+
+<a name="users_page"></a><h4>Просмотр личных страниц других сотрудников</h4>
+
+<p>Для просмотра информации о другом сотруднике кликните на ссылку с его именем. Откроется личная страница сотрудника. </p>
+
+<p>Отметим, что набор ссылок в гаджете <b>Управление</b> для просматриваемой страницы сотрудника будет другим:</p>
+<ul>
+  <li><b>Написать сообщение</b> - позволяет обмениваться сообщениями с друзьями и сотрудниками компании;</li>
+  <li><b>Видеозвонок</b> - позволяет совершить видеозвонок сотруднику;</li>
+  <li><b>Показать переписку</b> - служит для просмотра истории переписки с сотрудниками компании;</li>
+  <li><b>Пригласить в группу</b> - позволяет пригласить сотрудника в рабочую группу;</li>
+  <li><b>Подписка</b> - служит для изменения подписки на обновления пользователя.</li>
+</ul>
+ 
+ <p><img src="cid:resources/res21/uBWWv.w8Gd2.other_user_links.png" alt="Ссылки для другого сотрудника" border="0" width="242" height="460" /></p>
+
+<p>Так же меню пользователя уже будет относиться к сотруднику, чью страницу вы просматриваете:</p>
+
+ <p><img src="cid:resources/res21/jWEXo.XaU8f.other_user_r_menu.png" alt="Дополнительное меню для другого сотрудника" border="0" width="746" height="59" /></p>
+
+ 
+<p>Для быстрого перехода также используется специальное меню:</p>
+<p><img src="cid:resources/res21/LbRJj.R7Gml.user_menu_msg_list_b.png" alt="Меню настроек профиля в меню пользователя" border="0" width="277" height="171" /></p> 
+<p>Оно также доступно по клику на имени сотрудника в меню пользователя</p>
+<p><img src="cid:resources/res21/lU3q1.yxx1Z.user_menu_msg_list_a.png" alt="Меню настроек профиля в меню пользователя" border="0" width="277" height="62" /></p>  
+ 
+
+ 
+<br>
+
+<p><table width="100%" height="1" cellspacing="0" cellpadding="0" bgcolor="#cecece"> 
+  <tbody> 
+    <tr><td></td></tr>
+   </tbody>
+ </table></p>
+
+<p><img height="18" border="0" width="18" src="cid:resources/res21/AhYRk.GhcGq.pdf_doc.gif" /> Скачать материалы главы в формате <a href="http://dev.1c-bitrix.ru/docs/pdf_files/intranet_user_personal.pdf" target="_blank">PDF</a></p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>200</edge_sort>
+<id>30</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

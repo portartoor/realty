@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>18</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877378</timestamp_x>
+<date_create>1422877378</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Навигация по порталу</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Навигация по порталу, то есть перемещение со страницы на страницу осуществляется обычными для интернет сайтов способами:</p> 
+<ul>
+<li>меню;</li>
+<li>цепочка навигации;</li> 
+<li>вынесенные ссылки.</li> 
+ </ul>   
+
+<p><a href="javascript:ShowImg('/images/portal_user/base/nav.png',1020,483,'Инструменты навигации')">
+  <img height="378" border="0" width="800" src="cid:resources/res12/ANIVN.VepVc.nav_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a> </p>
+
+<div class="note"><b>Меню</b> (англ. menu, фр. menu) — элемент интерфейса пользователя, позволяющий выбрать одну (в простейшем случае) из нескольких перечисленных опций.</div>
+
+<p>Меню – это основной инструмент навигации. На рисунке меню выделено зеленым. В рамках <i>«1С-Битрикс: Корпоративный портал»</i> есть три меню. Главное – верхнее горизонтальное не меняющееся меню с выпадающем списком. Правое меню, меняющееся в зависимости от раздела. И <b>Личное меню</b>, ведущее на страницы раздела <b>Личная страница</b>.</p>
+
+<div class="note"><b>Цепочка навигации</b> или <b>«Хлебные крошки»</b> — элемент навигации, представляющий собой путь по сайту от его «корня» до текущей страницы, на которой находится пользователь.
+<p>Инструмент назван по аналогии с немецкой сказкой "Гензель и Гретель", в которой дети, когда их завели в лес во второй раз, не смогли найти обратную дорогу, так как на этот раз вместо маленьких камешков они оставляли за собой хлебные крошки, впоследствии склеванные лесными птицами.</p></div>
+
+<p>Цепочка навигации – это строка на странице, указывающая в каком разделе вы сейчас находитесь. НА иллюстрации выделено синим. С помощью ссылок в этой строке можно быстро подняться вверх по разделу. Строка навигации меняется в зависимости от ваших перемещений.</p>
+
+<div class="note"><b>Вынесенные ссылки</b> - вынесенные в дизайн сайта ссылки, не входящие в традиционное меню.</div>
+
+<p>Вынесенные ссылки на картинке выделены красным. Они видны не всегда и меняются в зависимости от уровня прав, страницы и работы определенных функций. Вынесенные ссылки есть еще в «подвале» портала. </p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>18</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

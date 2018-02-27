@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="CHA"><lesson_id>47</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>7</childs_cnt>
+<is_childs>1</is_childs>
+<sort>300</sort>
+<timestamp_x>1422877378</timestamp_x>
+<date_create>1422877378</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Сообщения</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[ <menu id="topictoc"> 
+  <li><a href="#messages">Сообщения на портале</a> </li>
+  <li><a href="#chat">Обмен сообщениями через чат на портале</a> </li>
+  <li><a href="#xmpp">Обмен сообщениями через протокол XMPP</a> </li>
+</menu>
+
+
+<br>
+
+
+<a name="messages"></a><h4>Сообщения на портале</h4>
+
+<p>Раздел <b>Мои Сообщения</b> содержит все, что связано с сообщениями на портале, это: личная переписка, служебные оповещения, подписки, живая лента, а также задания бизнес-процессов:</p>
+
+
+<table cellpadding="0" cellspacing="0">  
+  <tbody>
+    <tr>
+	  <td>
+
+	   <p><img src="cid:resources/res34/i9LHu.tIahL.msg_r_menu.png" alt="Боковое меню &quot;Мои сообщения&quot;" border="0" width="269" height="264" ></p>
+
+	  </td>
+	  <td valign="top">
+		<ul>	  
+           <li><b>Переписка</b> - просмотр переписки с другими сотрудниками компании (в том числе и служебных сообщений);</li>
+           <li><b>Входящие</b> - просмотр входящих сообщений;</li>
+           <li><b>Исходящие</b> - просмотр исходящих сообщений;</li>
+           <li><b>Черный список</b> - просмотр списка сотрудников, занесенных в черный список;</li>
+           <li><b>Обновления</b> - просмотр списка новых событий на портале: новости, блоги, задачи и.т.д.;</li>
+           <li><b>Подписка</b> - организация подписки на различные события портала;</li>	
+           <li><b>Бизнес-процессы</b> - просмотр и управление заданиями бизнес-процессов;</li>		   
+		</ul>		  
+      </td>
+	</tr>
+  </tbody>
+</table>
+
+<p>Для перехода к разделу используйте ссылку <b>Сообщения</b>, расположенную в меню в верхнем правом углу портала:</p>
+
+<p><img src="cid:resources/res34/TwQDv.EiQ4D.msg_link_t_menu.png" alt="Ссылка &quot;Сообщения&quot;" border="0" width="267" height="171" ></p>
+
+<p>Также к отдельным страницам раздела можно перейти с помощью отдельных ссылок, например <b>Живая лента</b>:</p>
+
+<p><img src="cid:resources/res34/FAPUm.rUKky.log_link_t_menu.png" alt="Ссылка &quot;Живая лента&quot;" border="0" width="267" height="171" ></p>
+
+
+<br>
+
+
+
+<p><a name="notify"></a>Для оповещения пользователя о новых сообщениях используются:</p>
+<ul>
+  <li>мигание символа <b>*</b> в заголовке браузера:
+    <p><img src="cid:resources/res34/eTKxD.g4Sep.msg_browser_title.png" alt="Моргающий символ * в заголовке браузера" border="0" width="293" height="138" ></p>
+  </li>
+
+  <li>вcыплывающая панель с указанием количества новых/непрочитанных сообщений:
+    <p><a href="javascript:ShowImg('/images/portal_user/personal_page/messages/new_msg_bar.png',945,70,'Вcыплывающая панель с указанием количества новых/непрочитанных сообщений')">
+<img src="cid:resources/res34/fyETt.Z5UjP.new_msg_bar_sm.png" alt="Нажмите на рисунок, чтобы увеличить" width="600" height="64" border="0" /></a></p>
+
+  <p>кликнув на которую появится окно сообщения</p>
+    <p><img src="cid:resources/res34/DZmtd.uPY3K.msg_popup.png" alt="Окно сообщения" border="0" width="542" height="256" ></p>
+  </li>
+
+  <li>указание новых (непрочитанных) сообщений на панели статусов:
+    <p><img src="cid:resources/res34/jec9Q.x09X6.new_msg_status_bar_1.png" alt="Иконка &quot;Новые сообщения&quot;" border="0" height="22" width="709"></p>
+  <p>кликнув на иконку сообщений можно быстро совершить переход в раздел <b>Сообщения</b>:</p>
+    <p><img src="cid:resources/res34/STtlZ.s3qxF.new_msg_status_bar_1_link.png" alt="Иконка &quot;Новые сообщения&quot;" border="0" height="55" width="709"></p>
+  </li>
+  
+  <li><a href="#xmpp">XMPP-клиент</a>, который оповестит пользователя и непосредственно отобразит полученное сообщение.
+  </li>
+ </ul>
+
+<p><div class="hint"><b>Примечание:</b> Типы оповещения зависят от настроек портала и некоторые из них могут быть отключени администратором.</div></p>
+
+
+<p><div class="warning"><b>Внимание!</b> Возможность отправки сообщений зависит от <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2249#change_privacy">настроек приватности</a> сотрудника, которому адресовано сообщение.</div></p>
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+<a name="chat"></a><h4>Обмен сообщениями через чат на портале</h4>
+
+<p>Обмен сообщениями между пользователями портала осуществляется с помощью специального окна чата, который состоит из нескольких областей:</p>
+
+<p><img src="cid:resources/res34/nlB3v.E2lKp.chat_window.png" border="0" alt="Окно обмена сообщениями" width="620" height="447" /></p>
+
+ <table width="100%">
+    <tbody>
+<tr><td colspan="2"><b><font color="#ff0000">(1)</font></b> - указывается имя и фамилия собеседника, присутствует ли он на портале, а также отображаются следующие кнопки:</td></tr>
+
+<tr><td width="7%"></td><td>
+
+<table width="100%">
+    <tbody>
+      <tr><td width="33"><img src="cid:resources/res34/Jd5e7.4o20S.chat_but1.png" border="0" height="31" width="31"></td><td valign="middle">- переход на личную страницу собеседника;</td></tr>
+    
+      <tr><td><img src="cid:resources/res34/Vpih8.5UbeU.chat_but2.png" border="0" height="31" width="31"></td><td valign="middle">- переход на страницу просмотра истории переписки с пользователем;</td></tr>
+	  
+      <tr><td><img src="cid:resources/res34/NV52r.mCCVY.video_but.png" border="0" height="31" width="31"></td><td valign="middle">- совершение видеозвонка;</td></tr>  
+    
+      <tr><td><img src="cid:resources/res34/Toj8r.UCE6l.chat_but3.png" border="0" height="31" width="31"></td><td valign="middle">- показ переписки с пользователем за текущей день в окне переписки;</td></tr>
+    
+      <tr><td><img src="cid:resources/res34/NiODO.pAN3x.chat_but4.png" border="0" height="31" width="31"></td><td valign="middle">- включение/отключение звука отправки/получения сообщений;</td></tr>
+
+    </tbody>
+  </table>
+
+</td></tr>
+
+<tr><td colspan="2"><b><font color="#0000ff">(2)</font></b> - окно переписки с пользователем;</td></tr>
+<tr><td colspan="2"><b><font color="#00c024">(3)</font></b> - окно ввода сообщения;</td></tr>
+<tr><td colspan="2"><b><font color="#ff672c">(4)</font></b> - задается список получателей сообщения (данная область может быть скрыта или развернута в зависимости от ваших нужд).</td></tr>
+
+</tbody>
+</table>
+
+
+
+<p>Чтобы написать сообщение некоторому сотруднику, найдите его на портале и воспользуйтесь ссылкой <b>Написать сообщение</b> (ссылка доступна как на личной странице сотрудника, так и любой другой странице, на которой представлена его карточка). Откроется окно обмена сообщениями:</p>
+
+<p><img src="cid:resources/res34/9oJvS.IH3K4.message.png" border="0" alt="Окно обмена сообщениями" width="547" height="456" /></p>
+
+<p>Укажите текст сообщения, причем при его вводе вы можете использовать различные средства форматирования текста, добавлять ссылки, подключать изображения и вставлять смайлики.</p>
+
+<p>Для отправки сообщения нажмите кнопку <b>Отправить сообщение</b> или <b>Ctrl+Enter</b>. Отправленное сообщение будет показано в окне переписки:</p>
+
+
+<p><img src="cid:resources/res34/ZvCJ2.fS7HC.message_chat1.png" border="0" alt="Окно переписки" width="423" height="206" /></p>
+
+<p>Если ваш собеседник напишет ответ сразу, пока у вас открыт чат, то его сообщение отобразится в окне переписки: </p>
+
+<p><img src="cid:resources/res34/8wcJN.fmgUj.message_chat2.png" border="0" alt="Диалог сотрудников" width="433" height="212" /></p>
+
+<p><div class="hint"><b>Примечание:</b> Если сотрудник напишет вам сообщение, когда у вас закрыто окно чата, то вы увидите <a href="#notify">соответствующее оповещение</a>.</div></p>
+
+
+
+<p>Отправить сообщение можно нескольким сотрудникам или группе сотрудников. Для этого откройте список получателей с помощью специальной кнопки в правой части окна. Выберите категорию контактов, например <b>Структура компании</b>, и отметьте сотрудников, которые получат сообщение:</p>
+
+<p><img src="cid:resources/res34/Ptzd2.KAOvF.message_group.png" border="0" alt="Отправка сообщения нескольких контактам" width="678" height="488" /></p>
+
+
+<p>Введите текст сообщения и нажмите кнопку <b>Отправить сообщение</b>. Сообщение будет отправлено всем отмеченным сотрудникам.</p>
+
+
+
+
+
+
+<br>
+
+
+
+
+
+<a name="xmpp"></a><h4>Обмен сообщениями через протокол XMPP</h4>
+
+<p><div class="note"><b>XMPP</b> (<i>Extensible Messaging and Presence Protocol</i> — расширяемый протокол обмена сообщениями и информацией о присутствии), ранее известный как <b>Jabber</b>) — основанный на XML, открытый, свободный для использования протокол для мгновенного обмена сообщениями и информацией о присутствии в режиме, близком к режиму реального времени. Изначально спроектированный легко расширяемым, протокол, помимо передачи текстовых сообщений, поддерживает передачу голоса, видео и файлов по сети.</div></p>
+
+
+<p>Сотрудники имеют возможность общаться на портале, используя привычные для себя мессенджеры: <b>Miranda</b>, <b>QIP Infium</b>, <b>Pidgin</b>, <b>Psi</b> и т.п., причем история переписки всегда будет храниться на портале (историю всегда можно посмотреть в разделе <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2323">Переписка</a>).</p>
+
+
+<p>Чтобы начать общение, необходимо выполнить следующие настройки в выбранной вами программе:</p>
+<ul>
+<li>укажите ваш <b>логин</b> и <b>пароль</b> для доступа <u>на портал</u>;</li>
+<li>в качестве <b>сервера</b> укажите домен вашего портала;</li>
+<li>уточните у администратора портала <b>порт</b> для XMPP-сервера, если он отличается от используемого по умолчанию, то введите необходимое значение;</li>
+<li>уточните у администратора, используется ли <b>SSL</b>-шифрование, если используется, то установите флажок в одноименном поле.</li>
+</ul>
+
+<p>Например, если вами выбрана <b>Miranda</b>, то форма ее настроек имеет следующий вид:</p>
+
+<p><img src="cid:resources/res34/81oPq.rcjGG.miranda_set.png" border="0" alt="Пример настройки Miranda" width="648" height="476" /></p>
+
+
+<p>В результате, после сохранения настроек и выполнения входа в сеть, будет подгружен список сотрудников портала:</p>
+
+<p><img src="cid:resources/res34/rXScW.5KD2d.miranda_list.png" border="0" alt="Список контактов" width="223" height="493" /></p>
+
+<p>Для <b>QIP</b> форма настроек имеет следующий вид:</p>
+
+<p><img src="cid:resources/res34/7EYZ6.vLKWy.xmpp_qip_settings.png" border="0" alt="Пример настройки QIP" width="672" height="491" /></p>
+
+
+<p><div class="hint"><b>Примечание:</b> Подробнее про настройку вашего XMPP-клиента читайте в документации к нему.</div></p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>300</edge_sort>
+<id>47</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

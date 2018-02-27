@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>16</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877378</timestamp_x>
+<date_create>1422877378</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Форма отчета</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Описанный здесь формат представления данных и меню действий характерен для таких страниц и разделов портала, как: Общие документы, Файловое хранилище, Сервисы, CRM.</p>
+
+<p>Разберем формат представления на примере пункта <b>Список контактов</b> в CRM:</p>
+
+<p><a href="javascript:ShowImg('/images/portal_user/base/contact_list.png',799,592)">
+<img height="444" border="0" width="600" src="cid:resources/res14/EgY6z.IR41Q.contact_list_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a>
+</p>
+
+<p><font color="#0000ff" size="5">1</font> - <b>контекстная панель</b>. Названия, функции и количество кнопок могут различаться в зависимости от содержания страницы и прав сотрудника.</p>
+
+<p><font color="#ff0000" size="5">2</font> - <b>таблица элементов</b>. С помощью нее группируется и отображается информация. Названия полей и информация зависят от контента.</p>
+<p>Можно выполнить сортировку по значениям тех столбцов таблицы, в заголовках которых есть стрелка:<br> <img src="cid:resources/res14/kKx12.p25UV.sortirovka1.png" width="208" height="30">, или такой знак: <img src="cid:resources/res14/IlfYl.8J2CY.sortirovka2.png" width="98" height="27">. Символ стрелки говорит о том, что данные в таблице выводятся согласно сортировке данного столбца, а направление стрелки, что элементы таблицы расположены по убыванию (стрелка направлена вниз) или по возрастанию (стрелка направлена вверх).</p>
+
+<p>Над <b>таблицей элементов</b> может быть панель вкладок и меню управления формой, как на скриншоте ниже:</p>
+<p><img src="cid:resources/res14/JRjhZ.4n2O9.control_menu.png" width="767" height="44"  /></p>
+<p>Под каждой вкладкой скрываются свои аспекты профиля, отличные от остальных, однако можно развернуть все вкладки на одну страницу, для чего нужно щелкнуть левой кнопкой мыши по пиктограмме направленной вниз стрелочки: <img src="cid:resources/res14/E9mIc.PSwBl.razvernut.png" width="75" height="44"  /></p>
+
+
+
+<p><font color="#fbaf5a" size="5">3</font> - <b>колонка флажков</b>. Позволяет выбрать один или более элементов для выполнения над ними каких-либо действий. Установка флажка в заголовке таблицы приводит к выбору всех элементов таблицы, отображаемых на данной странице.</p>
+
+
+<p>Обратите особое внимание на команду <b>Быстрое редактирование</b>. С ее помощью можно изменить наиболее важные и часто используемые свойства одновременно всех отмеченных элементов, отображаемых в таблице. Что наиболее важно, это дает возможность правки свойств элементов, не покидая текущей формы отчета (то есть, без переключения в форму редактирования). Рекомендуется пользоваться этими возможностями только для групповых операций небольших по объему параметров.</p>
+
+<p><img height="84" border="0" width="411" src="cid:resources/res14/uH6EE.0xrE2.action_bar.png" /></p>
+
+<p>Действия над отмеченными элементами производятся путем выбора требуемой команды в панели групповых операций, расположенной ниже таблицы. Чтобы применить действие сразу ко всем элементам таблицы, нужно установить флажок в поле <b>Для всех</b>.</p>
+
+
+<p><font color="#00ff00" size="5">4</font> - колонка <b>Меню действий</b> содержит кнопки <img src="cid:resources/res14/2aphw.EgwcN.but_action_menu.png" width="28" height="20">, нажатие на которые приводит к появлению контекстного меню, в котором можно выбрать желаемое действие, допустимое над элементом таблицы. Тип допустимых действий определяется содержанием страницы. Так, элементы таблицы страницы <b>Список контактов</b> (<span class="path">CRM &gt; Контакты &gt; Список контактов</span>) предполагают такие действия:</p>
+<p><img src="cid:resources/res14/bGoFg.iZHNM.action_menu.png" width="384" height="253"></p>
+
+
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>16</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

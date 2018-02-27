@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>106</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>200</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Бизнес-процессы организации</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Бизнес процессы организации предназначены для автоматизации деятельности организации. По умолчанию создано и представлено два типовых бизнес-процесса: <b>Оформление командировки</b> и <b>Оформление отпуска</b>. Администратор системы может добавлять собственные процессы.</p>
+
+<p><div class="warning"><b>Важно! </b>Если вы не можете работать с бизнес-процессами организации на портале, обратитесь в <b>Администратору портала</b>.</div></p>
+
+<menu id="topictoc">
+       <li><a href="#bizproc_org_start">Запуск бизнес-процесса организации</a></li>
+       <li><a href="#bizproc_org_work">Выполнение бизнес-процессов организации</a></li>
+       <li><a href="#bizproc_org_new">Создание бизнес-процессов организации</a></li>
+</menu>
+
+<br />
+<a name="bizproc_org"></a><h4>Работа с бизнес-процессами организации</h4>
+
+<a name="bizproc_org_start"></a><p>Запуск бизнес-процесса организации осуществляется каждым сотрудником самостоятельно на странице <b>Бизнес-процессы</b> (<span class="path">Сервисы &gt; Бизнес-процессы</span>). Например, для оформления командировки служит ссылка <b>Новая командировка</b>:</p>
+
+<p><img src="cid:resources/res91/O3Sxx.u0exe.bizproc_org_view.png" border="0" height="306" width="513" /></p>
+
+<p>Для каждого бизнес-процесса организации отображается своя форма запуска в соответствии с настройками шаблона. Для оформления командировки она имеет следующий вид:</p>
+<p><img src="cid:resources/res91/dLgtI.VnwYs.bizproc_org_new_sm.png" border="0" height="539" width="600" /></p>
+
+<p>После заполнения соответствующих полей и нажатия кнопки <b>Новая командировка</b> запустится и начнет выполняться новый бизнес-процесс.</p>
+
+
+<br />
+
+<a name="bizproc_org_work"></a><h4>Выполнение бизнес-процессов организации</h4>
+
+<p>Выполнение назначенных заданий по бизнес-процессам организации, как и заданий по бизнес-процессам документов, осуществляется на закладке <b>Бизнес-процессы</b> личной страницы (<span class="path">Сообщения &gt; Бизнес-процессы</span>). Кроме того, просмотреть текущий статус и выполняемое задание можно на странице детального просмотра бизнес-процесса (страница доступна по ссылке с названием бизнес-процесса):</p>
+
+<p><img src="cid:resources/res91/ymcjW.7w6iI.bizproc_org_work_sm.png" border="0" height="216" width="600" /></p>
+
+
+
+
+<br />
+<a name="bizproc_org_new"></a><h4>Создание бизнес-процессов организации</h4>
+<p><div class="important"><b>Примечание</b>: Создание нового бизнес-процесса организации доступно только при наличии соответствующих прав доступа (по умолчанию - только для <b>Администратора системы</b>). </div></p>
+
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>200</edge_sort>
+<id>106</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

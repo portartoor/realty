@@ -1,0 +1,29 @@
+<?
+$MESS["CRM_ALL"] = "Total";
+$MESS["CRM_DEAL_SHOW_TITLE"] = "View deal";
+$MESS["CRM_DEAL_SHOW"] = "View";
+$MESS["CRM_DEAL_EDIT_TITLE"] = "Edit deal";
+$MESS["CRM_DEAL_EDIT"] = "Edit";
+$MESS["CRM_DEAL_EVENT_TITLE"] = "Add new event";
+$MESS["CRM_DEAL_EVENT"] = "Add Event";
+$MESS["CRM_DEAL_DELETE_TITLE"] = "Delete deal";
+$MESS["CRM_DEAL_DELETE"] = "Delete";
+$MESS["CRM_DEAL_DELETE_CONFIRM"] = "Are you sure you want to delete it?";
+$MESS["CRM_DEAL_TASK_TITLE"] = "New task";
+$MESS["CRM_DEAL_TASK"] = "New Task";
+$MESS["CRM_DEAL_BIZPROC_TITLE"] = "Business Process";
+$MESS["CRM_DEAL_BIZPROC"] = "Business Process";
+$MESS["CRM_DEAL_BIZPROC_LIST_TITLE"] = "Run new business process";
+$MESS["CRM_DEAL_BIZPROC_LIST"] = "New business process";
+$MESS["CRM_DEAL_COPY_TITLE"] = "Copy";
+$MESS["CRM_DEAL_COPY"] = "Copy";
+$MESS["CRM_DEAL_CALENDAR_TITLE"] = "Add new record to calendar";
+$MESS["CRM_DEAL_CALENDAR"] = "Add call or event";
+$MESS["CRM_STAGE_INIT"] = "- Deal Stage -";
+$MESS["CRM_DEAL_SET_STAGE"] = "Set stage";
+$MESS["CRM_DEAL_ASSIGN_TO"] = "Assign responsible person";
+$MESS["CRM_DEAL_ADD_CALL_TITLE"] = "Create new call";
+$MESS["CRM_DEAL_ADD_CALL"] = "New call";
+$MESS["CRM_DEAL_ADD_MEETING_TITLE"] = "Create a new meeting";
+$MESS["CRM_DEAL_ADD_MEETING"] = "New meeting";
+?>

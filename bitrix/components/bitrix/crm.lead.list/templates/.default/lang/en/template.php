@@ -1,0 +1,35 @@
+<?
+$MESS["CRM_ALL"] = "Total";
+$MESS["CRM_LEAD_SHOW_TITLE"] = "View Lead";
+$MESS["CRM_LEAD_SHOW"] = "View";
+$MESS["CRM_LEAD_EDIT_TITLE"] = "Edit Lead";
+$MESS["CRM_LEAD_EDIT"] = "Edit";
+$MESS["CRM_LEAD_DELETE_TITLE"] = "Delete Lead";
+$MESS["CRM_LEAD_DELETE"] = "Delete";
+$MESS["CRM_LEAD_EVENT_TITLE"] = "Add new event";
+$MESS["CRM_LEAD_EVENT"] = "Add Event";
+$MESS["CRM_LEAD_DELETE_CONFIRM"] = "Are you sure you want to delete it?";
+$MESS["CRM_LEAD_CONVERT_TITLE"] = "Convert Lead";
+$MESS["CRM_LEAD_CONVERT"] = "Convert";
+$MESS["CRM_STATUS_INIT"] = "- Status -";
+$MESS["CRM_LEAD_TASK_TITLE"] = "New task";
+$MESS["CRM_LEAD_TASK"] = "New Task";
+$MESS["CRM_LEAD_COPY_TITLE"] = "Copy lead";
+$MESS["CRM_LEAD_COPY"] = "Copy Lead";
+$MESS["CRM_LEAD_BIZPROC_TITLE"] = "Business Process";
+$MESS["CRM_LEAD_BIZPROC"] = "Business Process";
+$MESS["CRM_LEAD_BIZPROC_LIST_TITLE"] = "Run new business process";
+$MESS["CRM_LEAD_BIZPROC_LIST"] = "New business process";
+$MESS["CRM_LEAD_SUBSCRIBE_TITLE"] = "Send message";
+$MESS["CRM_LEAD_SUBSCRIBE"] = "Send message";
+$MESS["CRM_LEAD_CALENDAR_TITLE"] = "Add new record to calendar";
+$MESS["CRM_LEAD_CALENDAR"] = "Add call or event";
+$MESS["CRM_LEAD_SET_STATUS"] = "Set status";
+$MESS["CRM_LEAD_ASSIGN_TO"] = "Assign responsible person";
+$MESS["CRM_LEAD_ADD_EMAIL_TITLE"] = "Create a new e-mail";
+$MESS["CRM_LEAD_ADD_EMAIL"] = "New e-mail";
+$MESS["CRM_LEAD_ADD_CALL_TITLE"] = "Create a new call";
+$MESS["CRM_LEAD_ADD_CALL"] = "New call";
+$MESS["CRM_LEAD_ADD_MEETING_TITLE"] = "Create a new meeting";
+$MESS["CRM_LEAD_ADD_MEETING"] = "New meeting";
+?>

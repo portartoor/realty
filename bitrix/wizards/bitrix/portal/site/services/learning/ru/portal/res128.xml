@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>137</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Управление группами</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>В этом уроке вы узнаете о том, как можно осуществлять управление группами.</p>
+
+<p><div class="warning"><b>Внимание</b>! Вы можете управлять группами, если являетесь ее владельцем или модератором, либо если вы входите на корпоративном портале в группу не ниже <b>Администрация портала</b>.</div></p>
+
+<p>Управление группой осуществляется с помощью соответствующих ссылок, расположенных в секции <b>Управление</b>.</p>  
+
+<p>Если вы обладаете правами владельца группы, то на главной странице группы, под логотипом, увидите такое меню:</p>
+
+  <p><img src="cid:resources/res128/SHnoC.4lruj.group_control_menu_adm.png" width="297" height="485"></p>
+
+<p><menu>
+  <li><a href="#send_message">Написать сообщение</a></li>
+  <li><a href="#group_edit">Редактировать группу</a></li>
+  <li><a href="#edit_settings">Изменить настройки</a></li>
+  <li><a href="#group_del">Удалить группу</a></li>
+  <li><a href="#moderators_edit">Редактировать модераторов</a></li>
+  <li><a href="#members_edit">Редактировать состав</a></li>
+  <li><a href="#black_list">Черный список</a></li>
+  <li><a href="#invite">Пригласить в группу</a></li>
+  <li><a href="#requests">Проверить запросы на вступление</a></li>
+  <li><a href="#requests_out">Приглашения в группу</a></li>
+  <li><a href="#subscribe">Подписка</a></li>
+</menu></p>
+ 
+
+<p><div class="warning"><b>Внимание!</b> В зависимости от прав, некоторые пункты будут отсутствовать в списке.</div></p>
+
+<br>
+
+
+
+
+<a name="send_message"></a><h3>Написать сообщение</h3>
+<p>Ссылка позволяет написать личное сообщение участнику группы.</p>
+<p><div class="hint"><b>Примечание</b>: Об отправке сообщений вы можете узнать из урока <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2308#send_message">Отправка сообщений</a>.</div></p>
+
+
+<br>
+
+<p>Рассмотрим те пункты меню, которых мы не касались в предыдущих уроках:</p>
+
+<a name="group_edit"></a><h3>Редактировать группу</h3>
+<p>После клика откроется страница редактирования группы, аналогичная той, что появляется при создании группы. Ее описание можно посмотреть <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2306#group_create">здесь</a>.</p>
+  <p><img src="cid:resources/res128/1Rm2a.IhcP9.group_edit.png" width="649" height="616"></p>
+<p>Единственный появившийся новый параметр - <b>Сделать архивной группой</b>. Если отметить эту опцию, то группа не будет отображаться у участников и в общем списке групп той темы, к которой была причислена при создании. Найти ее можно будет на странице <b>Архив</b> раздела <b>Группы</b>, где хранятся все архивные группы, либо с помощью поискового запроса.</p>
+
+  
+<br>
+
+<a name="edit_settings"></a><h3>Изменить настройки</h3>
+<p>После перехода по ссылке вы окажетесь на странице, где можно менять названия и уровни доступа к функционалу группы:</p>
+  <p><img src="cid:resources/res128/CYhzq.f4wWP.group_settings.png" width="628" height="544"></p>
+  
+<p><div class="hint"><b>Примечание</b>: Настройка функционала группы производится аналогично <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2249#a_menu_settings">настройкам функционала личной страницы сотрудника</a>.</div></p>
+
+<br>
+
+<a name="group_del"></a><h3>Удалить группу</h3>
+<p>Нажмите на эту ссылку, если вы хотите удалить группу. После клика откроется форма подтверждения удаления группы:</p>
+  <p><img src="cid:resources/res128/mBNqH.F4V9r.group_del_confirm.png" width="598" height="145"></p>
+
+<br>
+
+<a name="moderators_edit"></a><h3>Редактировать модераторов</h3>
+<p>На данной странице вы можете <b>Назначить модераторов</b>, либо исключить сотрудников из их числа.</p>
+<p>Также вы можете <b>Изменить владельца</b> группы с помощью выпадающего списка, в котором отображены сотрудники с правами модераторов:</p>
+  <p><img src="cid:resources/res128/9WzQI.uh7we.group_moderators_edit.png" width="787" height="211"></p>
+
+<p>Чтобы исключить сотрудника из числа модераторов, поставьте галочку напротив его имени и нажмите кнопку <b>Исключить из модераторов</b>.</p>
+
+
+
+<p>Чтобы назначить новых модераторов, перейдите по ссылке <b>Назначить модераторов</b>, после чего вам откроется страница, представленная в разделе <b>Редактировать состав</b>.</p>
+
+
+<br>
+
+
+<a name="members_edit"></a><h3>Редактировать состав</h3>
+<p>По данной ссылке вы можете назначить какого-либо сотрудника модератором группы, либо исключить сотрудника из группы и внести в черный список. Для этого пометьте соответствующего сотрудника галочкой рядом с его именем и нажмите соответствующую кнопку:</p>
+  <p><img src="cid:resources/res128/oIs7M.0JIVM.group_members_edit.png" width="787" height="249"></p>
+
+<br>
+
+<a name="black_list"></a><h3>Черный список</h3>
+<p>По данной ссылке можно просмотреть и изменить список сотрудников, находящихся в черном списке. Для сотрудников, внесенных в черный список, будет действовать запрет на просмотр группы, чтение ее содержимого и на повторное вступление в нее (если сотрудник был уже исключен из нее).</p>
+  <p><img src="cid:resources/res128/G7U1E.TqM4n.group_black_list.png" width="633" height="192"></p>
+
+<br>
+
+<a name="invite"></a><h3>Пригласить в группу</h3>
+<p>После щелчка левой кнопкой мыши по данной ссылке вы попадете на страницу, с которой можно выслать приглашения сотрудникам на вступление в группу:</p>
+  <p><img src="cid:resources/res128/Vamwe.C4pof.group_invite.png" width="638" height="361"></p>
+<p>Ссылка <b>Добавить из структуры</b> позволяет выбрать сотрудников из списка структуры компании.</p>
+<p>Ссылка <b>&lt;название_группы&gt;</b> позволяет вернуться к просмотру группы.</p>
+
+<br>
+
+<a name="requests"></a><h3>Проверить запросы на вступление</h3>
+<p>Если в группе не разрешено свободное вступление без одобрения модератором, то здесь будут отображаться все нерассмотренные заявки на участие в группе.</p>
+  <p><img src="cid:resources/res128/k6Kf0.YSzI1.group_requests.png" width="725" height="371"></p>
+<p>Для того чтобы разрешить сотрудникам вступить в группу, отметьте их в списке с помощью флажков и нажмите кнопку <b>Одобрить вступление</b>.</p>
+
+<br>
+
+<a name="requests_out"></a><h3>Приглашения в группу</h3>
+<p>На этой странице отображаются все высланные приглашения на вступление в группу:</p>
+  <p><img src="cid:resources/res128/L69Ab.wfVXs.group_requests_out.png" width="674" height="417"></p>
+<p>Также на этой странице можно добавить или отменить приглашение.</p>
+
+<br>
+
+<a name="subscribe"></a><h3>Подписка</h3>
+<p>Позволяет подписаться на события в группе:</p>
+  <p><img src="cid:resources/res128/tPW0y.RAgvd.group_subscribe.png" width="532" height="533"></p>
+
+<div class="hint"><b>Примечание:</b> Подробнее про подписку смотрите в уроке <a href="/learning/course/index.php?bitrix_include_areas=Y&amp;COURSE_ID=45&amp;LESSON_ID=2328&amp;clear_cache=Y#subscribe">Подписка</a>.</div>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>137</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

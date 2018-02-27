@@ -1,0 +1,8 @@
+<?
+$MESS["SONET_SLM_FORMAT_DATE"] = "d. F, H:i";
+$MESS["SONET_SLM_FORMAT_DATE_YEAR"] = "d. F Y, H:i";
+$MESS["SONET_SLM_FORMAT_TIME"] = "H:i";
+$MESS["SONET_SLM_EXTRANET_SUFFIX"] = " (Extranet)";
+$MESS["SONET_SLM_CREATED_BY_ANONYMOUS"] = "Nicht autorisierter Besucher";
+$MESS["SONET_SLM_DATETIME_DAYS"] = "#DAYS#T.";
+?>

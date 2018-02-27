@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>83</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>1200</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Справочные страницы</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>В разделе <b>Сотрудники</b> есть несколько страниц, которые несут только информационную нагрузку. Это страницы:</p>
+
+<ul>
+<li><b>Планирование времени</b> - рассказ о том, как работать с календарем событий.</li>
+<li><b>Интеграция с Outlook</b> - инструкция как настроить интеграцию корпоративного портала с почтовой программой MS Outlook.</li> 
+<li><b>Для новых сотрудников</b> - первая страница, которую должны увидеть только что принятые на работу сотрудники. На ней собран список страниц, с помощью которых можно познакомится как с компанией, так и с порядком работы в ней.</li> 
+ </ul>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>1200</edge_sort>
+<id>83</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

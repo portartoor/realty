@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>65</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Календарь событий</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Корпоративный портал дает возможность просматривать график грядущих и прошедших событий с помощью средства <strong>Календарь событий</strong>. Здесь рассказывается о том, какие возможности имеются у этого средства и как с ними работать.</p>
+
+<h4>Управление календарями</h4>
+
+<p><img src="cid:resources/res56/38w2U.haBp9.kaledary.png" width="304" height="136">
+
+<p>Для вывода данных того или иного календаря в общей сетке, следует установить галочку в строке с именем нужного календаря.</p>
+<p>Для добавления календаря воспользуйтесь ссылкой <b>Добавить календарь</b>.</p>
+
+<p>Для подключения к календарю компаний календарей сотрудников воспользуйтесь кнопкой <b>Настроить</b> в <b>Избранные календари</b>.</p>
+<p>Для экспорта календарей в <b>MS Outlook</b> воспользуйтесь кнопкой <b>Соединить</b> с выбором нужного календаря в выпадающем списке:</p>
+<p><img src="cid:resources/res56/Beif2.4fcNu.kalendar1.png" width="424" height="404"></p>
+
+<h4>Управление событиями</h4>
+
+<p>Для добавления событий в календарь воспользуйтесь кнопкой <b>Добавить событие</b>: <img src="cid:resources/res56/6LHIv.uNOeP.add_events.png" width="20" height="20"> и заполните необходимые поля в форме:
+</p>
+
+<p><img src="cid:resources/res56/2s3ax.EaW7r.new_event.png" width="474" height="402"></p>
+
+<p>или нажмите <b>Добавить событие с использованием планировщика </b>: <img src="cid:resources/res56/rZm9F.rX09C.add_event_plan.png" width="19" height="20">, и пошагово создайте событие с помощью мастера.</p>
+<p><div class="hint"><b>Примечание</b>. Детальную информацию по работе с календарем смотрите в разделе <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&CHAPTER_ID=831">Личная страница</a>.</div></p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>65</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

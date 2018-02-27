@@ -1,0 +1,35 @@
+<?
+$MESS["CRM_ALL"] = "Всего";
+$MESS["CRM_LEAD_SHOW_TITLE"] = "Просмотреть лид";
+$MESS["CRM_LEAD_SHOW"] = "Просмотреть лид";
+$MESS["CRM_LEAD_EDIT_TITLE"] = "Редактировать лид";
+$MESS["CRM_LEAD_EDIT"] = "Редактировать лид";
+$MESS["CRM_LEAD_COPY_TITLE"] = "Копировать лид";
+$MESS["CRM_LEAD_COPY"] = "Копировать лид";
+$MESS["CRM_LEAD_DELETE_TITLE"] = "Удалить лид";
+$MESS["CRM_LEAD_DELETE"] = "Удалить лид";
+$MESS["CRM_LEAD_EVENT_TITLE"] = "Добавить новое событие";
+$MESS["CRM_LEAD_EVENT"] = "Добавить событие";
+$MESS["CRM_LEAD_TASK_TITLE"] = "Добавить задачу";
+$MESS["CRM_LEAD_TASK"] = "Добавить задачу";
+$MESS["CRM_LEAD_BIZPROC_TITLE"] = "Бизнес-процесс";
+$MESS["CRM_LEAD_BIZPROC"] = "Бизнес-процесс";
+$MESS["CRM_LEAD_BIZPROC_LIST_TITLE"] = "Запустить новый бизнес-процесс";
+$MESS["CRM_LEAD_BIZPROC_LIST"] = "Новый бизнес-процесс";
+$MESS["CRM_LEAD_SUBSCRIBE_TITLE"] = "Отправить письмо";
+$MESS["CRM_LEAD_SUBSCRIBE"] = "Отправить письмо";
+$MESS["CRM_LEAD_DELETE_CONFIRM"] = "Вы уверены, что хотите удалить?";
+$MESS["CRM_LEAD_CONVERT_TITLE"] = "Конвертировать лид";
+$MESS["CRM_LEAD_CONVERT"] = "Конвертировать лид";
+$MESS["CRM_STATUS_INIT"] = "- Статус лида -";
+$MESS["CRM_LEAD_CALENDAR_TITLE"] = "Добавить новую запись в календарь";
+$MESS["CRM_LEAD_CALENDAR"] = "Добавить звонок/встречу";
+$MESS["CRM_LEAD_SET_STATUS"] = "Установить статус";
+$MESS["CRM_LEAD_ASSIGN_TO"] = "Назначить ответственного";
+$MESS["CRM_LEAD_ADD_EMAIL_TITLE"] = "Написать письмо";
+$MESS["CRM_LEAD_ADD_EMAIL"] = "Написать письмо";
+$MESS["CRM_LEAD_ADD_CALL_TITLE"] = "Добавить новый звонок";
+$MESS["CRM_LEAD_ADD_CALL"] = "Добавить звонок";
+$MESS["CRM_LEAD_ADD_MEETING_TITLE"] = "Добавить новую встречу";
+$MESS["CRM_LEAD_ADD_MEETING"] = "Добавить встречу";
+?>

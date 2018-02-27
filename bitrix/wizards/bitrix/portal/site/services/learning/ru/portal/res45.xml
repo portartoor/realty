@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="CHA"><lesson_id>55</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>5</childs_cnt>
+<is_childs>1</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877378</timestamp_x>
+<date_create>1422877378</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Задачи</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Раздел <b>Задачи</b> служит для создания и просмотра личных задач, поставленных сотруднику/сотрудником.</p>
+
+<p><div class="note"><b>Задачи</b> - инструмент для организации персональной и групповой работы. Задачи обладают свойствами: контроля по времени, контроля по эффективности работы, приоритету выполнения, ролями и другими.
+<p>Работа с задачами доступна сотрудникам с любым уровнем прав.</p>
+
+</div></p>
+
+<p><a href="javascript:ShowImg('/images/portal_user/personal_page/tasks/tasks_page.png',1033,601,'Задачи')">
+<img src="cid:resources/res45/r7mXy.7A5QV.tasks_page_sm.png" alt="Нажмите на рисунок, чтобы увеличить" width="680" height="396" border="0" /></a></p>
+
+
+<p>Работа с задачами допускает использование ролей:</p>
+<ul>
+
+  <li><b>Ответственный</b> - сотрудник, которому была непосредственно поставлена задача.  </li>
+
+  <li><b>Постановщик</b> - сотрудник, который поставил задачу (например, начальник отдела).  </li>
+
+  <li><b>Соисполнитель</b> - сотрудник, которому была поставлена та же задача, что и другому сотруднику (например, задача была поставлена на весь отдел, сотрудники которого и будут соисполнителями).  </li>
+
+  <li><b>Наблюдатель</b> - сотрудник, который получает уведомления о ходе задачи, но не участвовать в ней или изменять ее (например, начальник  отдела, который должен получать информацию о выполненных задачах другого отдела).  </li>
+
+</ul>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>55</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

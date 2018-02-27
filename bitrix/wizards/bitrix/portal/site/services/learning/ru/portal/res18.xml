@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>19</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>600</sort>
+<timestamp_x>1422877378</timestamp_x>
+<date_create>1422877378</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Поиск на корпоративном портале</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Инструментов поиска в рамках корпоративного портала несколько:</p>
+<ul>
+<li><b>Общий поиск</b> - форма расположена на каждой странице портала.</li>
+<li><b>Локальный поиск</b> - форма расположена справа на каждой странице портала, где возможен локальный поиск.</li> 
+ </ul>
+
+<h4>Общий поиск</h4>
+
+<p>Общий поиск на портале может выполняться по самым различным элементам:</p>
+<ul>
+<li>по содержимому статических страниц портала,</li>
+<li>офисным документам,</li> 
+<li>пользователям,</li> 
+<li>по новостям, </li> 
+<li>в форумах и блогах.</li>
+ </ul>
+    
+<p>Форма поиска располагается в правом углу каждой страницы портала и имеет следующий вид:</p>
+
+<p><img src="cid:resources/res18/Ufpr6.omdj0.search_form_1.png" width="364" height="44" border="0"/></p>
+
+<p>После введения в строку поискового запроса вы будете перенаправлены на страницу поиска. Например, при введении в форму поиска слова &quot;шаблон&quot; нашлись сообщения форума и документы, содержащие это слово.</</p>
+
+<p><a href="javascript:ShowImg('/images/portal_user/base/search_form_2.png',752,644,'Страница поиска')">
+<img src="cid:resources/res18/5GFsr.RPz2G.search_form_2_sm.png" style="CURSOR: pointer" width="600" height="460" alt="Нажмите на рисунок, чтобы увеличить"  border="0"/></a></p>
+
+<p>Кроме того, страница поиска всегда может быть открыта с помощью выносной ссылки <b>Поиск</b>, расположенной внизу любой страницы портала.</p>
+
+<p>Если в поисковую строку ввести фамилию пользователя, то будет найдена его карточка:</p>
+
+<p><img src="cid:resources/res18/ZiXD1.p12gZ.search_page_user.png" style="CURSOR: pointer" width="513" height="315" border="0"/>
+
+<div class="hint"><b>Примечание:</b> для поиска сотрудников существует <a href="/learning/course/lesson.php?COURSE_ID=24&ID=1372">отдельная страница</a>, позволяющая задать разнообразные условия поиска.</div>
+
+<p>Результаты поиска можно отсортировать по:</p>
+<ul>
+<li><b>Релевантности</b> - точности совпадения;</li>
+<li><b>Дате</b> - дате изменения документа.</li> 
+ </ul>
+</p>
+
+<br />
+<h4><b>Подсказки в поиске</b></h4>
+
+<p>При вводе в поле поиска текста система выводит подсказки по группам документов:</p>
+
+<p><img height="360" border="0" width="579" src="cid:resources/res18/w9VZP.hfyG7.search_form_3.png" /></p>
+
+<h4>Локальный поиск</h4>
+
+<p>Локальный поиск расположен у правой границы экрана на тех страницах, где такой поиск возможен. На каждой странице поля для локального поиска будут свои. Все поля - интуитивно понятны и в комментариях не нуждаются. Вот, например, какой поиск в разделе <b>Документы</b>:</p>
+
+<p>По умолчанию в некоторых формах поиска есть предустановленные фильтры, как в примере.</p>
+<img height="422" border="0" width="262" src="cid:resources/res18/B0BM3.O10eG.search_form_4.png" />
+
+<p>Вы можете и сами настроить фильтр с помощью Формы настроек параметров фильтра. Форма вызывается с помощью кнопки в правом верхнем углу:</p>
+
+<p>Настроенный фильтр можно сохранить. Для этого:</p>
+<ol>
+<li>Настройте форму фильтра нужным вам образом;</li>
+<li>Нажмите кнопку <b>Найти</b>, система произведет поиск по заданным параметрам и отобразит результат поиска. При этом появится ссылка <b>Сохранить как</b> с помощью которой можно сохранить созданный фильтр под нужным вам именем:
+<p><img height="44" border="0" width="260" src="cid:resources/res18/Gay8g.kthFR.search_form_6.png" /></p>
+</li> 
+<li>Сохраните созданный фильтр с нужными параметрами. Сохраненный фильтр отобразится в общем списке.</li> 
+ </ol>
+
+<p>Если воспользоваться командой <b>Сохраненные фильтры</b>, то можно перейти к одноименной форме, позволяющей редактировать, удалять старые фильтры и создавать новые.</p>
+
+<p><img height="362" border="0" width="433" src="cid:resources/res18/maw8C.tA91v.search_form_5.png" /></p>
+
+
+
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>600</edge_sort>
+<id>19</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

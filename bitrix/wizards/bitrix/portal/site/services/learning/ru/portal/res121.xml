@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>125</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>1000</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Каталог ссылок</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Список необходимых и часто используемых сотрудниками ресурсов представлен на странице <b>Каталог ссылок</b>.</p>
+<p>Ссылки в каталоге распределяются по разделам и подразделам, исходя из принадлежности к какому-то признаку, например раздел <b>Бизнес</b> и подразделы: <b>Реклама</b>, <b>Финансы</b> и т.д.:</p>
+
+<p><img height="248" border="0" width="458" src="cid:resources/res121/cHM2N.m2bHq.links_catalog.png" /></p>
+
+<p>Для того чтобы просмотреть все ссылки подраздела, например <b>Все для бухгалтера</b>, перейдите по ссылке с названием этого подраздела. Список ссылок появится ниже:</p>
+
+<p><img height="471" border="0" width="688" src="cid:resources/res121/ma0nu.OvSWW.links_catalog_list.png" /></p>
+
+<div class="hint"><b>Примечание</b>: Добавление ссылок в каталог может осуществлять сотрудник с уровнем прав не ниже Администратора портала. В случае необходимости, обратитесь к нему.</div>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>1000</edge_sort>
+<id>125</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

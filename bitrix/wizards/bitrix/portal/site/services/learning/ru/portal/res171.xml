@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>180</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>100</sort>
+<timestamp_x>1422877380</timestamp_x>
+<date_create>1422877380</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Основные сведения</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[
+   <p>Для сотрудников, имеющих права на доступ к сайту экстранета, в Панели статусов будет доступен пункт <b>Экстранет</b>:</p>
+<p><img height="110" border="0" width="256" src="cid:resources/res171/8JcOB.wQ4AZ.extranet_1.png" /></p>
+
+<p><div class="hint"><b>Примечание</b>: Доступ на сайт экстранета предполагает получение прав, не устанавливаемых автоматически в системе. Если вам по производственной необходимости положен доступ к экстранет, но его нет, обратитесь к администратору.</div></p>
+
+<p>Кликом на этот пункт меню сотрудник осуществит переход на сайт экстранета:</p>
+<p><a href="javascript:ShowImg('/images/portal_user/extranet/extranet_2.png',926,594,'Экстранет')"><img src="cid:resources/res171/o41y5.XoXIg.extranet_2_sm.png" style="CURSOR: pointer" width="600" height="384" alt="Нажмите на рисунок, чтобы увеличить" border="0"/></a></p>
+
+<p>Для возврата в корпоративный портал в меню сайта экстранета предусмотрен пункт меню <b>Интранет</b>.
+
+<p>Внешние пользователи в приглашении получают ссылку, по которой они смогут перейти на сайт экстранета. При этом на сайте экстранета для них пункт меню <b>Интранет</b> не будет отображен.</p>
+
+<p>Знакомство с компанией начинается с главной страницы, представляющей собой персональный рабочий стол сотрудника. Настройка персонального рабочего стола пользователя выполняется так же, как в корпоративном портале настраивается страница <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2190" target="_blank">Мой портал</a>.</p>
+<p>Структура сайта экстранета отличается от структуры корпоративного портала.</p>
+<ul>
+  <li>Основным инструментом работы в рамках экстранета являются <b>Рабочие группы</b>. Рабочая группа в рамках экстранета обладает практически тем же функционалом, что и <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&CHAPTER_ID=790">рабочая группа корпоративного портала</a>.</li>
+  <li>Раздел <b>Контакты</b> аналогичен разделу <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&CHAPTER_ID=791">Сотрудники</a> корпоративного портала, содержит списки доступных контактов (внешних пользователей) и сотрудников компании, а также график отсутствий, дни рождения и ленту сообщений блогов.</li>
+  <li>Раздел <b>Документы</b> представляет собой стандартную библиотеку документов, настроенную на работу только с файлами экстранета. Операции с документами аналогичны операциям, рассмотреным в главе <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&CHAPTER_ID=792">Документы</a>.</li>
+  <li>Раздел <b>Компания</b> помимо информации о компании содержит функционал <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2373">подписки на рассылки</a>.</li>
+  <li>Раздел <b>Помощь</b> содержит краткое описание работы с функционалом экстранета, позволяет создать обращение в <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2374">техподдержку</a> и работать со своими обращениями.</li>
+  <li>Раздел <b>CRM</b> аналогичен по функционалу <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&CHAPTER_ID=833" target="_blank">одноименному разделу</a> корпоративного портала.</li>
+</ul>
+<p><div class="hint"><b>Примечание</b>: отличия от функционала корпоративного портала:
+<ul>
+  <li>приглашение внешних пользователей (или пользователей корпоративного портала) осуществляется при создании/редактировании рабочей группы экстранета;</li>
+  <li>рабочая группа экстранета видна и доступна только для её участников;</li>
+  <li>доступ на сайт экстранета для внешних участников архивных рабочих групп остается до тех пор, пока они не будут удалены из группы пользователей экстранета;</li>
+  <li>в <b>MS Outlook</b> будут экспортироваться только те контакты (календари и задачи), к которым пользователь имеет доступ через свои рабочие группы;</li>
+  <li>дополнительные гаджеты для рабочего стола <b>Мои обращения</b> и <b>Мои контакты</b>, при том часть стандартных гаджетов корпоративного портала недоступна.</li>
+</ul>
+</div></p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>100</edge_sort>
+<id>180</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>134</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Поиск групп</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>На странице <b>Поиск групп</b> отображаются все имеющиеся на корпоративном портале группы.</p>
+
+<p>Они отсортированы в порядке убывания даты активности в этой группе:</p>
+<p><img src="cid:resources/res125/qJ4rd.YRpwH.search_groups.png" width="691" height="542"></p>
+
+<p>На любой странице раздела <b>Группы</b>, кроме <b>Мои группы</b> можно выполнить поиск групп, введя в поле <b>Искать</b> слова из названия, описания или из набора ключевых слов:</p>
+<p><img src="cid:resources/res125/LSdzQ.rgcU5.search.png" width="259" height="201"></p>
+
+<p>В поле <b>В теме</b> кликните на пиктограмму стрелки (<img src="cid:resources/res125/AhNBJ.Z8TEE.down.png" width="20" height="22">), чтобы выбрать тему групп, в которой производить поиск. При выборе пункта <b>Любая</b> поиск будет произведен по всем имеющимся темам.</p>
+
+<p>Также поиск можно выполнить с помощью облака тегов, представленного на странице:</p>
+<p><img src="cid:resources/res125/7ji8N.t1txN.group_tags.png" width="778" height="62"></p>
+
+<p>Выберите необходимый вам тег (ключевое слово), и щелкните по нему левой кнопкой мыши, чтобы найти интересующие группы.</p>
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>134</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

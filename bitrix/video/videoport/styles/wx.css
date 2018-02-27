@@ -1,0 +1,456 @@
+/*COMMON*/
+body
+{
+	font-family: Verdana;
+}
+#vp
+{
+    position: relative;
+}
+#vp img
+{
+	border: 0px;
+}
+#vp #wx
+{
+	min-height: 409px;
+    background-color: #FFF;
+    position: relative;
+}
+
+#vp #shelf, #vp #shelf_empty
+{
+	width: auto !important;
+	width: 0px;
+	background-color: #FFF;
+}
+#vp_reinstall, #vp_reinstall, #vp_install
+{
+	width: 400px;
+	background-color: #FFF;
+}
+
+#vp #shelf, #vp_reinstall, #vp_reinstall, #vp_install { height: auto; z-index: 197;}
+#vp #shelf_empty { height: 0px; z-index: 195;}
+
+/*CHAT TABS*/
+#vp #tabs
+{
+	width: auto !important;
+	width: 480px;
+	min-height: 28px;
+	padding-top: 5px;
+	padding-bottom: 0px;
+	vertical-align: baseline;
+}
+#vp #tabs-empty
+{
+	width: auto !important;
+	width: 480px;
+	height: 5px;
+}
+#vp #tabs .tab, #vp #tabs .atab
+{
+	float: left;
+	margin-right: 3px;
+	width: auto !important;
+	/*width: 100px;*/
+    -moz-border-radius-topleft: 2px;
+	-moz-border-radius-topright: 2px;
+}
+#vp #tabs .tab	{
+    padding: 6px 5px 3px 5px;
+    background-color: #ECE9D8;
+	height: 16px;
+	margin-top: 3px;
+}
+#vp #tabs .atab {
+    padding: 7px 5px 5px 5px;
+    background-color: #FFB800;
+	height: 16px;
+}
+#vp #tabs .tab .caption 		 { text-decoration: underline; color: #989895; }
+#vp #tabs .tab .caption:hover  { text-decoration: none; color: #989895; }
+#vp #tabs .atab .caption 		 { text-decoration: none; color: #000000; }
+#vp #tabs .atab .caption:hover { text-decoration: none; color: #000000; }
+#vp #tabs .tab .status, #vp #tabs .atab .status
+{
+	width: auto !important;
+	width: 0px;
+	float: left;
+	margin-right: 2px;
+}
+#vp #tabs .tab .caption, #vp #tabs .atab .caption
+{	
+	width: auto !important;
+	width: 0px;
+	float: left;
+	font-size: 12px;
+}
+#vp #tabs .tab .caption
+{
+	cursor: pointer;
+}
+#vp #tabs .tab .cross, #vp #tabs .atab .cross
+{
+    float: left;
+	width: 7px;
+	padding-left: 5px;
+	padding-top: 5px;
+	cursor: pointer;
+}
+#vp #tabs .new .caption
+{
+	font-weight: bold;
+	text-decoration: none;
+	color: #000;
+}
+
+/*CHAT WINDOW*/
+#vp #chats
+{
+	clear: both;
+	width: auto !important;
+	width: 480px;
+	height: auto;
+}
+#vp #chats .chat
+{
+	width: 100%;
+}
+#vp #chats .chat .log, #vp #chats .chat .log-one
+{
+	padding: 0px;
+	margin: 0px;
+	width: 100%;
+	overflow: auto;
+	background-color: #FFFFFF;
+	min-height: 100px;
+}
+#vp #chats .chat .log
+{
+	border: 1px solid #ECE9D8;
+    border-top: 1px solid #FFB800;
+	-moz-border-radius-bottomleft: 2px;
+	-moz-border-radius-bottomright: 2px;		
+}
+#vp #chats .chat .log-one
+{
+	border: 1px solid #ECE9D8;
+	-moz-border-radius: 2px;
+}
+#vp .chat p
+{
+    margin: 5px 10px 5px 10px;   
+    font-size: 14px;
+	word-wrap: break-word;
+    white-space: normal;
+}
+#vp p.me	{ color: #ACA899; }
+#vp p.me a	{ color: #ACA899; text-decoration: none; }
+#vp p.party a	{ color: #000000; text-decoration: none; }
+#vp p.party	{ /*Emphasize?*/ }
+#vp p.system	{ font-size: 10pt; color: #ACA899; }
+#vp p.system a	{ font-size: 10pt; color: #ACA899; text-decoration: none; }
+
+/*CHAT INPUT*/
+#vp #input
+{
+	padding-top: 5px;
+	width: auto !important;
+	width: 480px;
+	height: 63px;
+	position: relative;
+}
+#vp #chats .chat #input .me-sign
+{
+    width: 25px;
+	padding-right: 5px;
+	float: left;
+	font-weight: bold;
+	font-size: 14px;
+	text-align: right;
+	color: #8B8B8B;
+}
+#vp #chats .chat #input .textarea
+{
+	min-width: 415px; /*default value*/
+	float: left;
+	margin-right: 5px;
+	height: 60px;
+}
+#vp #chats .chat #input .textarea > textarea
+{
+    overflow: auto;
+    height: 58px;
+	width: 99%;
+	margin: 0px;
+	font-size: 12pt;
+	
+	border: 1px solid #C1BDB2;
+	-moz-border-radius: 2px;
+}
+#vp #chats .chat #input .submit
+{
+	float: left;
+	width: 30px;
+}
+#vp #chats .chat #input .submit > input[type="image"]
+{
+	width: 30px;
+	height: 60px;
+	/* dirty IE hacks ;) */
+	*margin-top: 2px;
+	*margin-left: 1px;
+	*margin-right: -1px;
+}
+	
+/*USERS*/
+#vp #users_container
+{
+	width: 160px;
+	height: 409px;
+	overflow: auto;
+	float: left;
+	margin-left: 15px;
+	/*position: absolute;
+	left: 510px;
+	top: 0px;*/
+}
+#vp #users_container h3
+{
+	display: block;
+	width: 100%;
+	vertical-align: middle;
+	font-weight: normal;
+	font-size: 14px;
+	margin: 0px 0px 10px 0px;
+	text-align: center;
+	background-color: #F4AB04;
+	margin-bottom: 2px;
+	-moz-border-radius: 2px;
+}
+#vp #users_container #users .user
+{
+	width: 154px;
+	min-height: 16px;
+	border-top: 1px solid #F5FCCE;
+	border-right: 1px solid #F5FCCE;
+	margin-bottom: 2px;
+	cursor: pointer;
+	border-left: 5px solid #F4AB04;
+	background-color: #F5FCCE;
+	-moz-border-radius: 2px;
+}
+#vp .no-pointer
+{
+	cursor: default;
+}
+#vp #users_container #users .last
+{
+	border-bottom: 1px solid #F5FCCE;
+}
+
+/*USER CONTROLS*/
+#vp #users_container #users .name
+{
+	min-height: 20px;
+	font-size: 14px;
+	margin-left: 5px;
+}
+#vp #users_container #users .controls
+{
+	width: 100%;
+	height: 15px;
+}
+#vp #users_container #users .controls .control,
+#vp #users_container #users .controls a.control
+{
+	display: block;
+	padding-left: 19px;
+	padding-top: 3px;
+	width: 31px;
+	height: 12px;
+	float: left;
+	margin-right: 2px;
+	background-color: #EAF89D;
+	cursor: pointer;
+}
+#vp #users_container #users .controls .control:hover
+{
+	background-color: #F5E19D;	
+}
+
+/*SOUND NOTIFICATION*/
+#vp #tabs #sound
+{
+    float: right;
+	cursor: pointer;
+}
+
+/*COMMON*/
+#vp .hide
+{
+    display: none;
+}
+
+/* Loading & Install */
+#vp_loader, #vp_install_tips
+{
+    width: 440px;
+    height: 360px;
+    padding: 0px 20px 20px 20px;
+    background-color: #fff;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+#vp_reinstall, #vp_reinstall, #vp_install
+{
+	background-color: #fff;
+	width: 400px;
+	clear: both;
+	padding-top: 0px;
+	padding-left: 10px;
+	font-size: 10px;
+	position:absolute;
+}
+
+#vp_loader
+{
+    z-index: 197;
+}
+#vp_install_tips
+{
+    z-index: 198;
+}
+
+#vp_install_tips_ff
+{
+    width: auto;
+    height: auto;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 199;
+}
+#vp_install_tips_ff_header
+{
+    width: auto;
+    float: left;
+    clear: both;
+    height: 60px;
+    background-color: #BDDB67;
+    -moz-opacity: 1.0;
+	opacity: 1.0;
+}
+#vp_install_tips_ff_body
+{
+    width: 100%;
+    float: left;
+    clear: both;
+    height: 330px;
+    background-color: #000;
+    -moz-opacity: 0.5;
+	opacity: 0.5;
+    
+    color: #CCC;
+    text-align: right;
+}
+#vp_install_tips_ff_body a
+{
+    color: #CCC;
+    text-decoration: none;
+}
+#vp_install_tips_ff_body a:hover
+{
+    color: #CCC;
+    text-decoration: underline;
+}
+#vp_install_tips_ff_details
+{
+    width: 100%;
+    float: left;
+    clear: both;
+    height: 40px;
+    background-color: #D4E899;
+    -moz-opacity: 1.0;
+	opacity: 1.0;
+}
+#vp_install_tips_ff_details_part
+{
+    width: 33%;
+    float: left;
+    height: 40px;
+    text-align: center;
+    vertical-align: middle;
+    color: #000;
+}
+#vp_install_tips_ff_details_part .ff-number
+{
+    font-size:24pt;
+}
+#vp_install_tips_ff_details_part em
+{
+    font-weight: normal;
+    font-style: italic;
+}
+#vp_install_tips_ff_left
+{
+    width: 490px;
+    height: 50px;
+    float: left;
+    margin: 0px;
+    padding: 5px 0px;
+    padding-left: 10px;
+    color: #333;
+}
+#vp_install_tips_ff_right
+{
+    width: 100px;
+    height: 60px;
+    float: right;
+    margin: 0px;
+}
+#vp_install_tips_ff_left img
+{
+    margin: 0px 15px;
+    float: left;
+}
+#vp_install_tips_ff_left .ff-note
+{
+    font-size: 10pt;
+    color:#555;
+}
+#vp_install_tips_ff_right img
+{
+    float: right;
+    margin: 10px 30px 10px 0px;
+}
+
+/*INLINE PART*/
+#vp_install_tips_ff
+{
+	font-size: smaller;
+}
+#vp_install_tips_ff_details_part .ff-number
+{
+	font-size: 10pt;
+}
+#vp_install_tips_ff_right
+{
+	display: none;
+}
+/*
+#vp #shelf_empty
+{
+	*width: 480px !important;
+}
+#vp .log-one, #vp .log
+{
+	*width: 458px !important;
+}
+*/
+
+.small { font-size: 10px; }
+.gray { color: #444; }

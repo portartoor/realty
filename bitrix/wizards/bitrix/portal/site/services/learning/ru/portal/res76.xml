@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="CHA"><lesson_id>86</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>5</childs_cnt>
+<is_childs>1</is_childs>
+<sort>100</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Библиотека документов</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Средства системы <b>&laquo;1С-Битрикс: Корпоративный портал&raquo;</b> позволяют организовать специальный раздел коллективного доступа и работы над документами. Раздел может состоять из нескольких подразделов (библиотек), права доступа к которым могут быть различными для отдельных групп пользователей, рабочих групп.</p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>100</edge_sort>
+<id>86</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

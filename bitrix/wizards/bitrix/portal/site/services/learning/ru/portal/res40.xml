@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>53</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>600</sort>
+<timestamp_x>1422877378</timestamp_x>
+<date_create>1422877378</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Подписка</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Страница <b>Подписка</b> позволяет управлять уведомлениями о событиях на портале.</p>
+<p><a href="javascript:ShowImg('/images/portal_user/personal_page/messages/messages_subscribe_page.png',957,670,'Подписка')">
+<img src="cid:resources/res40/ptpVs.EoBhd.messages_subscribe_page_sm.png" alt="Нажмите на рисунок, чтобы увеличить" width="650" height="455" border="0" /></a></p>
+
+
+<br>
+
+<menu id="topictoc"> 
+  <li><a href="#settings">Управление подпиской</a> </li>
+  <li><a href="#subscribe">Организация подписки</a> </li>
+</menu>
+
+
+
+<br>
+
+
+
+<a name="settings"></a><h4>Управление подпиской</h4>
+
+<p>Подписка имеет широкие возможности настройки. Можно настроить подписку для различных типов событий. Например, можно настроить уведомления, как для отдельных пользователей, так и для целых групп.</p>
+
+<p>Рассмотрим подробнее структуру организации подписки:</p>
+
+<p><img src="cid:resources/res40/RlLmV.erVy2.subscribe_diag.png" alt="Пример структуры управления подпиской" border="0" width="888" height="351" >
+<br><i>Пример структуры подписки на события в профилях пользователей.</i>
+</p>
+
+<br>
+
+<p>Для удобства, типы событий, на которые производится подписка, разбиты на блоки.</p>
+
+<p><img src="cid:resources/res40/BgHQF.bRW7Q.subscribe_blocks.png" alt="Блоки типов событий" border="0" width="672" height="447" ></p>
+
+<p>Пример: <b>События в группах</b>, <b>События в профилях пользователей</b>.</p>
+
+
+<p>В свою очередь блоки содержат группы.</p>
+
+<p>По умолчанию уже присутствуют несколько групп, задающих общие настройки оповещений - <b>Общие группы</b>. </p>
+
+<p>Например, в группе <b>Все пользователи</b> можно определить параметры подписки сразу для <u>всех</u> пользователей (например, <b>Не уведомлять</b>), а для <u>конкретных</u> сотрудников выбрать желаемый способ уведомления (например, <b>Мгновенное сообщение</b>). Или для <u>всех</u> групп отключить уведомления (<b>Все доступные группы</b> - <b>Не уведомлять</b>) и выбрать уведомления только для <u>определенных</u> групп.</p>
+
+<p><img src="cid:resources/res40/6nOUU.mYk09.subscribe_common_groups.png" alt="" border="0" width="672" height="337" ></p>
+
+<p><div class="hint"><b>Примечание:</b> Имена сотрудников, название групп и прочие элементы группы отображаются в списке только в том случае, если вы <a href="#subscribe">подписаны</a> на них.</div></p>
+
+<p>Например, группа <b>Все пользователи</b> содержит список <u>всех</u> пользователей, на события которых произведена подписка.</p>
+<p><img src="cid:resources/res40/ozfvK.kzqrx.subscribe_common_groups_all_users.png" alt="" border="0" width="672" height="280" ></p>
+
+
+<p>Помимо общих групп настроек существуют более узкие группы (например, <b>Подписка на авторов</b>), которые могут быть свернуты, для экономии места на странице. Для того чтобы просмотреть полный список элементов такой группы нажмите не ссылку с ее названием:</p>
+
+<p><img src="cid:resources/res40/Y7PSL.c9cTD.subscribe_authors_close.png" alt="&quot;Подписка на авторов&quot; - свернуто" border="0" width="668" height="128" ></p>
+<p><img src="cid:resources/res40/Dxbu2.VsGPx.subscribe_authors_open.png" alt="&quot;Подписка на авторов&quot; - развернуто" border="0" width="668" height="239" ></p>
+
+<p>Для каждой такой группы можно настроить уведомления сразу о всех событиях или же для отдельных:</p>
+<p><img src="cid:resources/res40/Y6B3w.hYNyy.subscribe_group_subscribe.png" alt="Уведомления сразу о всех событиях для группы" border="0" width="665" height="208" ></p>
+<p><img src="cid:resources/res40/EiFeU.Sq0rJ.subscribe_item_subscribe.png" alt="Уведомления об отдельных  событиях для группы" border="0" width="665" height="208" ></p>
+
+<p>В свою очередь, для каждого элемента такой группы также можно настроить уведомления сразу для всех событий или каждого типа по отдельности:</p>
+
+<p><img src="cid:resources/res40/Em6hX.krC8e.subscribe_user_allevents.png" alt="Уведомления сразу о всех событиях для элемента группы" border="0" width="653" height="119" ></p>
+<p><img src="cid:resources/res40/tqxRd.RmSS0.subscribe_user_event.png" alt="Уведомления об отдельных  событиях для элемента группы" border="0" width="653" height="249" ></p>
+
+
+<p>Доступны следующие типы оповещений:</p>
+<ul>
+  <li><b>Не уведомлять</b> - при свершении какого-либо события из списка, уведомление об этом приходить не будут;</li>
+  <li><b>Уведомление по e-mail</b> - при свершении какого-либо события из списка, уведомление придет по электронной почте;</li>
+  <li><b>Мгновенное сообщение</b> - при свершении какого-либо события из списка, уведомление придет в виде <a href="/learning/course/index.php?COURSE_ID=45&CHAPTER_ID=832">личного сообщения</a>;</li>
+</ul>
+
+<p><div class="hint"><b>Примечание:</b> По умолчанию список выбора оповещения для конкретного типа события (Форум, Фото, Блог) отсутствует ввиду изначального отсутствия подписки.
+<p><img src="cid:resources/res40/FdGpa.N3VsA.subscribe_user_events.png" alt="" border="0" width="603" height="354" ></p>
+
+<p>Для этого необходимо <a href="#subscribe">подписаться</a> на желаемые события на странице профиля пользователя/группы:</p>
+
+<p><img src="cid:resources/res40/1IwpO.n3sU3.subscribe_user_events_subs.png" alt="" border="0" width="585" height="485" ></p>
+</div></p>
+
+
+<p>Опция <b>Показывать Живой ленте</b> позволяет разрешить показ события в <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2327">Живой ленте</a>.</p>
+<p>Кнопка <b>х</b> позволяет установить для конкретного события настройки оповещения по умолчанию (такие же, как в настройках группы для аналогичного события) и удалить его из списка оповещений.</p>
+
+<p><img src="cid:resources/res40/vJVfm.p05RG.subscribe_event_unsubs.png" alt="Отписаться от событий" border="0" width="544" height="112" ></p>
+
+<p><div class="hint"><b>Примечание:</b> В корпоративном портале настройки оповещений имеют систему приоритетов. Это означает, что &quot;нижние&quot; события имеют приоритет над &quot;верхними&quot;.
+<br><br>
+Например, настройки оповещений для конкретного пользователя имеют более высокий приоритет, чем настройки оповещения для группы <b>Все пользователи</b>. </div></p>
+
+<p><div class="hint"><b>Примечание:</b> &quot;нижние&quot; события могут наследовать настройки от более &quot;верхних&quot; событий, Поэтому при нажатии на кнопку <b>х</b> для типа события выставится настройка оповещения в соответствии с настройкой группы. </div></p>
+
+<p>Для сохранения настроек подписки нажмите кнопку <b>Сохранить изменения</b>.</p>
+
+
+
+
+
+<br>
+
+
+
+
+<a name="subscribe"></a><h4>Организация подписки</h4>
+
+<p>Для того чтобы подписаться на какие-либо новые события:</p>
+
+<ul>
+  <li>Используйте ссылку <b>Подписка</b>, расположенную на странице пользователя или группы:
+    <p><img src="cid:resources/res40/LkRxk.58tWw.subscribe_user_link.png" alt="Ссылка &quot;Подписка&quot; на странице пользователя" border="0" width="240" height="404" ></p>
+    <p><img src="cid:resources/res40/T8tib.qwGoe.subscribe_group_link.png" alt="Ссылка &quot;Подписка&quot; на странице группы" border="0" width="240" height="457" ></p>
+ 
+  </li>
+
+  <li>Выберите желаемый тип подписки для требуемых событий
+  
+    <p><img src="cid:resources/res40/J4A0A.amIrh.subscribe_user.png" alt="Подписка" border="0" width="615" height="675" ></p>
+  
+  <p>На портале можно подписаться на события как по их <b>месту</b>, так и по их <b>автору</b>:</p>
+    <ul> 
+      <li><b>События в профиле пользователя</b> - позволяет подписаться на все события по месту их возникновения; 
+	  <br>	Например, подписавшись на <b>Блог</b> пользователя, вы будете получать оповещения обо всех сообщениях и комментариях из блога <u>от разных пользователей</u>.		</li>
+      <li><b>События, созданные этим пользователем</b> - позволяет подписаться на все события по их автору.
+	  <br> Например, подписавшись на <b>Блог</b> пользователя, вы будете получать оповещения о сообщениях или комментариях <u>только этого пользователя</u>.	</li>
+    </ul>
+  
+  <p><div class="hint"><b>Примечание:</b> После такой подписки на странице <b>Подписка</b> появится новая группа - <b>Подписка на авторов</b>. </div></p>
+  </li>
+
+  <li>Для сохранения настроек нажмите кнопку <b>Изменить подписку</b>.</li>
+</ul>
+
+<p>Произвести подписку на какие-либо события также возможно и на странице <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2327">Живая лента</a>.</p>
+
+<p><div class="hint"><b>Примечание:</b> Смотрите также урок <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2373">Подписка</a> про организацию рассылки различных почтовых сообщений с портала.</div></p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>600</edge_sort>
+<id>53</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

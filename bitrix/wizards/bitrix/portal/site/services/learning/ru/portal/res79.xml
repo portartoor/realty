@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>89</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>300</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Работа с документами в ОС Windows</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<ul> 		 
+  <li><a href="#mapping">Подключение библиотеки как сетевого диска</a></li> 
+  
+  <li><a href="#net_drive">Подключение библиотеки с помощью мастера добавления сетевого размещения</a></li> 
+
+<li><a href="#disconnect">Отключение библиотеки</a></li>
+</ul>	
+
+<p>Любая папка из раздела <b>Документы</b>, доступ к которой разрешен в соответствии с правами пользователя, может быть подключена к любому компьютеру из сети как сетевой диск. Это справедливо для ОС <b>Windows</b> XP и выше.</p>
+
+<p><a name="mapping"></a><h3>Подключение библиотеки как сетевого диска</h3></p>
+ 
+<p><div class="warning"><b>Важно!</b> Этот метод подключения в <b>Windows XP</b> работает с некоторыми ограничениями. В случае возникновения проблем обратитесь к <b>Администратору</b> портала.</div></p> 
+
+<p>Для подключения библиотеки как сетевого диска запустите <b>Проводник</b>. Выберите в меню пункт <b>Сервис &gt; Подключить сетевой диск</b>. Откроется диалог подключения сетевого диска:</p>
+
+<a name="connect_drive">
+<p><img src="cid:resources/res79/0IJ7K.yS6XA.connect_drive.png" width="625" height="457"></p></a>
+ 
+<p>В поле <b>Диск</b> назначьте букву для подключаемой папки.</p>
+
+<p>В поле <b>Папка</b> введите путь до библиотеки: <i>http://&lt;ваш_сервер&gt;/docs/shared/</i>.</p>
+
+<p><div class="hint"><b>Примечание</b>: путь до библиотеки можно узнав, нажав на кнопку <img src="cid:resources/res79/9mHIu.lUoLe.net_drive.png" width="121" height="32"> на контекстной панели, либо, находясь в нужной папке библиотеки документов, скопировать адресную строку браузера.</div></p> 
+
+<p>Если необходимо, чтобы папка подключалась для просмотра при каждом запуске системы, установите флажок <b>Восстанавливать при входе в систему</b>.</p>
+
+<p>Если вы хотите подключиться под неактивной в данный момент учетной записью, поставьте галочку в поле <b>Использовать другие учетные данные</b>, после чего откроется диалог операционной системы для авторизации:</p>
+
+<p><img src="cid:resources/res79/mjZS9.cvk9S.logined.png" width="441" height="263"></p>
+
+<p>Нажмите кнопку <b>Готово</b>, после чего в отдельном окне проводника откроется папка с документами:</p>
+
+<p><a href="javascript:ShowImg('/images/portal_admin/admin_sys/webdav/net_folder.png',806,518,'Подключение папки как сетевого диска')">
+<img height="385" border="0" width="600" src="cid:resources/res79/xHiRh.lVF0a.net_folder_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a></p>
+
+<p>Последующие открытия папки можно осуществлять через <b>Проводник Windows</b>, где папка отображается в виде отдельного диска, либо через любой файловый менеджер.</p>
+<br>
+
+
+
+<a name="net_drive"></a><h3>Подключение библиотеки с помощью мастера добавления сетевого размещения</h3>
+
+<p>В диалоге подключения сетевого диска (см. <a href="#connect_drive">здесь</a>) пройдите по ссылке <b>Подключение к сайту, на котором можно хранить документы и изображения</b>, после чего запустится мастер добавления сетевого размещения:</p>
+
+<p><img src="cid:resources/res79/4Vj87.TFtsV.master.png" width="611" height="500"></p>
+
+<p>Нажмите <b>Далее</b>, появится новое окно:</p>
+
+<p><img src="cid:resources/res79/8Sd4Z.CxjRf.choose_place.png" width="611" height="265"></p>
+
+<p>Нажмите <b>Далее</b> и в следующем окне укажите сетевой адрес ресурса, либо адрес в интернете:</p>
+
+<p><img src="cid:resources/res79/1SA8v.KzFRH.andrey.png" width="606" height="322"></p>
+
+<p>Нажмите <b>Далее</b> и в следующем окне напишите имя для этого сетевого размещения:</p>
+
+<p><img src="cid:resources/res79/bA6vR.A8TmE.name.png" width="607" height="332"></p>
+
+<p>Нажмите <b>Далее</b>, появится окно завершения настройки:</p>
+
+<p><img src="cid:resources/res79/TUR4b.CrPAr.end.png" width="606" height="325"></p>
+
+<p>Нажмите <b>Готово</b>, после чего в отдельном окне проводника откроется подключенная папка.</p>
+
+ после нажатия в котором кнопки <b>Готово</b>, в отдельном окне проводника откроется подключенная папка.</p>
+
+<p>Последующие открытия папки можно осуществлять через <b>Проводник</b> Windows, где папка отображается в виде отдельного диска, либо через любой файловый менеджер.</p>
+<br>
+
+
+<a name="disconnect"></a><h3>Отключение библиотеки</h3>
+
+<p>Для отключения папки, подключенной как сетевой диск, нажмите на нее правой кнопкой мыши и выберите <b>Отключить</b>:</p>
+
+<p><img src="cid:resources/res79/T37BY.Ox25u.dis_con.png" width="471" height="378"></p>
+
+<p>Для того, чтобы отключить папку библиотеки, подключенную с помощью мастера добавления сетевого размещения, кликните по ней правой кнопкой мыши и выберите <b>Удалить</b>:</p>
+
+<p><img src="cid:resources/res79/fUZGr.WjRtd.del.png" width="492" height="439"></p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>300</edge_sort>
+<id>89</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

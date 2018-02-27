@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="CHA"><lesson_id>104</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>2</childs_cnt>
+<is_childs>1</is_childs>
+<sort>50</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Работа с бизнес-процессами</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p><div class="warning"><b>Важно! </b>Для работы с бизнес-процессами на портале у пользователя должен быть определенный уровень доступа. Если вы не можете работать с бизнес-процессами на портале, обратитесь к <b>Администратору портала</b>.</div></p>
+
+<br />
+<p>В зависимости от настроек запуск любого бизнес-процесса может быть осуществлен как автоматически, так и вручную. Автоматический запуск бизнес-процесса возможен при создании и/или изменении документа (элемента бизнес-процесса).</p>
+
+<p>Ответственный за выполнение того или иного задания сотрудник всегда оповещен о наличии у него задач с помощью анимированной иконки в панели статусов в верхней части портала:<p>
+<p><img src="cid:resources/res89/Zk8sf.Kol2V.bizproc_status_panel.png" border="0" height="21" width="315" /></p>
+
+<p>Кроме того, в шаблоне бизнес-процесса могут быть настроены дополнительные уведомления: почтовые сообщения, сообщения социальной сети, создание события или задачи.</p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>50</edge_sort>
+<id>104</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

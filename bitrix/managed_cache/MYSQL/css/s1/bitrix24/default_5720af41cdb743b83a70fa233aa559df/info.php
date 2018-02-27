@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/bitrix/templates/bitrix24/css/sidebar.css" => "15197274648781",), 'CUR_SEL_CNT' => '99', 'CUR_IE_CNT' => '0'); ?>

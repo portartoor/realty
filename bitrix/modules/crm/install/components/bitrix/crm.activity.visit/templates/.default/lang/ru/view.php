@@ -1,0 +1,3 @@
+<?php
+$MESS["CRM_ACTIVITY_VISIT_DOWNLOAD_RECORD"] = "Скачать запись";
+$MESS["CRM_ACTIVITY_VISIT_DESCRIPTION"] = "Описание";

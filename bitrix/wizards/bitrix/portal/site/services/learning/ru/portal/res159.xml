@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>168</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877380</timestamp_x>
+<date_create>1422877380</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Права доступа</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>На данной странице указаны группы пользователей и их права на действия с сущностями и настройками модуля CRM, которые представлены в таблице:</p>
+<p><a href="javascript:ShowImg('/images/portal_user/crm/access.png',831,194,'Права доступа')">
+<img height="140" border="0" width="600" src="cid:resources/res159/ccKJ4.yxDSn.access_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a>
+</p>
+
+
+<p><div class="hint"><b>Примечание</b>: По умолчанию, кроме администраторов, доступ к модулю CRM разрешен для групп <b>Руководство</b> и <b>Маркетинг и продажи</b>. По умолчанию группам пользователей, не упомянутым на странице Права доступа, доступ к модулю CRM закрыт.</div></p>
+<br>
+
+<p>Чтобы добавить права для еще какой-либо группы, нажмите на <img src="cid:resources/res159/3jifX.0pjJ8.down.png" width="20" height="22"> и в выпадающем списке выберите нужную группу (по умолчанию выставлено <b>Все пользователи</b>):</p>
+<img src="cid:resources/res159/hHrGC.Y7Mor.users_group.png" width="398" height="148">
+<p>Затем кликните левой кнопкой мыши по ссылке <b>Добавить</b>, после чего новая группа будет добавлена в общий список:</p>
+<img src="cid:resources/res159/Brdux.qyFmb.all_users.png" width="773" height="51">
+
+<p>Далее для добавленной группы пользователей нужно настроить права доступа для работы со, скажем, лидами. Для этого щелкните по значению права доступа, после чего рядом с ним отобразится окно выпадающего списка:
+
+<p><img src="cid:resources/res159/W8JEL.qWVc7.no.png" width="124" height="50" align="top"></p>
+    <p>Кликните по стрелке, после чего откроется список:<p>
+<p><img src="cid:resources/res159/XVEQU.Qt5rI.no all.png" width="61" height="70"></p>
+
+
+<p> </p>
+
+<p></p>
+
+
+<p>На выбор предлагаются следующие пункты списка:</p>
+<ul>
+<li><b>Все</b> -  возможность просматривать и редактировать все имеющиеся в CRM лиды.</li>
+<li><b>Свои</b> - возможность просматривать и редактировать только лиды, за которые сотрудник будет являться ответственным.</li>
+<li><b>Нет</b> - запрет на какие-либо действия с сущностями (не будут отображаться).</li>
+</ul>
+
+<p>Такие же пункты списка прав доступа вы увидите в колонках <b>Контакты</b> и <b>Сделки</b>.</p>
+
+<p>Для <b>Компании</b> можно выбрать между <b>Нет</b> и <b>Все</b>.</p>
+
+<p>Для <b>Настройки</b> можно выбрать между <b>Нет</b> и <b>Изменение</b> (возможность менять настройки).</p>
+<br>
+
+Для сохранения внесенных изменений в права доступа нажмите <b>Сохранить</b>.
+
+
+
+
+
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>168</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

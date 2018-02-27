@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/bitrix/js/tasks/css/media.css" => "15197274659205","/bitrix/js/tasks/css/tasks.css" => "151972746589331",), 'CUR_SEL_CNT' => '1150', 'CUR_IE_CNT' => '0'); ?>

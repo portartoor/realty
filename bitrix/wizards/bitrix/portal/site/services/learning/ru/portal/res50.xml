@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>60</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Экспорт задач</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<menu>
+  <li><a href="#tasks_export_msoutlook">Экспорт списка задач в Outlook</a></li>
+  <li><a href="#tasks_export_msexchange">Соединение задач с Microsoft Exchange</a></li>
+</menu>
+
+
+
+<br>
+
+
+
+
+<p><a name="tasks_export_msoutlook"></a><b>Экспорт списка задач в Outlook</b></p>
+
+
+<div class="warning"><b>Внимание!</b> Для полноценной интеграции портала с Outlook требуется версия <b>Outlook 2007</b>.</div>
+
+<p>Для двусторонней синхронизации задач портала с задачами <b>MS Outlook</b> необходимо:</p>
+<ul>
+  <li>Воспользоваться ссылкой <b>Экспорт списка в Outlook</b>
+    <p><img src="cid:resources/res50/qROy1.3L5OW.tasks_export_msoutlook_link.png" border="0" width="260" height="145" ></p>
+  </li>
+  
+  <li>По этой команде запустится MS Outlook, при этом будет выведено следующее предупреждение:
+    <p><img src="cid:resources/res50/uKNJ2.gK3RS.tasks_export_msoutlook_1.png" border="0" width="492" height="209" ></p>
+  </li>
+
+  <li>Нажмите кнопку <b>Да</b> для продолжения подключения задач, либо кнопку <b>Дополнительно...</b> для вызова диалога дополнительной настройки параметров:
+    <p><img src="cid:resources/res50/AXtHz.stEIq.tasks_export_msoutlook_2.png" border="0" width="528" height="455" ></p>
+  </li>
+
+  <li>Введите <b>Имя папки</b> (название задач) и <b>Описание</b> задач и нажмите кнопку <b>OK</b>. 
+  <p>В результате в <b>MS Oulook</b> будут добавлены задачи, в данном случае <b>Мария Бражникова - Рабочие задачи</b>:</p>
+    <p><img src="cid:resources/res50/PlEI1.k6mFS.tasks_export_msoutlook_3_sm.png" border="0" width="700" height="562" ></p>
+    <div class="hint"><b>Примечание:</b> Настройка экспорта производится только один раз, после чего задачи на портале будут автоматически синхронизироваться с MS Outlook. </div>
+  </li>
+  
+</ul>
+
+
+<p>При добавлении новой задачи в <b>MS Outlook</b> она будет автоматически добавлена в список задач на портале.</p>
+<p>Для этого выполните следующее:</p>
+<ul>
+  <li>В меню <b>Создать</b> выберите пункт <b>Задача</b>:
+    <p><img src="cid:resources/res50/aU3jW.s8g8d.tasks_export_msoutlook_4.png" border="0" width="479" height="419" ></p>
+  </li>
+  
+  <li>Заполните поля: <b>Назначено</b>, <b>Тема</b>, <b>Дата начала</b>, <b>Срок</b> и <b>Описание</b>.
+    <p><img src="cid:resources/res50/VZXd9.TIyAU.tasks_export_msoutlook_5.png" border="0" width="706" height="499" ></p>
+  
+  
+    <div class="warning"><b>Внимание!</b> В поле <b>Назначено</b> необходимо указывать адрес электроннй почты пользователя портала. Для удобства можно импортировать контакты в адреную книгу <b>MS Outlook</b> и потом выбирать ответственного в поле <b>Назначено</b> уже из адресной книги. </div>
+  </li>
+
+  <li>Нажмите кнопку <b>Сохранить и закрыть</b>.</li>
+</ul>
+<p>После чего задача появится в списке задач в <b>MS Outlook</b> и на портале.</p>
+
+
+
+
+<br>
+
+
+
+
+<p><a name="tasks_export_msexchange"></a><b>Соединение задач с Microsoft Exchange</b></p>
+
+<p>Если администратор портала <u>настроил</u> и <u>разрешил</u> синхронизацию с <b>Microsoft Exchange</b>, то синхронизация задач Exchange и на портале будет происходить автоматически.</p>
+
+<p>О правильной <u>настройке</u> соединения с <b>Microsoft Exchange</b> будет свидетельствовать баннер на странице <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2314#exchange_connect">Календарь</a>:</p>
+    <p><img src="cid:resources/res50/DXyBq.JMtb2.calendar_banner_exchange_2.png" border="0" height="129" width="133"></p>
+
+<p><div class="warning"><b>Внимание!</b> Администратор может включать синхронизацию для календарей и задач по отдельности. Это значит, что при наличие такого баннера соединение может быть <u>установлено</u>, но сама синхронизация - <u>отключена</u>.
+<br><br>
+При возникновении трудностей обратитесь к администратору портала.
+</div>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>60</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

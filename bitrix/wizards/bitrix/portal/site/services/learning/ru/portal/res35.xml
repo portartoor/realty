@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>48</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>100</sort>
+<timestamp_x>1422877378</timestamp_x>
+<date_create>1422877378</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Переписка с пользователями</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<menu>
+  <li><a href="#history_users">Переписка с пользователями</a></li>
+  <li><a href="#history_user">История переписки с пользователем</a></li>
+</menu>
+
+<br>
+
+<a name="history_users"></a><h4>Переписка с пользователями</h4>
+
+<p>Страница <b>Переписка с пользователями</b> содержит историю переписки с другими пользователями портала. Помимо личных сообщений в списке присутствуют также различные информационные сообщения, например такие, как подтверждение дружбы или вступления в группу.</p>
+
+<p><a href="javascript:ShowImg('/images/portal_user/personal_page/messages/messages_list_all.png',972,511,'Переписка с пользователями')">
+<img src="cid:resources/res35/hXKBa.qytIa.messages_list_all_sm.png" alt="Нажмите на рисунок, чтобы увеличить" width="620" height="326" border="0" /></a></p>
+
+<p><div class="hint"><b>Примечание:</b> Пользователи с новыми/непрочитанными сообщениями отмечены серым цветом.</div></p>
+
+<p>В строке с пользователем отображаются:</p>
+<ul>
+
+  <li>Колонка <b>Пользователь</b>
+    <ul>
+      <li><b>&lt;имя_сотрудника&gt;</b> - ссылка, по которой можно перейти на <a href="/learning/course/index.php?COURSE_ID=45&CHAPTER_ID=788">личную страницу сотрудника</a>;  </li>
+      <li>иконка &quot;на сайте&quot;; </li>
+      <li>Дата последнего сообщения;</li>
+    </ul>
+</li>
+
+  <li>Колонка <b>Всего</b>
+    <ul>
+      <li><b>&lt;количество сообщений&gt;</b> - ссылка с общим количеством сообщений, по которой можно перейти к просмотру <a href="#history_user">истории переписки с выбранным сотрудником</a>;  </li>
+    </ul>
+</li>
+
+  <li>Колонка <b>Новых</b>
+    <ul>
+      <li><b>&lt;количество сообщений&gt;</b> - ссылка с количеством новых или непрочитанных сообщений, по которой также можно перейти к просмотру истории переписки с выбранным сотрудником;  </li>
+    </ul>
+</li>
+
+  <li>Колонка <b>Действия</b> - список доступных действий:
+    <ul>
+	  <li><b>Сообщения</b> - ссылка, которая позволяет перейти к просмотру <a href="#history_user">истории переписки с выбранным сотрудником</a>;</li>
+	  <li><b>Написать пользователю</b> - ссылка, которая открывает <a href="/learning/course/index.php?COURSE_ID=45&CHAPTER_ID=832#chat">окно чата</a> для общения с отправителем сообщения;</li>
+	  <li>Ссылку, позволяющую добавить сотрудника в <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2326">черный список</a>.</li>
+    </ul>
+  </li>
+</ul>
+
+
+
+<a name="history_user"></a><h4>История переписки с пользователем</h4>
+
+<p>На этой странице можно просмотреть историю переписки с одним сотрудником.</p>
+
+<p><img src="cid:resources/res35/IblKr.74lYz.messages_list_all_detail.png" border="0" alt="История переписки с пользователем" width="686" height="624" /></p>
+
+
+
+<p>Для управления сообщениями на этой странице доступны следующие элементы управления:</p>
+<ul>
+  <li>Ссылки для управления каждым из сообщений:
+    <ul>
+      <li><b>Отметить как прочитанное</b> - отмечает текущее сообщение как прочитанное;</li>
+      <li><b>Удалить</b> - удаляет текущее сообщение.</li>
+	</ul>
+	
+     <p><div class="hint"><b>Примечание:</b> Для некоторых типов сообщений доступны и другие ссылки.
+	<br>Например, для оповещения о видеозвонке будет доступна ссылка <b>Ответить</b>.</div></p>
+
+<div class="hint"><b>Примечание:</b> Наличие некоторых ссылок обусловлено возможностью отправки сообщений сотруднику и зависит от его <a href="/learning/course/index.php?COURSE_ID=45&amp;LESSON_ID=2249#change_privacy">настроек приватности</a>.</div>
+	
+  </li>
+
+  <li>Флажки для множественного выбора сообщений и кнопки для групповых операций над ними:
+      <ul>
+        <li><b>Отметить как прочитанные</b>;</li>
+        <li><b>Удалить</b>;</li>
+	</ul>
+  </li>
+
+  <li>Кнопка <b>Удалить все</b>, которая позволяет удалить сразу все сообщения.</li>
+</ul>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>100</edge_sort>
+<id>48</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

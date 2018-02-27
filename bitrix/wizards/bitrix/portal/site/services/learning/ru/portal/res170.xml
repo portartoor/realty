@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="CHA"><lesson_id>179</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>2</childs_cnt>
+<is_childs>1</is_childs>
+<sort>1000</sort>
+<timestamp_x>1422877380</timestamp_x>
+<date_create>1422877380</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Экстранет</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Информационное пространство компании можно условно разделить на две зоны: Интернет и Интранет. «1С-Битрикс: Управление сайтом» решает информационные задачи в Интернете. «1С-Битрикс: Корпоративный портал» перекрывает потребности компании во внутреннем информационном пространстве – Интранете. </p>
+
+<p>Но возникает одна проблема – взаимодействие с внешними по отношению к компании объектами: партнерами, клиентами, поставщиками, короче с внешними пользователями. В Интернет не выложить информацию внутреннего характера, не все можно показать всем. Но нужно, что бы часть такой внутренней информации была доступна таким людям. Кроме того и саму информацию, предоставляемую внешним пользователям надо версифицировать. Что-то должно быть видно клиентам, что-то только  партнерам и так далее. В Интранет пускать даже партнеров хочется далеко не всем руководителям. Как быть? Решение для таких ситуаций есть и называется оно – <b>Экстранет</b> (Extranet).</p>
+ 
+<div class="note"><b>Экстранет</b> – расширение корпоративного портала, которое позволяет компании осуществлять конфиденциальную связь с поставщиками, дистрибуторами и другими внешними пользоавтелями без доступа их к внутрикорпоративной информации.</div> 
+
+<p><b>Экстранет</b> - это:</p> 
+<ul>
+  <li>единая точка доступа к информации для наших сотрудников, клиентов, партнеров;</li>
+  <li>конфиденциальность общения;</li>
+  <li>совместная работа в едином пространстве (в том числе и удаленно);</li>
+  <li>безопасный доступ внешних пользователей к данным рабочей группы;</li>
+  <li>прозрачность и документируемость коммуникаций.</li>
+</ul>
+<p>В экстранете сотрудники компании могут приглашать внешних пользователей и обсуждать с ними вопросы в рабочей группе (в форумах, блогах), совместно работать с общими документами, планировать активность в календаре, ставить задачи и следить за их выполнением, публиковать отчеты и т.д.</p> 
+
+<p><table width="100%" height="1" cellspacing="0" cellpadding="0" bgcolor="#cecece"> 
+  <tbody> 
+    <tr><td></td></tr>
+   </tbody>
+ </table></p>
+
+<p><img height="18" border="0" width="18" src="cid:resources/res170/pqEz8.t9l1p.pdf_doc.gif" /> Скачать материалы главы в формате <a href="http://dev.1c-bitrix.ru/docs/pdf_files/intranet_user_extranet.pdf" target="_blank">PDF</a></p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>1000</edge_sort>
+<id>179</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

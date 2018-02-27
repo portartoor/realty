@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>32</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>200</sort>
+<timestamp_x>1422877378</timestamp_x>
+<date_create>1422877378</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>N</active>
+<name># Друзья</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p><div class="important">
+права доступа/управления
+</div></p>
+
+
+<br>
+
+
+<p><div class="hint"><b>Примечание</b>: по умолчанию функционал <b>Друзья</b> отключен. Но вы можете написать сообщение любому сотруднику компании, пригласить его в группу. Подключить данный функционал может администратор портала.</div></p>
+
+<p>В разделе <b>Друзья</b> представлены все друзья сотрудника:</p>
+
+ <p><img src="cid:resources/res28/vFhHC.ppsCN.all_friends.png" alt="Все друзья" border="0" width="666" height="330" /></p>
+ 
+<p>Ссылка <b>Посмотреть последние изменения</b> позволяет просмотреть <b>Лог обновлений</b> групп, пользователей и.т.д</p>
+<p><div class="hint"><b>Примечание</b>: Подробнее про обновления смотрите в уроке <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2327">Живая лента</a>.</div></p>
+ 
+
+<br>
+
+
+<menu id="topictoc">
+  <li><a href="#friends_add">Добавление друзей</a></li>
+  <li><a href="#friends_del">Удаление друзей</a></li>
+</menu>
+
+
+
+<br>
+
+
+
+<a name="friends_add"></a><p><b>Добавление друзей</b></p>
+
+<p>Чтобы добавить сотрудника к себе в друзья, выполните следующее:</p>
+<ul>
+  <li>Нажмите на ссылку <b>Добавить друзей</b>.</li>
+     <p><img src="cid:resources/res28/5IZiZ.WVmIK.friends_add_form.png" alt="Друзья" border="0" width="666" height="231" /></p>
+	<p>После чего откроется страница <b>Поиск сотрудника</b></p>
+  <li>С помощью формы поиска найдите необходимого вам сотрудника (см. урок <a href="https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2309">Поиск сотрудника</a>).</li>
+
+  <li>В найденной визитке сотрудника нажмите на ссылку с его именем. Откроется личная страница данного сотрудника. В гаджете <b>Управление</b> нажмите ссылку <b>Добавить в друзья</b>:
+    <p><img src="cid:resources/res28/DjB4y.XWdu8.user_control_friends_add.png" alt="Ссылка &quot;Добавить в друзья&quot;" border="0" width="245" height="437" /></p> 
+  </li>
+  <li>Заполните форму приглашения и нажмите кнопку <b>Отправить сообщение</b>:
+    <p><img src="cid:resources/res28/81W6w.I89wJ.friends_invite_form.png" alt="Форма приглашения" border="0" width="689" height="303" /></p> 
+    <p>Появится сообщение об успешной отправке приглашения.</p>
+    <p>Сотрудник получит уведомление</p>
+    <p><img src="cid:resources/res28/AmPTF.bX9HK.invine_message.png" alt="Предложение дружбы" border="0" width="534" height="247" /></p> 
+	<p>Как только сотрудник примет приглашение, то он появится в списке ваших друзей и вам придет оповещение.</p>
+    <p><img src="cid:resources/res28/0Keye.ysEqg.invine_message_confirm.png" alt="Подтверждение дружбы" border="0" width="534" height="247" /></p> 
+  </li>
+</ul>
+
+<br>
+
+<p>Если какой-нибудь сотрудник отправит вам приглашение, то вы получите соответствующее сообщение:</p>
+
+ <p><a href="javascript:ShowImg('/images/portal_user/personal_page/friends/messages_popup.png',1064,193,'Новые сообщения')">
+<img src="cid:resources/res28/J7L2Z.RqJBY.messages_popup_sm.png" alt="Нажмите на рисунок, чтобы увеличить" width="660" height="120" border="0" /></a></p>
+
+<p><img src="cid:resources/res28/Hdxym.JQL94.invine_message_from_user.png" alt="Приглашение дружить" border="0" width="534" height="247" /></p> 
+
+<br>
+
+<a name="friends_del"></a><p><b>Удаление друзей</b></p>
+
+<p>Чтобы удалить сотрудника из друзей:</p>
+<ul>
+  <li>Перейдите на личную страницу сотрудника.</li>
+  <li>Воспользуйтесь ссылкой <b>Удалить из друзей</b>:
+    <p><img src="cid:resources/res28/Ls0GI.SAY5Z.user_control_friends_del.png" alt="Удаление друга" border="0" width="245" height="437" /></p>
+  </li>
+  <li>На открывшейся странице подтвердите удаление пользователя из списка ваших друзей (кнопка <b>Удалить из списка друзей</b>):
+    <p><img src="cid:resources/res28/9ABNB.USq4m.friends_delete_button.png" alt="Подтверждение удаления из списка друзей" border="0" width="666" height="179" /></p>
+  </li>
+</ul>
+
+<br>
+
+<p>Удаление друзей также возможно непосредственно из раздела <b>Друзья</b></p>
+<p>Для этого</p>
+<ul>
+  <li>Перейдите в раздел <b>Друзья</b>.</li>
+  <li>Отметьте требуемых сотрудников и нажмите кнопку <b>Удалить</b>
+    <p><img src="cid:resources/res28/ZmaLP.JdygD.friends_delete.png" alt="Удаление друзей из раздела &quot;Друзья&quot;" border="0" width="666" height="291" /></p>
+  </li>
+</ul>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>200</edge_sort>
+<id>32</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

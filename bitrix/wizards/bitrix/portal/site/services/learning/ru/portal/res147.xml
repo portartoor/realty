@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>156</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Список компаний</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>На данной странице представлен список всех имеющихся компаний:</p>
+
+<p><a href="javascript:ShowImg('/images/portal_user/crm/company_list.png',830,382,'Список компаний')">
+<img height="282" border="0" width="600" src="cid:resources/res147/eejvn.tTpjl.company_list_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a>
+</p>
+
+<h3>Просмотр компании</h3>
+
+<p>Просмотр любой компании осуществляется аналогично <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2342">просмотру контакта</a>.</p>
+
+
+<h3>Меню действий</h3>
+
+<p>Помимо <b>Просмотреть компанию</b>, меню действий включает в себя следующие пункты: <b>Редактировать компанию</b>, <b>Добавить событие</b>, <b>Добавить контакт</b>, <b>Добавить сделку</b>, <b>Удалить компанию</b>.</p>
+
+<h4>Редактировать компанию</h4>
+
+<p>После клика по данному пункту появится форма редактирования компании, включающая в себя две вкладки: <b>Компания</b> и <b>События</b>:</p>
+<p><img src="cid:resources/res147/1VHQC.SVEoJ.edit_company.png" width="689" height="516"></p>
+
+<p>О значениях полей формы редактирования компании вы можете подробнее узнать в уроке <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2402">Добавить компанию</a>.</p>
+
+<p>На вкладке <b>События</b> расположена таблица с перечнем действий, производимых над параметрами компании, а также события, добавленные к ней:</p>
+<p><img src="cid:resources/res147/sE4x3.v0wvh.event_of_company.png" width="614" height="345"></p>
+
+
+Процессы добавления события, добавления контакта, добавления сделки, удаления компании, полностью аналогичны таковым, описанным в уроках <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&CHAPTER_ID=869">События</a>, <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2341">Добавить контакт</a>, <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2405">Добавить сделку</a> и <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2350#delete">Список лидов</a> соответственно.
+
+
+
+
+
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>156</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

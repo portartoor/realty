@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>41</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>300</sort>
+<timestamp_x>1422877378</timestamp_x>
+<date_create>1422877378</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Режимы просмотра фотографий</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<menu id="topictoc">
+  <li><a href="#album_view">Просмотр альбома</a></li>
+  <li><a href="#ph_view">Просмотр фотографии</a></li>  
+  <li><a href="#detail_view">Страница детального просмотра фотографии</a></li>  
+</menu>
+
+
+<a name="album_view"></a><p><b>Просмотр альбома</b></p>
+
+<p>Из списка альбомов по клику на имя альбома или на его обложку можно перейти к просмотру эскизов фотографий:</p>
+
+ <p><a href="javascript:ShowImg('/images/portal_user/personal_page/photo/album_view.png',803,701,'Просмотр альбома')">
+<img src="cid:resources/res26/eqaH7.tfC4f.album_view_sm.png" alt="Нажмите на рисунок, чтобы увеличить" border="0" width="600" height="524" /></a></p>
+
+<p>На данной странице вы имеете возможность удалить выбранные фотографии, перенести их в другой альбом. Выбор осуществляется с помощью флажков на эскизах фотографий. </p>
+
+<p><div class="hint"><b>Примечание:</b> Подробнее про управление фотографиями смотрите в уроке <b>Управление альбомами</b> раздел <a href="https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2286#ph_manage">Управление фотографиями</a>.</div></p>
+
+<p>С помощью панели <img src="cid:resources/res26/wPtvE.bslVc.album_view_controls.png" alt="Выбор режима просмотра эскизов фотографий" border="0" width="77" height="25" /> можно выбрать режим просмотра эскизов фотографий:</p>
+
+<ul>
+  <li><img src="cid:resources/res26/NSluY.3AxjG.but_album_view_1.png" border="0" width="21" height="21" /> - Квадратные эскизы фотографий;</li>
+  <li><img src="cid:resources/res26/FDMQF.IUUEy.but_album_view_2.png" border="0" width="21" height="21" /> - Эскизы фотографий, подогнанные по высоте;</li>
+  <li><img src="cid:resources/res26/fvtYS.rJ9Ib.but_album_view_3.png" border="0" width="21" height="21" /> - Эскизы фотографий, представленные без изменений.</li>
+</ul>
+
+
+<br>
+
+
+<a name="ph_view"></a><p><b>Просмотр фотографии</b></p>
+
+<p>При клике по анонсу фотографии открывается окно детального просмотра фотографии:</p>
+
+ <p><a href="javascript:ShowImg('/images/portal_user/personal_page/photo/detail_photo_1.png',898,699,'Окно детального просмотра фотографии')">
+<img src="cid:resources/res26/LbBm0.g3qCb.detail_photo_1_sm.png" alt="Нажмите на рисунок, чтобы увеличить" border="0" width="600" height="467" /></a></p>
+
+В данном режиме просмотра доступны следующие элементы управления:
+<ul>
+  <li>Переход к предыдущей/следующей фотографии. Отображается при подведении курсора к левой/правой части рисунка;
+  <p><img src="cid:resources/res26/BozjI.EHA1d.detail_photo_next.png" alt="Просмотр следующей фотографии" border="0" height="369" width="303"></p></li>
+
+  <li>Ссылка с названием фотографии и ссылка <b>комментировать</b> - позволяют перейти на <a href="#detail_view">страницу детального просмотра фотографии</a>;</li>
+
+  <li>Голосование - Возможность оценить фотографию кликом мыши по соответствующему количеству голосов.
+  <p><img src="cid:resources/res26/0glSB.X215O.voting.png" alt="Голосование" border="0" height="66" width="167"></p></li>
+
+  <li>Панель управления просмотром слайд шоу. Позволяет запустить/остановить показ фотографий и выбрать время их смены.
+  <p><img src="cid:resources/res26/QKlG8.TJyds.detail_photo_slideshow.png" alt="Управление показом слайд-шоу" border="0" height="54" width="168"></p></li>
+
+
+</ul>
+
+<p>Для перехода на страницу детального просмотра фотографии кликните по стрелочке в правом нижнем углу эскиза фото:</p>
+
+ <p><img src="cid:resources/res26/sziH4.bja1D.view_detail.png" alt="Переход на страницу детального просмотра фотографии" border="0" width="478" height="321" /></p>
+
+
+<br>
+
+
+<a name="detail_view"></a><p><b>Страница детального просмотра фотографии</b></p>
+
+
+<p>Страница детального просмотра имеет вид:</p>
+
+ <p><a href="javascript:ShowImg('/images/portal_user/personal_page/photo/detail_view.png',982,847,'Страница детального просмотра')">
+<img src="cid:resources/res26/9bqQt.juKDG.detail_view_sm.png" alt="Нажмите на рисунок, чтобы увеличить" border="0" width="600" height="518" /></a></p>
+
+
+
+<p>Детальный показ фотографии осуществляется с помощью выбора ее анонса в ленте фотографий альбома. Возможные действия с просматриваемой фотографией:</p>
+<ul>
+  <li><b>Слайд шоу</b> - переход к просмотру слайд-шоу, начиная с данной фотографии;
+
+   <p><a href="javascript:ShowImg('/images/portal_user/personal_page/photo/slideshow.png',982,887,'Страница детального просмотра')">
+<img src="cid:resources/res26/35Sc4.VAlEw.slideshow_sm.png" alt="Нажмите на рисунок, чтобы увеличить" border="0" width="600" height="448" /></a></p>
+
+    <p>В слайд шоу имеется панель управления просмотром:</p>
+
+    <p><img src="cid:resources/res26/8OBo5.gTlGP.slideshow_controls.png" alt="Панель управления просмотром" border="0" width="614" height="35" /></p>
+    <p>C помощью этой панели вы можете:</p>
+      <ul>
+         <li>запустить и остановить слайд шоу;</li>
+         <li>принудительно перейти к предыдущей или следующей фотографии;</li>
+         <li>задать временной интервал между слайдами;</li>
+         <li>закрыть слайд-шоу.</li>
+      </ul>  
+  </li>
+		  
+
+
+
+  <li>Просмотр оригинального изображения (ссылка <b>Оригинал</b> или клик по детальному просмотру фотографии) в отдельном окне с возможностью изменения фона;</li>
+	
+  <li>Редактирование параметров фотографии (ссылка <b>Изменить</b>) в специальной форме:
+    <p><img src="cid:resources/res26/rRvmF.MQ7ri.edit_photo_form.png" alt="Панель управления просмотром" border="0" width="534" height="336" /></p>
+  </li>
+
+  <li>Удаление фотографии (ссылка <b>Удалить</b>);</li>
+  <li>Голосование. Возможность оценить фотографию кликом мыши по соответствующему количеству голосов:
+    <p><img src="cid:resources/res26/ae5PV.bbOVR.voting.png" alt="Голосование" border="0" width="167" height="66" /></p>
+</li>
+	
+  <li>Добавление комментария. Внизу страницы отображается форма добавления комментария с возможностью форматирования текста:
+    <p><img src="cid:resources/res26/YjlTj.voS2k.comments_form.png" alt="Форма добавления комментария" border="0" width="557" height="354" /></p>
+  </li>
+
+</ul>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>300</edge_sort>
+<id>41</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

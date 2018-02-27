@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>165</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877380</timestamp_x>
+<date_create>1422877380</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>События</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<h3>Страница События</h3>
+
+<p>На этой странице отображаются действия, произведенные с сущностями системы CRM:</p>
+<p><a href="javascript:ShowImg('/images/portal_user/crm/crm_events.png',815,259,'События')">
+<img height="190" border="0" width="600" src="cid:resources/res156/TVRCu.fJXbQ.crm_events_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a>
+</p>
+
+<p>О работе с таблицей страницы <b>События</b> смотрите в уроке <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2346">Форма отчета</a>.</p>
+
+<h3>Добавление события</h3>
+
+<p>В процессе маркетинговой деятельности над сущностями системы CRM производятся различного рода действия, которые можно отразить добавлением событий. Добавить событие к контакту, компании, сделке можно несколькими способами:</p>
+<ul>
+<li>на странице со списком нужных сущностей щелкнув в <b>Меню действий</b> по пункту <b>Добавить событие</b>;</li>
+<li>на странице детального просмотра сущности щелкнув по кнопке <b>Добавить событие</b> на <b>Контекстной панели</b>.</li>
+</ul>
+<p><div class="hint"><b>Примечание</b>: подробнее о Меню действий и Контекстной панели рассказано в уроке <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2346">Форма отчета</a>.</div></p>
+
+<p>Рассмотрим добавление событий на примере лидов.</p>
+<p>После щелчка по данному пункту на странице появится окно добавления нового события:</p>
+<p><img src="cid:resources/res156/HSNb1.ne8Ti.add_event.png" width="517" height="364"></p>
+
+<p>В форме присутствуют следующие строки:</p>
+<ul>
+<li><b>Лид</b> - здесь указывается название лида, к которому добавляется событие.</li>
+
+
+<li><b>Тип события</b> - нажмите пиктограмму стрелочки, направленной вниз, и выберите вид добавляемого к лиду события (<b>Информация</b> (назначается по умолчанию), <b>Телефонный звонок</b>, <b>Отправлен email</b>).</li>
+
+<li>В текстовом поле ниже введите описание события.</li>
+
+<li><b>Статус лида</b> - нажмите пиктограмму стрелочки (<img src="cid:resources/res156/LjvDK.cZIKU.down.png" width="20" height="22">) и в выпадающем списке выберите состояние, в котором находится ваш лид:
+<p><img src="cid:resources/res156/5WEEO.I3vCc.lead_status.png" width="119" height="106"></p>
+</li>
+
+<li><b>Прикрепить файл</b> - нажав на кнопку <b>Обзор</b> можно к событию присоединить какой-либо файл.</li>
+</ul>
+
+<p>Для добавления события нажмите кнопку <b>Добавить</b>.</p>
+<p><div class="hint"><b>Примечание</b>: если кнопка Добавить неактивна, значит вы не ввели описание события.</div></p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>165</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

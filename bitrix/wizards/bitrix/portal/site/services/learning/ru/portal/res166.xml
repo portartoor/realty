@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>175</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>100</sort>
+<timestamp_x>1422877380</timestamp_x>
+<date_create>1422877380</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Инструменты управления </name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Для управления рабочим временем предусмотрены два инструмента: панель <b>Рабочий день</b> и страница <b>Рабочее время</b>.</p>
+
+<h4>Панель Рабочий день</h4>
+
+<p>Эта панель - способ учета рабочего времени и решаемых задач. Доступна для всех сотрудников и имеет общий для всех функционал. В обычном виде она свернута на Панель статусов:</p>
+
+<p><img height="22" border="0" width="243" src="cid:resources/res166/OG6vP.gfWWS.work_day_1.png" /></p>
+
+<p>На свернутой панели сотрудник увидит:</p>
+
+<ul>
+<li>Кнопку развертывания инструмента в полный вид;</li>
+<li>Очередное событие (если задано);</li> 
+<li>Текущее время;</li> 
+<li>Прошедшее рабочее время текущего дня;</li> 
+<li>Количество незакрытых задач этого дня.</li>
+ </ul>
+
+<p>Полный вид инструмента и работа с ним описана в уроке <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2357" target="_blank">Рабочий день</a>.</p>
+
+<h4>Отчет по рабочему времени</h4>
+
+<p>Страница видна по разному для сотрудников и для руководителей. Так же отличается и функционал.</p>
+
+<p>Сотрудник только видит данные только по своим рабочим дням (либо отдела - зависит от настроек, заданных администратором), изменить ничего не может:</p>
+<p><a href="javascript:ShowImg('/images/portal_user/timeman/report_1.png',979,223,'Отчет об использовании рабочего времени')">
+  <img height="136" border="0" width="600" src="cid:resources/res166/JJoyC.rTBsv.report_1_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a> </p>
+
+
+
+<p>Руководители могут видеть отчеты по рабочим дням как своих отделов, так и подотделов, - это зависит от настроек, заданных администратором. Работа руководителей по учету времени описана в уроке <a href="https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2358" target="_blank">Отчет по рабочему времени</a>.</p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>100</edge_sort>
+<id>175</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

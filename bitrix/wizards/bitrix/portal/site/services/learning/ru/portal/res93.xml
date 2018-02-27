@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>100</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>200</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Типовые бизнес-процессы</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<div class="note"><b>Типовые бизнес-процессы</b> - образцы часто используемых процессов, которые включены в состав продуктов «1C-Битрикс», содержащих модуль <b>Бизнес-процессы</b>.
+</div>
+<p>Типовые бизнес-процессы включены в состав младших редакций: <a href="http://www.1c-bitrix.ru/products/intranet/editions/company.php" target="_blank" />«1С-Битрикс: Корпоративный портал - Компания»</a> и <a href="http://www.1c-bitrix.ru/products/intranet/editions/teamwork.php" target="_blank" />«1С-Битрикс: Корпоративный портал - Совместная работа»</a> как неизменяемые процессы. Их можно настроить на работу с нужными сотрудниками, но нельзя изменить схему прохождения документа. </p>
+
+<p>Изменение шаблонов типовых бизнес-процессов, а также создание собственных шаблонов возможно только при наличии модуля <a href="/learning/course/index.php?COURSE_ID=45&CHAPTER_ID=821">Дизайнер бизнес-процессов</a>, который доступен только в старших редакциях <a href="http://www.1c-bitrix.ru/products/intranet/editions/business.php" target="_blank" />«1С-Битрикс: Корпоративный портал - Бизнес-процессы</a> и <a href="http://www.1c-bitrix.ru/products/intranet/editions/holding.php" target="_blank" />«1С-Битрикс: Корпоративный портал - Холдинг</a>. </p>
+
+
+<menu id="topictoc">
+  <li><a href="#bizproc_docs">Типовые бизнес-процессы для документов</a></li>
+  <li><a href="#bizproc_org">Типовые бизнес-процессы организации</a></li>
+  <li><a href="#bizproc_create">Создание шаблонов типовых бизнес-процессов</a></li>
+  <li><a href="#bizproc_del">Удаление шаблонов типовых бизнес-процессов</a></li>
+</menu>
+
+
+<br />
+<a name="bizproc_docs"></a><h4>Типовые бизнес-процессы для документов</h4>
+
+<table border="0"> 
+<tr><td colspan="3"><ul><li><b>Двухэтапное утверждение</b> (последовательный процесс)</li></ul></td></tr>
+<tr><td><ul><a href="javascript:ShowImg('/images/portal_user/bizproc/big/bizproc1.png',500,688,'Двухэтапное утверждение')"><img src="cid:resources/res93/fJYFo.zN716.bizproc1_sm.png" style="cursor: pointer;" alt="Нажмите на рисунок, чтобы увеличить" border="0" height="138" width="100"></a><ul></td>
+<td></td>
+<td valign="top">Рекомендуется для ситуаций утверждения документа с предварительной экспертной оценкой. В рамках процесса на первом этапе документ утверждается экспертом. Если им документ не утвержден, то он возвращается на доработку. Если утвержден, то документ передается для принятия решения группой сотрудников простым большинством голосов. Если документ не принят на втором этапе голосования, то он возвращается автору на доработку и повторяется процесс утверждения.</td></tr>
+
+<tr><td colspan="3"><ul><li><b>Экспертная оценка</b> (последовательный процесс)
+</li><ul></td></tr>
+<tr><td><ul><a href="javascript:ShowImg('/images/portal_user/bizproc/big/bizproc2.png',211,373,'Экспертная оценка')"><img src="cid:resources/res93/9rlE3.IFay1.bizproc2_sm.png" style="cursor: pointer;" alt="Нажмите на рисунок, чтобы увеличить" border="0" height="177" width="100"></a><ul></td>
+<td></td>
+<td valign="top">Рекомендуется для ситуаций, когда для принятия решения по документу лицу, принимающему решение, нужна экспертная оценка по документу. В рамках процесса назначается экспертная группа, каждый участник которой может высказать свое мнение по документу. Мнения передаются лицу, принимающему решение, который утверждает или нет документ.</td></tr>
+
+<tr><td colspan="3"><ul><li><b>Ознакомление с документом</b> (последовательный процесс)
+</li><ul></td></tr>
+<tr><td><ul><a href="javascript:ShowImg('/images/portal_user/bizproc/big/bizproc3.png',566,622,'Ознакомление с документом')"><img src="cid:resources/res93/IySel.W29QU.bizproc3_sm.png" style="cursor: pointer;" alt="Нажмите на рисунок, чтобы увеличить" border="0" height="110" width="100"></a><ul></td>
+<td></td>
+<td valign="top">Предназначен для ситуаций, когда группу сотрудников нужно ознакомить с каким-то документом. В рамках процесса задается группа работников, которая должна быть поставлена в известность. Дается право оставлять комментарии.</td></tr>
+
+<tr><td colspan="3"><ul><li><b>Простое утверждение/голосование</b> (последовательный процесс)
+</li><ul></td></tr>
+<tr><td><ul><a href="javascript:ShowImg('/images/portal_user/bizproc/big/bizproc4.png',207,192,'Простое утверждение/голосование')"><img src="cid:resources/res93/pxwKy.yCLbg.bizproc4_sm.png" style="cursor: pointer;" alt="Нажмите на рисунок, чтобы увеличить" border="0" height="93" width="100"></a><ul></td>
+<td></td>
+<td valign="top">Рекомендуется для ситуаций, когда требуется принятие решения простым большинством голосов. В его рамках можно включить в список голосующих нужных сотрудников, дать возможность комментировать свое решение голосовавшим. По окончании голосования всем участникам сообщается принятое решение.</td></tr>
+
+<tr><td colspan="3"><ul><li><b>Утверждение документа со статусами</b> (бизнес-процесс со статусами)
+</li><ul></td></tr>
+<tr><td><ul><a href="javascript:ShowImg('/images/portal_user/bizproc/big/bizproc5.png',725,332,'Утверждение документа со статусами')"><img src="cid:resources/res93/l0iem.Rf80g.bizproc5_sm.png" style="cursor: pointer;" alt="Нажмите на рисунок, чтобы увеличить" border="0" height="46" width="100"></a><ul></td>
+<td></td>
+<td valign="top">Прохождение документом цепочки утверждения со статусами.</td></tr>
+
+<tr><td colspan="3"><ul><li><b>Публикация на подключенных сайтах</b> (последовательный процесс, который доступен только в старших редакциях <b>Бизнес-процессы</b> и <b>Холдинг</b>)
+</li><ul></td></tr>
+<tr><td><ul><a href="javascript:ShowImg('/images/portal_user/bizproc/big/bizproc6.png',481,622,'Публикация на подключенных сайтах')"><img src="cid:resources/res93/OdXOx.3mR3N.bizproc6_sm.png" style="cursor: pointer;" alt="Нажмите на рисунок, чтобы увеличить" border="0" height="129" width="100"></a><ul></td>
+<td></td>
+<td valign="top">Позволяет опубликовать элемент инфоблока на подключенных сайтах. Документ предварительно публикуется на сайте контроллера.</td></tr>
+
+<tr><td colspan="3"><ul><li><b>Утверждение по первому голосу</b> (последовательный процесс)
+</li><ul></td></tr>
+<tr><td><ul><a href="javascript:ShowImg('/images/portal_user/bizproc/big/bizproc7.png',350,631,'Утверждение по первому голосу')"><img src="cid:resources/res93/cLBpw.UGD7e.bizproc7_sm.png" style="cursor: pointer;" alt="Нажмите на рисунок, чтобы увеличить" border="0" height="180" width="100"></a><ul></td>
+<td></td>
+<td valign="top">Рекомендуется для ситуаций, когда достаточно одного экспертного мнения из некоторого сообщества. В рамках этого процесса задается список сотрудников, имеющих право принять решение в уведомлением о начавшемся процессе. Процесс считается завершенным по первому отозвавшемуся сотруднику.</td></tr>
+</table>
+
+
+<br /><br />
+<a name="bizproc_org"></a><h4>Типовые бизнес-процессы организации</h4>
+
+<p>Для автоматизации бизнес-процессов организации в поставку модуля входят два типовых шаблона:</p>
+
+<table border="0">
+<tr><td colspan="3"><ul><li><b>Командировки</b> (последовательный процесс)</li></ul></td></tr>
+<tr><td><ul><a href="javascript:ShowImg('/images/portal_user/bizproc/big/bizproc_comand.png',358,700,'Командировки')"><img src="cid:resources/res93/1300M.YgnKb.bizproc_comand_sm.png" style="cursor: pointer;" alt="Нажмите на рисунок, чтобы увеличить" border="0" height="196" width="100"></a><ul></td>
+<td></td>
+<td valign="top">Используется для оформления командировки. В процессе оформления командировки сначала происходит ее утверждение руководителем, затем выполняется оформление необходимых документов, а по окончании командировки составляется подробный отчет.</td></tr>
+
+<tr><td colspan="3"><ul><li><b>Отпуск</b> (последовательный процесс)
+</li><ul></td></tr>
+<tr><td><ul><a href="javascript:ShowImg('/images/portal_user/bizproc/big/bizproc_otp.png',352,700,'Отпуск')"><img src="cid:resources/res93/8BtKL.Nq1mL.bizproc_otp_sm.png" style="cursor: pointer;" alt="Нажмите на рисунок, чтобы увеличить" border="0" height="199" width="100"></a><ul></td>
+<td></td>
+<td valign="top">Используется для подачи заявки на отпуск. Отпуск будет оформлен только в случае успешного прохождения цикла согласования.</td></tr>
+</table>
+
+<br /><br />
+<a name="bizproc_create"></a><h4>Создание шаблонов типовых бизнес-процессов</h4>
+
+<p>Типовые типовые шаблоны бизнес-процессов создаются автоматически при установке продуктов <b>«1C-Битрикс»</b>. Если по каким-либо причинам типовые процессы не были созданы при установке, то в таблице списка появится надпись:</p>
+
+<ul>
+
+<p><img src="cid:resources/res93/Nb19G.fkj8s.bizproc_templ_1_sm.png" width="600" height="143" border="0" /></p>
+
+<li>Нажмите на ссылку <b>Создать стандартные бизнес-процессы</b>. Запустится процесс создания шаблонов и отобразится список с типовыми шаблонами:</li>
+
+<p><img src="cid:resources/res93/iPdPV.DveRm.bizproc_templ_2_sm.png" width="600" height="347" border="0" /></p>
+
+</ul>
+
+
+<br /><br />
+
+
+<a name="bizproc_del"></a><h4>Удаление шаблонов типовых бизнес-процессов</h4>
+
+<ul>
+
+<li>Для удаления шаблона бизнес-процесса используйте пункт меню действий <b>Удалить</b>:</li>
+
+<p><img src="cid:resources/res93/Fq9b0.Qp0As.bizproc_del.png" width="316" height="273" border="0" /></p>
+
+<div class="warning"><b>Важно:</b> удалить шаблон незавершенного бизнес-процесса нельзя.</div>
+
+</ul> ]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>200</edge_sort>
+<id>100</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

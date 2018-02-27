@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="CHA"><lesson_id>92</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>3</childs_cnt>
+<is_childs>1</is_childs>
+<sort>200</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Коллективная работа с документами</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>В состав <b>«1С-Битрикс: Корпоративный портал»</b> разных редакций входят два модуля, обеспечивающих коллективную работу с документами в рамках этого продукта:</p>
+<ul>
+<li>Модуль <a href="/learning/course/index.php?COURSE_ID=45&CHAPTER_ID=820" target="_blank" />Документооборот</a> предназначен для организации последовательной обработки статических страниц, а также динамической составляющей сайта. Входит во все редакции. </li>
+<li>Модуль <a href="/learning/course/index.php?COURSE_ID=45&CHAPTER_ID=819" target="_blank" />Бизнес-процессы</a> предназначен для организации как последовательной обработки элементов инфоблоков (отдельный линейный процесс с ограничением по времени), так и для создания статусных схем сложных статусных процессов с неопределенным периодом действия. Входит в виде <b>Типовых процессов</b> в младшие редакции и в полном объеме функционала в старшие редакции «1С-Битрикс: Корпоративный портал»: <b>Бизнес-процессы</b> и <b>Холдинг</b>.</li>
+</ul>
+
+
+<p>Выбор типа документооборота для того или иного вида документов должен осуществляться организационно - руководителем, технически это исполняет администратор портала.</p>
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>200</edge_sort>
+<id>92</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

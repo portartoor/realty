@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>14</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>100</sort>
+<timestamp_x>1422877378</timestamp_x>
+<date_create>1422877378</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Структура страниц портала</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>После авторизации сотрудник попадает на <b>Главную страницу</b> портала. Главная страница - это страница, куда выводится текущая информация по событиям вашей компании. (Ее информационная зона может отличаться от представленной на скриншоте, так как администраторы могут размещать на ней разные блоки информации в разной последовательности и комплектации.)</p> 
+
+<p>Рассмотрим структуру страницы портала на примере главной страницы. На какую бы страницу портала вы не попадете, везде будет соблюдаться описанная ниже структура.</p>
+
+<p><a href="javascript:ShowImg('/images/portal_user/base/main_page.png',1171,632,'Редактирование пунктов меню')">
+  <img height="323" border="0" width="600" src="cid:resources/res5/rxO4S.SzWer.main_page_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a> </p>
+
+<p>Страница состоит из различных зон:</p>
+<ol>
+<li><b>Панель статусов</b> - отображаются текущие <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2194" target="_blank">статусы</a>.</li>
+<li><b>Логотип и название компании</b>.</li>
+<li><b>Строка поиска</b> - строка для ввода данных для <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2191" target="_blank">поиска</a> по содержанию портала.</li>
+<li><b>Главное меню</b> - меню, присутствующее на всех страницах портала.</li>
+<li><b>Информационная зона</b> - место, куда выводится информация текущей страницы. Меняется в зависимости от страницы и от прав сотрудника.</li>
+<li><b>Личное меню</b> - меню для перехода на страницы вашего раздела <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&CHAPTER_ID=788" target="_blank">Личная страница</a>. Может сворачиваться в более компактный вид.</li>
+<li><b>Боковое меню</b> - меню для управления информацией, выводимой в <b>Информационной зоне</b>. Меняется в зависимости от страницы и от прав сотрудника.</li>
+</ol>
+
+<p></p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>100</edge_sort>
+<id>14</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

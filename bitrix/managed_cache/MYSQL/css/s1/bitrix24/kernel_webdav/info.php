@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/bitrix/js/webdav/css/file_dialog.css" => "15197274677677",), 'CUR_SEL_CNT' => '71', 'CUR_IE_CNT' => '0'); ?>

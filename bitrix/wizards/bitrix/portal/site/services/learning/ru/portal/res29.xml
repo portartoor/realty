@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="CHA"><lesson_id>43</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>3</childs_cnt>
+<is_childs>1</is_childs>
+<sort>200</sort>
+<timestamp_x>1422877378</timestamp_x>
+<date_create>1422877378</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Календарь</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>С помощью ссылки <b>Календарь</b> вы можете организовать несколько собственных календарей, события которых можно просматривать на одной сетке. Раздел <b>Календарь</b> содержит следующие области:</p>
+
+<p><a href="javascript:ShowImg('/images/portal_user/personal_page/calendar/profile_calendar.png',867,1089,'Страница &quot;Календарь&quot;')">
+<img src="cid:resources/res29/Ui2mG.HLRWv.profile_calendar_sm.png" alt="Нажмите на рисунок, чтобы увеличить" width="500" height="628" border="0" /></a></p>
+
+
+<table border="0" width="100%">
+ <tbody>
+   <tr><td><font color="#00ff33"><b>1</b></font> - список календарей сотрудника;</td></tr>
+   <tr><td><font color="#0000ff"><b>2</b></font> - список избранных календарей;</td></tr>
+   <tr><td><font color="#000000"><b>3</b></font> - синхронизация календарей;</td></tr>
+   <tr><td><font color="#ff0000"><b>4</b></font> - сетка календаря;</td></tr>
+   <tr><td><font color="#9900cc"><b>5</b></font> - управление событиями и настройка календаря:</td></tr>
+ </tbody>
+</table>
+
+<ul>
+  <li><img src="cid:resources/res29/BN3s6.hErFa.profile_calendar_event_plus.png" border="0" height="20" width="20"> - позволяет добавить <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2313#way_2">новое событие</a>;</li>
+  <li><img src="cid:resources/res29/sgSuT.2IZkz.profile_calendar_event_plan.png" border="0" height="20" width="20"> - позволяет добавить новое событие с использованием <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2313#event_plan">планировщика событий</a>;</li>
+  <li><img src="cid:resources/res29/EChQI.o2N4m.profile_calendar_settings.png" border="0" height="20" width="20"> - переход к пользовательским настройкам календаря.</li>
+
+    <p><div class="hint"><b>Примечание</b>: форма <b>Пользовательские настройки</b> позволяет:
+    <p><img src="cid:resources/res29/nt1bh.68x2z.profile_calendar_user_settings.png" border="0" width="422" height="157" alt="Пользовательские настройки календаря"></p>
+    <ul>
+      <li>указать <b>Календарь для приглашений</b> - если сотрудника приглашают принять участие в каком-либо событии, то это событие будет добавлено в указанный календарь;</li>
+	  <li>задать способ отображения неподтвержденных событий - если отметить опцию <b>Использовать визуальное выделение (мигание) неподтвержденных событий</b>, то неподтвержденные события будут визуально выделены (будут мигать);</li>
+    </ul>
+	
+	<br>
+	
+	<p>С помощью формы <b>Пользовательские настройки</b> можно также вернуть случайно закрытый баннер синхронизации календарей:</p>
+      <p><img src="cid:resources/res29/kCJZT.Qb7Ie.banner_close.png" border="0" width="365" height="139"></p>
+	
+	<p>Для этого используйте ссылку <b>Очистить настройки</b> и затем нажмите кнопку <b>Сохранить</b>. Баннер появится после перезагрузки страницы.</p>
+      <p><img src="cid:resources/res29/iEnWc.4aYXz.banner_restore.png" border="0" width="422" height="157"></p>
+  </div></p>
+     
+</ul>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>200</edge_sort>
+<id>43</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>17</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877378</timestamp_x>
+<date_create>1422877378</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Панель статусов</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p><b>Панель статусов </b> расположена у верхней границы, рядом с инструментом учета рабочего времени <b>Рабочий день</b>:</p>
+<p><img height="103" border="0" width="515" src="cid:resources/res13/lWZeo.eVGsx.status_1.png" /></p>
+
+<p>Панель отображает статусы:</p>
+<ul>
+<li><img height="17" border="0" width="135" src="cid:resources/res13/1pRWO.cXhpW.status_extranet.png" /> Переход к другим проектам компании (Экстранет, интернет-сайт) - для редакций <b>Совместная работа</b> и выше;</li>
+<li><img height="17" border="0" width="147" src="cid:resources/res13/JHSQQ.gooOn.status_filial.png" /> Переход к подразделениям компании - для редакции <b>Холдинг</b>;</li> 
+<li><img height="12" border="0" width="15" src="cid:resources/res13/fcZYl.0aEMY.status_mail.png" /> - наличие и количество почтовых сообщений  (при наличии соединения с MS Exchange);</li> 
+<li><img height="13" border="0" width="15" src="cid:resources/res13/tm2d2.NILPe.status_jaber.png" /> - наличие и количество сообщений в корпоративном чате;</li>
+<li><img height="14" border="0" width="15" src="cid:resources/res13/W3uBh.yUJLx.status_bussnes.png" /> - наличие и количество невыполненных заданий бизнес-процессов;</li> 
+<li><img height="12" border="0" width="12" src="cid:resources/res13/1FCbx.m0k0Z.status_live.png" /> - наличие и количество сообщений в Живой ленте.</li>
+ </ul>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>17</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>142</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Обмен сообщениями</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Эта страница не позволит вам обмениваться сообщениями с другими сотрудниками портала, но на ней вы сможете узнать о серверах портала и приложениях, с помощью которых вы можно осуществить общение в реальном времени. </p>
+
+<p><img src="cid:resources/res133/nw0Oc.gj8nz.xmtp.png" width="747" height="615"></p> 
+
+<p>На странице <b>Обмен сообщениями</b> вы узнаете о сервере XMPP, работающем через протокол JABBER и интернет-мессенджерах <i>QIP</i> и <i>Miranda</i>, а также о том, как их настроить на работу с сервером.</p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>142</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

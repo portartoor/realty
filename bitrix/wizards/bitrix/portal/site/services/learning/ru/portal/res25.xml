@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>40</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>200</sort>
+<timestamp_x>1422877378</timestamp_x>
+<date_create>1422877378</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Загрузка фотографий</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Теперь перейдем к загрузке фотографий в альбом. Для этого перейдем к просмотру альбома и воспользуемся ссылкой <b>Загрузить фотографии</b>.</p>
+
+ <p><img src="cid:resources/res25/GcDai.K85MZ.upload_photo_link.png" alt="Ссылка &quot;Загрузить фотографии&quot;" border="0" width="279" height="152" /></p>
+
+<p>При загрузке используется технология <b>Java</b> и элемент управления <b>ActiveX: &quot;Bitrix Image Uploader&quot;</b>. Это позволяет быстро загружать файлы, не осуществляя поиск на диске и не вводя имена и свойства файлов в явном виде. Когда фотографии загружаютcя в системе впервые, то выводится сообщение о необходимости установить <b>Bitrix uploader</b>.</p>
+
+<img src="cid:resources/res25/uZhYZ.bAf3z.bitrix_uploader.png" alt="Предупреждение системы безопасности" border="0" width="496" height="236" />
+
+
+<p>Нажмите установить и дождитесь завершения процесса установки.</p>
+
+
+
+<p>После чего откроется форма загрузки фотографий:</p>
+
+ <p><img src="cid:resources/res25/dghUq.LPea0.upload_photo_form.png" alt="Форма загрузки фотографий" border="0" width="691" height="662" /></p>
+
+<br>
+
+<p>Загрузка фотографий возможна в двух режимах: загрузка по одной фотографии и множественная загрузка. При множественном способе загрузки фотографий вы можете добавить целиком содержимое папки (кнопка <b>Добавить папку</b>), выбрав ее в дереве папок на диске. </p>
+
+ <p><img src="cid:resources/res25/vS9Ki.P3Aft.upload_photo_form_a_1.png" alt="Форма множественной загрузки фотографий" border="0" width="697" height="670" /></p>
+
+<p>Вы также можете выборочно добавлять фотографии из различных директорий на диске по кнопке <b>Добавить файлы</b>.
+
+В форме множественной загрузки фотографий доступны следующие возможности форматирования:</p>
+
+<ul>
+  <li>поворот фотографий по- и против часовой стрелки;</li>
+  <li>удаление фотографий;</li>
+  <li>выбор альбома, в который будет загружена текущая группа фотографий.</li>
+  <li>выбор размера отправляемых фотографий; доступны следующие размеры фотографий:</li>
+     <ul>
+       <li>оригинал;</li>
+       <li>1024х768;</li>
+       <li>800х600;</li>
+       <li>640х480;</li>
+     </ul>
+   <li>добавление авторского знака; здесь может быть введено любое слово или символ, который будет добавлен на фото.</li>
+</ul>
+
+<p>Выделенная в данный момент фотография отображается в правой части формы и для данной фотографии может быть введено:</p>
+
+<ul>
+  <li>название, под которым данная фотография будет числиться в альбоме;</li>
+  <li>в поле <b>Теги</b> указывается ключевое слово (слова), которое будет использоваться в облаке тегов;</li>
+  <li>произвольное описание для фотографии.</li>
+</ul>
+
+<p>По кнопке <b>Загрузить</b> все фотографии из рабочей области, будут загружены в альбом.</p>
+
+ <p><img src="cid:resources/res25/WcbOt.I1G0X.upload_progress.png" alt="Процесс загрузки фотографий" border="0" width="426" height="182" /></p>
+
+<p>Причем вне зависимости от формата добавляемых фотографий в альбом они будут загружены в формате <b>*.jpg</b>. В процессе загрузки каждая фотография генерируется в трех видах:</p>
+
+<ul>
+  <li>предпросмотр (эскиз или анонс) - минимальный размер;</li>
+  <li>просмотр (средний размер);</li>
+  <li>оригинал (максимальный размер).</li>
+</ul>
+
+<p>Ссылка <b>Перейти в простой режим загрузки</b> служит для перехода к форме индивидуальной загрузки фотографий. </p>
+
+
+ <p><img src="cid:resources/res25/9GJjv.PnW9c.change_upload_type_sm.png" alt="Ссылка &quot;Перейти в простой режим загрузки&quot;" border="0" width="620" height="128" /></p>
+
+<p>Для каждой фотографии имеется своя мини-форма загрузки следующего вида:</p>
+
+ <p><img src="cid:resources/res25/MWIaA.xdJQC.upload_photo_form_b_1.png" alt="Форма индивидуальной загрузки фотографий" border="0" width="678" height="522" /></p>
+
+<p>По кнопке <b>Загрузить фотографии</b> будут загружены в указанный альбом.</p>
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>200</edge_sort>
+<id>40</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

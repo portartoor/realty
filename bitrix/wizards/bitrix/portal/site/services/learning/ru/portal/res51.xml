@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>37</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>900</sort>
+<timestamp_x>1422877378</timestamp_x>
+<date_create>1422877378</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Файлы</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>На странице <b>Файлы</b> содержится ваш персональный файловый архив, доступ к которому для других сотрудников вы можете определить самостоятельно в своих личных настройках (<span class="path">раздел <b>Основное</b> - ссылка <a href = "/learning/course/index.php?COURSE_ID=45&LESSON_ID=2249#change_func_access">Изменить настройки</a></span>):</p>
+
+
+<p><a href="javascript:ShowImg('/images/portal_user/personal_page/user_profile_files.png',946,509,'Файлы')">
+<img src="cid:resources/res51/zLTo8.WdC3N.user_profile_files_sm.png" alt="Нажмите на рисунок, чтобы увеличить" width="610" height="328" border="0" /></a></p>
+
+
+<p>Операции с файлами на личной странице сотрудника аналогичны операциям, рассмотренным в разделе <a href="/learning/course/index.php?COURSE_ID=45&CHAPTER_ID=792">Документы</a>.</p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>900</edge_sort>
+<id>37</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

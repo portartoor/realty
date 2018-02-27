@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>160</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Список сделок</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>На данной странице представлен список всех сделок:</p>
+
+<p><a href="javascript:ShowImg('/images/portal_user/crm/deal_list.png',1051,397,'Список сделок')">
+<img height="226" border="0" width="600" src="cid:resources/res151/Z0YkD.829ho.deal_list_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a>
+</p>
+
+<h3>Просмотр сделки</h3>
+
+<p>Просмотр любой сделки осуществляется аналогично <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2342">просмотру контакта</a>.</p>
+
+
+<h3>Меню действий</h3>
+
+<p>Помимо <b>Просмотреть</b>, меню действий включает в себя следующие пункты: <b>Добавить событие</b>, <b>Редактировать</b>, <b>Удалить</b>.</p>
+
+<h4>Добавить событие</h4>
+<p>Добавление события описано в уроке <a href="https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&CHAPTER_ID=869">События</a>.</p>
+
+
+<h4>Редактировать</h4>
+
+<p>После клика по данному пункту появится форма редактирования сделки, включающая в себя две вкладки: <b>Сделка</b> и <b>События</b>:</p>
+<p><a href="javascript:ShowImg('/images/portal_user/crm/deal_edit.png',813,280,'Редактирование сделки')">
+<img height="206" border="0" width="600" src="cid:resources/res151/eLENs.T5YyM.deal_edit_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a>
+</p>
+
+<p>О значениях полей формы редактирования сделки вы можете подробнее узнать в уроке <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2405">Добавить сделку</a>.</p>
+
+<p>На вкладке <b>События</b> расположена таблица с перечнем действий, производимых над параметрами сделки, а также события, добавленные к ней.</p>
+
+
+<h4>Удалить</h4>
+<p>Процедура удаления сделки аналогична удалению <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2350#delete">лида</a>.</p>
+
+
+<h4>Экспорт сделок</h4>
+<p>Процесс экспорта аналогичен экспорту, описанному в уроке <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2309#export_excel">Поиск сотрудника</a>. </p>
+
+
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>160</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

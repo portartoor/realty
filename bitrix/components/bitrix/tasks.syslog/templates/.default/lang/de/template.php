@@ -1,0 +1,10 @@
+<?
+$MESS["TASKS_CSL_T_MESSAGE_TYPE_1"] = "Benachrichtigung";
+$MESS["TASKS_CSL_T_MESSAGE_TYPE_2"] = "Warnung";
+$MESS["TASKS_CSL_T_MESSAGE_TYPE_3"] = "Fehler";
+$MESS["TASKS_CSL_T_NO_ERROR"] = "Nein";
+$MESS["TASKS_CSL_T_COL_TYPE"] = "Typ";
+$MESS["TASKS_CSL_T_COL_DATE"] = "Datum";
+$MESS["TASKS_CSL_T_COL_MESSAGE"] = "Nachricht";
+$MESS["TASKS_CSL_T_COL_ERRORS"] = "Fehler";
+?>

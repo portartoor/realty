@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="CHA"><lesson_id>98</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>6</childs_cnt>
+<is_childs>1</is_childs>
+<sort>200</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Бизнес-процессы</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p><div class="note"><b>Бизнес-процесс</b> - это процесс обработки документа, для которого задана одна точка входа и несколько точек выхода и последовательность действий (шагов, этапов, функций), совершаемых в заданном порядке и в определенных условиях.</div></p>
+
+<p>Модуль <b>Бизнес-процессы</b>, входящий во все редакции продукта &laquo;1С-Битрикс: Корпоративный портал&raquo;, предназначен для управления бизнес-процессами, которые происходят в компании и контролируются на портале.</p> 
+
+<p>Модуль <b>Бизнес-процессы</b> интегрирован с модулями <b>Библиотека документов</b> и <b>Информационные блоки</b> и включает в себя <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2274" target="_blank" />типовые шаблоны бизнес-процессов</a>, позволяющие согласовать, утвердить и опубликовать некоторый документ, а также автоматизировать бизнес-процессы организации.</p>
+
+<p><div class="warning"><b>Обратите внимание,</b> что создание и редактирование шаблонов бизнес-процессов <b>не</b> выполняется в рамках модуля <b>Бизнес-процессы</b>. Для этого служит модуль <a href="/learning/course/index.php?COURSE_ID=45&CHAPTER_ID=821" target="_blank" />Дизайнер бизнес-процессов</a>, который входит только в старшие редакции <b>Бизнес-процессы</b> и <b>Холдинг</b> продукта &laquo;1С-Битрикс: Корпоративный портал&raquo;.</div></p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>200</edge_sort>
+<id>98</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

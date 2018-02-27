@@ -1,0 +1,30 @@
+<?
+$MESS["MAIN_UI_FILTER__YES"] = "Так";
+$MESS["MAIN_UI_FILTER__NO"] = "Ні";
+$MESS["MAIN_UI_FILTER__NONE"] = "Будь-яка дата";
+$MESS["MAIN_UI_FILTER__TODAY"] = "Сьогодні";
+$MESS["MAIN_UI_FILTER__YESTERDAY"] = "Вчора";
+$MESS["MAIN_UI_FILTER__THIS_WEEK"] = "Поточний тиждень";
+$MESS["MAIN_UI_FILTER__LAST_WEEK"] = "Минулий тиждень";
+$MESS["MAIN_UI_FILTER__THIS_MONTH"] = "Поточний місяць";
+$MESS["MAIN_UI_FILTER__LAST_MONTH"] = "Минулий місяць";
+$MESS["MAIN_UI_FILTER__DAYS"] = "За останні (днів)";
+$MESS["MAIN_UI_FILTER__SINGLE"] = "Точна дата";
+$MESS["MAIN_UI_FILTER__RANGE"] = "Свій діапазон";
+$MESS["MAIN_UI_FILTER__BEFORE"] = "Раніше ніж";
+$MESS["MAIN_UI_FILTER__AFTER"] = "Пізніше ніж";
+$MESS["MAIN_UI_FILTER__NUMBER_SINGLE"] = "Точно";
+$MESS["MAIN_UI_FILTER__NUMBER_RANGE"] = "Діапазон";
+$MESS["MAIN_UI_FILTER__NUMBER_MORE"] = "Більше ніж";
+$MESS["MAIN_UI_FILTER__NUMBER_LESS"] = "Менше ніж";
+$MESS["MAIN_UI_FILTER__DEFAULT_FILTER_NAME"] = "Фільтр";
+$MESS["MAIN_UI_FILTER__FILTER_ID_NOT_SET"] = "Не встановлено обов'язковий параметр FILTER_ID";
+$MESS["MAIN_UI_FILTER__DEFAULT_FILTER_TITLE"] = "Фільтр";
+$MESS["MAIN_UI_FILTER__AND"] = "і";
+$MESS["MAIN_UI_FILTER__MORE"] = "ще";
+$MESS["MAIN_UI_FILTER__PLACEHOLDER_DEFAULT"] = "Фільтр + пошук";
+$MESS["MAIN_UI_FILTER__PLACEHOLDER_WITH_FILTER"] = "пошук";
+$MESS["MAIN_UI_FILTER__NOT_SET"] = "Не вказаний";
+$MESS["MAIN_UI_FILTER__DATE_PLACEHOLDER"] = "дд.мм.рррр";
+$MESS["MAIN_UI_FILTER__QUARTER"] = "Квартал";
+?>

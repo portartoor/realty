@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>155</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Добавить компанию</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>При переходе по ссылке <b>Добавить компанию</b>, откроется форма добавления компании:</p>
+<img src="cid:resources/res146/tacw3.lWOCl.add_company.png" width="657" height="518">
+
+<p>Также добавить компанию можно, нажав на кнопку <img src="cid:resources/res146/7cr2R.Tb4eu.button_add_comp.png" width="165" height="32"> на контекстной панели страницы <b>Список компаний</b>.</p>
+<br>
+
+<p>Заполните следующие поля:</p>
+<p><b>Название компании</b> - единственное обязательное к заполнению поле, введите как называется добавляемая компания.</p>
+
+<p><b>Логотип</b> - нажмите <b>Обзор</b> и выберите картинку, представляющую эту компанию.</p>
+
+<p><b>Тип компании</b> - нажмите <img src="cid:resources/res146/oe3vU.Q02RH.down.png" width="20" height="22"> и укажите к какому типу относится добавляемая компания (по умолчанию выставлено <b>Клиент</b>):</p>
+<img src="cid:resources/res146/Wsk67.p02Eb.kind_of_company.png" width="100" height="164">
+
+<p><b>Сфера деятельности</b> - нажмите <img src="cid:resources/res146/KTMFv.QjbXI.down.png" width="20" height="22"> и укажите тип деятельности, которой занимается добавляемая компания (по умолчанию выставлено <b>Информационные технологии</b>):</p>
+<img src="cid:resources/res146/MpXaf.j3FG9.kind_of_work.png" width="200" height="196">
+
+<p><b>Кол-во сотрудников</b> - нажмите <img src="cid:resources/res146/I9D23.nG9tG.down.png" width="20" height="22"> и укажите приблизительное число сотрудников, работающих в данной компании (по умолчанию выставлено <b>менее 50</b>):</p>
+<img src="cid:resources/res146/JUi4Q.yKh8Q.count_of_clercks.png" width="83" height="84">
+
+
+<p><b>Годовой оборот</b> - с помощью цифр укажите годовой денежный оборот компании. Если данное поле оставить пустым, или заполнить словесными обозначениями, годовой оборот будет отображаться как 0.</p>
+
+<p><b>Валюта</b> - нажмите <img src="cid:resources/res146/fGvpL.rg7vT.down.png" width="20" height="22"> и выберите валюту, в которой вы указываете годовой оборот (по умолчанию выставлено <b>Рубль</b>):</p>
+<img src="cid:resources/res146/IQ6ZE.FSt7g.rub.png" width="101" height="69">
+
+<p><b>Комментарий</b> - введите свой комментарий свободного характера.</p>
+
+<p><b>Контакты компании</b> - укажите контакты, относящиеся к данной компании. Как это сделать описано в уроке <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2405">Добавить сделку</a>.
+</li>
+</ul>
+
+
+<p>Остальные поля описаны в уроке <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2341">Добавить контакт</a>, либо очевидны из названия.</p>
+<br>
+
+
+<h3>Создание компании из формы добавленияредактирования контакта</h3>
+
+<p>При добавлении нового контакта в CRM, либо редактировании уже существующего, вы можете вписать название компании, в которой он работает:</p>
+<img src="cid:resources/res146/cKje0.1ZUdC.add_company_from_contact.png" width="524" height="48">
+
+<p>Если компании с таким именем нет в системе, она будет создана и добавлена в список компаний. </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>155</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

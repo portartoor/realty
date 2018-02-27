@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>39</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>100</sort>
+<timestamp_x>1422877378</timestamp_x>
+<date_create>1422877378</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Создание фотоальбома</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>В фотогалерее есть возможность добавлять альбомы в общий список, а также создавать вложенные альбомы (в другой – корневой альбом), т.е. многоуровневую иерархию альбомов, если это требуется.</p>
+
+<menu id="topictoc">
+  <li><a href="#album_create">Создание альбома</a></li>
+  <li><a href="#inc_album_create">Создание вложенного альбома</a></li>
+</menu>
+
+
+<br>
+
+
+<a name="album_create"></a><p><b>Создание альбома</b></p>
+
+<p>Для добавления альбома в общий список служит ссылка <b>Добавить альбом</b>, расположенная над дополнительным меню.</p>
+
+ <p><img src="cid:resources/res24/JkD9f.MSdMk.album_add_link_1.png" alt="Ссылка &quot;Добавить альбом&quot;" border="0" width="778" height="175" /></p>
+
+<p>Задайте название альбома и по желанию - описание.</p>
+
+ <p><img src="cid:resources/res24/7dMR2.0Hmyn.album_add_name.png" alt="Форма &quot;Свойства альбома&quot;" border="0" width="568" height="391" /></p>
+
+<p>Доступ к альбому можно ограничить по паролю. Для этого отметьте опцию <b>Ограничить доступ к альбому по паролю</b> и в поле <b>Пароль</b> введите пароль, по которому будет осуществляться доступ к альбому:</p>
+
+ <p><img src="cid:resources/res24/FKE5r.wQbip.album_add_name_pass.png" alt="Форма &quot;Свойства альбома&quot;" border="0" width="568" height="352" /></p>
+
+
+<p>в результате рядом с названием альбома будет отображаться символ <b>Замок</b></p>
+
+ <p><img src="cid:resources/res24/zzjEC.wKNoi.new_album_closed.png" alt="Вид альбома с паролем" border="0" width="663" height="297" /></p>
+
+<br>
+
+<p>Если другой сотрудник захочет просмотреть этот альбом, то ему будет предложено ввести пароль:</p>
+
+ <p><img src="cid:resources/res24/SpWe1.X5UXS.closed_album_access.png" alt="Сообщение о закрытом альбоме" border="0" width="671" height="102" /></p>
+
+
+<p><div class="hint"><b>Примечание:</b> Администратор портала может просматривать и запароленные альбомы.</div></p>
+
+
+
+<br>
+
+
+
+<a name="inc_album_create"></a><p><b>Создание вложенного альбома</b></p>
+
+
+Для создания вложенного альбома, нужно перейти к просмотру того альбома, в который должен быть вложен новый альбом и воспользоваться ссылкой <b>Добавить альбом</b>.
+
+ <p><img src="cid:resources/res24/LcTp6.pUjrY.album_add_link_2.png" alt="Ссылка &quot;Добавить альбом&quot;" border="0" width="280" height="185" /></p>
+
+<p>Выполните действия по созданию альбома, описанные выше и после этого новый альбом будет создан внутри текущего.</p>
+
+ <p><img src="cid:resources/res24/2QYT8.XiatH.inc_album.png" alt="Новый вложенный альбом" border="0" width="652" height="560" /></p>
+
+
+
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>100</edge_sort>
+<id>39</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

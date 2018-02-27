@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>87</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>100</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>N</active>
+<name>Создание библиотек документов !</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>С помощью средств модулей <b>Библиотека документов</b> и <b>Информационные блоки</b> в продукте реализована возможность работы с библиотекой документов компании.</p>
+<br />
+<p>Для организации библиотеки должны быть созданы <b>тип инфоблоков</b> (например <b>Документы</b>), а для всех видов библиотек портала - <b>соответствующие инфоблоки</b>:</p>
+<p><img width="682" height="519" border="0" src="cid:resources/res77/kJfxV.YMN3U.iblock.png" /></p>
+<ul>
+  <li><b>Общие документы</b> - для коллективной библиотеки документов групп пользователей;</li>
+  <li><b>Маркетинг и продажи</b> - для хранения документов отдела маркетинга;</li>
+  <li><b>Документы для руководства</b> - для файлов руководящего состава;</li>
+  <li><b>Библиотека пользователей</b> - для организаций персональных файловых хранилищ (закладка <b>Файлы</b> на личной странице);</li>
+  <li><b>Библиотека групп</b> - для файлов рабочих групп (закладка <b>Файлы</b> на странице рабочей группы).</li>
+</ul>
+ 
+<p><div class="hint"><b>Примечание</b>: при создании инфоблока особое внимание необходимо уделить закладке <b>Доступ</b>, на которой задаются права доступа групп пользователей к инфоблоку (в данном случае к инфоблоку <b>Общие документы</b>):
+
+<p><img src="cid:resources/res77/rwjwT.ubJF9.iblock_access.png" width="697" height="504" border="0"/></p>
+
+<p>Например, изменять документы библиотеки могут только пользователи групп <b>Руководство</b> и <b>Сотрудники</b>, полный доступ имеют группы <b>Администраторы</b> и <b>Администрация портала</b>, а для остальных пользователей доступ открыт только на чтение.</p>
+
+<p>В публичной части портала закрытые для просмотра пользователю библиотеки помечаются в меню специальным знаком:</p>
+<p><img src="cid:resources/res77/49t7v.q2Ab7.closed_library.png" width="299" height="175" border="0"/></p>
+</div></p>
+
+<br />
+<h4>Размещение библиотек в публичном разделе</h4>
+
+<p>Внешнее представление и управление библиотеками документов в публичном разделе осуществляется с помощью комплексного компонента <b>Библиотека (bitrix:webdav)</b>. 
+<ul>
+<li>Разместите компонент на странице, в настройках в качестве источника выберите <b>Информационный блок</b> и укажите тип инфоблоков и инфоблок, в котором будут храниться файлы (например, <b>Документы</b> и <b>Общие документы</b> соответственно):</p>
+
+<p><img width="697" height="505" border="0" src="cid:resources/res77/FIFMz.gTRHX.webdav.png"/></p></li> 
+
+<li><p>В результате в публичной части созданная страница имеет вид:</p>
+
+<p><img width="687" height="477" border="0" src="cid:resources/res77/6UaXn.U41Gy.document_library.png" /></p></li>
+</ul>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>100</edge_sort>
+<id>87</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

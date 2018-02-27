@@ -1,0 +1,37 @@
+<?
+$MESS["WD_FILE_CREATED"] = "Створив";
+$MESS["WD_FILE_ACTIVITY"] = "Активність";
+$MESS["IBEL_E_TAB_BIZPROC"] = "Бізнес-процeси";
+$MESS["WD_CONTENT"] = "Верхній рівень";
+$MESS["IBEL_BIZPROC_RUN_CMD"] = "Виконати команду:";
+$MESS["WD_Y"] = "Так";
+$MESS["WD_HISTORY"] = "Журнал";
+$MESS["IBEL_BIZPROC_TASKS"] = "Завдання з бізнес-процесу";
+$MESS["WD_FILE_REPLACE"] = "Замінити файл";
+$MESS["WD_FILE_MODIFIED"] = "Змінений";
+$MESS["WD_FILE_COMMENTS"] = "Коментарі";
+$MESS["WD_NAME"] = "Назва";
+$MESS["IBEL_BIZPROC_RUN_CMD_NO"] = "Не виконувати";
+$MESS["WD_N"] = "Ні";
+$MESS["WD_DESCRIPTION"] = "Опис";
+$MESS["IBEL_E_PUBLISHED"] = "Опублікований:";
+$MESS["WD_WF_ORIGINAL"] = "оригінал";
+$MESS["WD_MAIN_PARAMS"] = "Основні параметри";
+$MESS["IBEL_BIZPROC_STOP"] = "Зупинити";
+$MESS["WD_OPEN_FILE"] = "Відкрити файл.";
+$MESS["WD_CANCEL"] = "Скасувати";
+$MESS["WD_WF_PARAMS"] = "Параметри документообігу";
+$MESS["WD_APPLY"] = "Застосувати";
+$MESS["WD_VIEW_FILE"] = "переглянути";
+$MESS["WD_VIEW_FILE_TITLE"] = "Переглянути властивості файлу.";
+$MESS["WD_FILE_SIZE"] = "Розмір";
+$MESS["WD_PARENT_SECTION"] = "Батьківський розділ";
+$MESS["WD_DOWNLOAD_FILE"] = "скачати";
+$MESS["WD_SAVE"] = "Зберегти";
+$MESS["WD_FILE_STATUS"] = "Статус";
+$MESS["WD_TAGS"] = "Теги";
+$MESS["WD_WF_CURRENT_VERSION"] = "Поточна версія:";
+$MESS["IBEL_BIZPROC_STATE"] = "Поточний статус:";
+$MESS["WD_FILE"] = "Файл";
+$MESS["WD_ACTIVE"] = "файл активний";
+?>

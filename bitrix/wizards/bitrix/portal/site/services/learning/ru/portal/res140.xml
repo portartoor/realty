@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>150</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Список контактов</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>При наведении курсора мыши на контакт в общем списке, он выделяется желтым цветом:</p>
+<p><img src="cid:resources/res140/iYWor.AeAiS.kontakt.png" width="771" height="113"></p>
+
+<p>Работа с таблицей страницы <b>Список контактов</b> разобраны в уроке <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2346">Форма отчета</a>.</p>
+
+<p>Двойной щелчок по любой свободной области контакта приведет к открытию страницы профиля контакта в CRM:</p>
+<p><a href="javascript:ShowImg('/images/portal_user/interface/profile.png',691,599,'Профиль контакта')">
+<img height="389" border="0" width="450" src="cid:resources/res140/wMWYL.0xNQP.profile_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;"/></a>
+</p>
+<p>О просмотре профилей  CRM смотрите в уроке <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2347">Профили</a>.</p>
+
+<p>Точно такой же результат даст щелчок левой кнопкой мыши по имени или фамилии контакта.</p>
+
+<p>Клик по названию компании откроет страницу профиля этой компании, подробнее о профилях компаний можно прочитать в уроке <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2347">Профили</a>.</p>
+
+
+<p>Если вы хотите написать электронное письмо какому-либо контакту, щелкните по значению столбца <b>Рабочий e-mail</b>, это запустит ваш почтовый клиент, где в поле адреса получателя будет прописан e-mail контакта:</p>
+<p><a href="javascript:ShowImg('/images/portal_user/crm/email.png',1082,390,'Написать письмо')">
+<img height="216" border="0" width="600" src="cid:resources/res140/cDAdk.WIKh9.email_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;"/></a>
+</p>
+
+
+<p>Щелчок по ссылке с номером телефона вызовет окно выбора приложения, с помощью которого можно осуществить сеанс связи по указанному номеру:</p>
+<p><img src="cid:resources/res140/ueAw9.FYxSf.skype.png" width="339" height="364"></p>
+<br>
+
+<h4>Контекстная панель</h4>
+
+<p>Кнопка <b>Добавить контакт</b> на контекстной панели направит вас на страницу, о которой можно узнать из урока <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2341">Добавить контакт</a>.</p>
+
+<p>О возможностях кнопки <b>Импорт контактов</b> можно прочитать в уроке <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2343">Импорт контактов</a>.</p>
+
+<p>При нажатии на кнопку <b>Экспорт контактов</b> откроется меню, предлагающее выбрать, в каком формате вы желаете сохранить данный список контактов:</p>
+<p><img src="cid:resources/res140/I4uKx.0njrw.export.png" width="437" height="112"></p>
+<p>Есть три варианта выбора:</p>
+<ul>
+<li><b>Экспорт контактов в CSV</b> - после выбора этого пункта появится диалоговое окно сохранения файла в формате <b>.csv</b>.</li>
+
+<li><b>Экспорт контактов в Excel</b> - после выбора этого пункта появится диалоговое окно сохранения файла в формате <b>.xls</b>.</li>
+
+<li><b>Экспорт контактов в Outlook</b> - выбор этого пункта позволит передать все записи таблицы списка контактов в <b>Outlook</b>.</li>
+
+<p><div class="hint"><b>Примечание</b>:  о том как осуществлять экспорт, вы можете посмотреть в уроке <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2309#add_clerk">Поиск сотрудника</a>..</div></p>
+</ul>
+
+
+<p><div class="warning"><b>Внимание! </b>Для полноценной и безошибочной интеграции с Outlook необходим минимум <b>Outlook 2007</b>.</div></p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>150</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

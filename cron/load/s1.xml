@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<requests><item>
+		<uf_source>00-00000010</uf_source>
+		<uf_operation_type/>
+		<uf_status>Открыт в продажу</uf_status>
+		<uf_realty_type>Жилая</uf_realty_type>
+		<uf_object_type>000000001</uf_object_type>
+		<uf_contragent>
+			<new>
+				<UF_PHONE>1111</UF_PHONE>
+				<UF_PHONE_1>2222</UF_PHONE_1>
+				<UF_FIO>Василий Тестовый</UF_FIO>
+				<UF_MAIL>samplemail@gmail.com</UF_MAIL>
+			</new>
+		</uf_contragent>
+		<uf_agent>259eec60-6ae1-11e2-b6b7-b74deef9eed9</uf_agent>
+		<uf_addr_block>Индекс=236011
+КодРегиона=39
+Регион=Калининградская обл
+РайонГорода=Московский р-н
+Город=Калининград г
+Улица=Батальная ул
+Страна=РОССИЯ
+КодСтраны=643</uf_addr_block>
+		<uf_addr_flat>0</uf_addr_flat>
+		<uf_add_date>2016-03-28 01:11:18</uf_add_date>
+		<uf_update_date>2016-03-28 01:11:18</uf_update_date>
+		<uf_etage>2</uf_etage>
+		<uf_etage_count>10</uf_etage_count>
+		<uf_total_square/>
+		<uf_living_square/>
+		<uf_kitchen_square/>
+		<uf_rooms/>
+		<uf_price/>
+		<uf_remont_status>000000006</uf_remont_status>
+		<uf_sanusel_type>000000011</uf_sanusel_type>
+		<uf_water/>
+		<uf_heating>000000008</uf_heating>
+		<uf_reklama/>
+		<uf_www>Нет</uf_www>
+		<uf_comment/>
+		<uf_garage_square/>
+		<uf_cellar_square>0</uf_cellar_square>
+		<uf_lot_square/>
+		<uf_gas>0</uf_gas>
+		<uf_land_owner_type/>
+		<uf_naruzhn_reklama>Нет</uf_naruzhn_reklama>
+		<uf_house_type/>
+		<uf_entrance>Нет</uf_entrance>
+		<uf_construct_perm>Нет</uf_construct_perm>
+		<uf_owner_rights/>
+		<uf_goal/>
+		<uf_entry/>
+		<uf_electricity/>
+		<uf_distance>0</uf_distance>
+		<uf_latitude>54.675090</uf_latitude>
+		<uf_longitude>20.498020</uf_longitude>
+		<uf_balcony/>
+		<uf_phone/>
+		<uf_internet/>
+		<uf_furniture>Нет</uf_furniture>
+		<uf_refrigerator>нет</uf_refrigerator>
+		<uf_washing_machine/>
+		<uf_parking/>
+		<UF_ROOMS_FROM/>
+		<UF_ROOMS_TO/>
+		<UF_SQUARE_FROM/>
+		<UF_SQUARE_TO/>
+		<UF_PRICE_FROM/>
+		<UF_PRICE_TO/>
+		<UF_MATERIAL/>
+		<UF_PHOTO_PREVIEW>http://portal.invent-realty.ru/upload/pictures/1/111.jpg</UF_PHOTO_PREVIEW>
+		<UF_PHOTOS><item>http://portal.invent-realty.ru/upload/pictures/1/111.jpg</item><item>http://portal.invent-realty.ru/upload/pictures/1/222.jpg</item></UF_PHOTOS>
+		<UF_PLAN_PHOTOS><item>http://portal.invent-realty.ru/upload/pictures/1/333.jpg</item><item>http://portal.invent-realty.ru/upload/pictures/1/444.jpg</item></UF_PLAN_PHOTOS>
+		<UF_DOCS><item>http://portal.invent-realty.ru/upload/pictures/1/benchbook.pdf</item><item>http://portal.invent-realty.ru/upload/pictures/1/benchbook1.pdf</item></UF_DOCS>
+	</item></REQUESTS>

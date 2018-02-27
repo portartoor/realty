@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>144</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Доска объявлений</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Страница <b>Доска объявлений</b> служит для просмотра размещенных на портале объявлений, и создания своих.</p>
+<p><img src="cid:resources/res135/JkjwU.On70m.desk.png" width="327" height="362"></p>
+
+<p><div class=hint><b>Примечание</b>: у вас может быть недостаточно прав для создания объявлений, в таком случае обратитесь к администратору.</div></p>
+
+<p>Разместить объявление можно с помощью ссылки <b>Добавить объявление</b>. По нажатию откроется форма для добавления объявления:</p>
+<p><img src="cid:resources/res135/pHybV.3g4PR.board_new.png",width="431",height="441",alt='Добавление объявления'></p>
+
+<p>Заполните следующие поля:</p>
+<ul>
+<li>укажите <b>Заголовок</b> (обязательное к заполнению поле);</li>
+
+<li>в поле <b>Срок публикации до</b>, нажав на пиктограмму календаря, выберите, до какой даты (и даже времени) ваше объявление будет находиться на <b>Доске объявлений</b>;
+<p><div class="hint"><b>Примечание</b>: подробнее о том, как пользоваться календарем, вы можете прочитать в уроке <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2309#add_clerk">Поиск сотрудника</a>.</div></p>
+</li>
+
+<li>в поле <b>Категория</b>, нажав на пиктограмму со стрелочкой, направленной вниз, выберите категорию, к которой относится ваше объявление (обязательное к заполнению поле):
+<p><img src="cid:resources/res135/f37dk.ROTpP.category.png" width="132" height="264"></p>
+
+<p>Если для вашего объявления не подходит ни одна из имеющихся категорий, для создания новой обратитесь к администратору.</p>
+</li> 
+<li>введите описание в поле <b>Текст объявления</b>;</li>
+<li>укажите контактные данные, заполнив поля: <b>Сайт</b>, <b>Телефон</b> (обязательное к заполнению поле).</li>
+</ul>
+
+<p>Нажмите кнопку <b>Сохранить</b>. Откроется страница со списком размещенных вами объявлений:</p>
+
+<p><img src="cid:resources/res135/s34hd.47k2M.board_my.png" width="393" height="83" border="0"/></p>
+
+<p>Вы можете изменить или удалить объявления с помощью ссылок <b>редактировать</b> и <b>удалить</b> соответственно.</p>
+
+<p>В дальнейшем выполнить переход к этой странице мы можете по ссылке <b>Мои объявления</b>, расположенной на странице <b>Доска объявлений</b>.</p>
+
+
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>144</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>31</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>100</sort>
+<timestamp_x>1422877378</timestamp_x>
+<date_create>1422877378</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Основное</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>На странице <b>Основное</b> отображается служебная и личная информация о пользователе, а специальные секции (гаджеты) 
+позволяют посмотреть:</p>
+<ul>
+ <li>последних добавленных друзей, если включен соответствующий функционал;</li>
+ <li>группы, в которых участвует пользователь;</li>
+ <li>события, занесенные в календарь, и задачи;</li>
+ <li>последние темы на форуме и сообщения в блоге.</li>
+</ul>
+
+<p><div class="hint"><b>Примечание</b>: Информация, отображаемая на странице, определяется настройками функционала социальной сети и личными настройками и приватностью пользователя.</div></p>
+<p>Кроме того, если сотрудник отсутствует или помещен за заслуги на <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2320">доску почета</a>, то это также будет отражено на главной странице личного раздела.</p>
+
+
+<br>
+
+
+<menu id="topictoc">
+  <li><a href="#p_page_settings">Настройки личной страницы</a></li>
+    <menu>
+     <li><a href="#change_personal">Изменение личных данных</a></li>
+     <li><a href="#change_privacy">Настройки приватности</a></li>	 
+    </menu>
+  <li><a href="#a_menu_settings">Настройки пользователя</a></li>
+     <menu>
+     <li><a href="#change_item_name">Изменение названия пункта меню на примере фотогалереи</a></li>
+     <li><a href="#change_func_access">Ограничение доступа к функционалу на примере блога</a></li>	 
+    </menu>
+  <li><a href="#subscribe">Подписка</a></li>	
+  <li><a href="#additional_settings">Дополнительные настройки</a></li>
+</menu>
+
+<br>
+
+
+
+<a name="p_page_settings"></a><h4>Настройки личной страницы</h4>
+
+<a name="change_personal"></a><p><b>Изменение личных данных</b></p>
+<p>Вы можете изменять свои личные и рабочие данные, используя ссылку <b>Изменить профиль</b>:</p>
+ <p><img src="cid:resources/res22/um20J.esWTH.change_profile_link.png" alt="Ссылка &quot;Изменить профиль&quot;" border="0" width="240" height="404" /></p>
+
+<p>После чего откроется форма <b>Изменение профиля пользователя</b>, информация на которой разбита на разделы:</p>
+<ul>
+  <li><b>Личные данные</b> - персональные данные сотрудника: <b>Имя</b>, <b>Фамилия</b> и.т.д. ;</li>
+  <li><b>Контактная информация</b> - контактные данные сотрудника: <b>E-Mail</b>, <b>Телефон</b> и.т.д. ;</li>
+  <li><b>Рабочая информация</b> - рабочие данные сотрудника;</li>
+  <li><b>Параметры авторизации</b> - смена параметров авторизации сотрудника: <b>Логин</b>, <b>Пароль</b>;</li>
+  <li><b>Форум</b> - настройки и данные сотрудника для форума;</li>
+  <li><b>Блог</b> - настройки и данные сотрудника для блога.</li>
+</ul>
+ <p><img src="cid:resources/res22/e8lge.TTcS7.change_profile_settings_1.png" alt="Форма &quot;Изменение профиля пользователя&quot;" border="0" width="694" height="506" /></p>
+
+
+<div class="hint"><b>Примечание:</b> Для форума и блогов возможно указать различные настройки, например <b>Псевдоним</b> или <b>Аватар</b>.
+ <p><img src="cid:resources/res22/tAmxQ.3JUzh.change_profile_settings_3.png" alt="Форма &quot;Изменение профиля пользователя&quot;" border="0" width="694" height="471" /></p>
+
+
+</div>
+
+<br> 
+
+<a name="change_privacy"></a><b>Настройки приватности</b>
+<p>Вы также можете ограничить доступ к просмотру вашей личной страницы, списка друзей и.т.д.</p>
+<p>Для этого:</p>
+<ul>
+  <li>Перейдите к форме <b>Приватность пользователя</b> с помощью ссылки <b>Изменить приватность</b>
+гаджета <b>Управление</b>
+     <p><img src="cid:resources/res22/lSf7M.kALo4.change_privacy_link.png" alt="Ссылка &quot;Изменить приватность&quot;" border="0" width="240" height="404" /></p>
+  </li>
+   <li>Выберите желаемые настройки приватности
+    <p><img src="cid:resources/res22/hG31w.A32sU.privacy_settings.png" alt="Форма &quot;Приватность пользователя&quot;" border="0" width="643" height="351" /></p>
+  </li>
+   <li>Нажмите кнопку <b>Изменить параметры</b></li>
+</ul>
+
+
+
+<div class="hint"><b>Внимание!</b> Администратор портала имеет полный доступ ко всем страницам и разделам портала, независимо от настроек функционала или приватности (профиль, блог и.т.д.). Также он обладает правами на изменение любых данных.</div>
+
+
+
+
+<br>
+
+
+<a name="a_menu_settings"></a><h4>Настройки пользователя</h4>
+
+<p>Вы можете изменять набор пунктов меню, их названия, а также включать/выключать определенный функционал (<b>Форум</b>, <b>Фотогалерея</b> и т.д.), используя ссылку <b>Изменить настройки</b>:</p>
+ <p><img src="cid:resources/res22/sE1Ub.FFz3H.change_settings_link.png" alt="Ссылка &quot;Изменить настройки&quot;" border="0" width="240" height="404" /></p>
+
+<p>После чего откроется форма <b>Настройки пользователя</b></p>
+ <p><img src="cid:resources/res22/Ee8JN.r9bpS.change_menu_settings.png" alt="Форма &quot;Настройки пользователя&quot;" border="0" width="676" height="469" /></p>
+ 
+<p>В форме можно:</p>
+<ul>
+  <li>Отключить или включить функционал с помощью опции  <b>Функционал &lt;название_функционала&gt; включен</b>;</li>
+  <li>Сменить название пункта меню (поле <b>Название</b>);</li>
+  <li>Изменить уровни приватности для каждого функционала.</li>
+</ul>
+<p>Для сохранения внесенных изменений используйте кнопку <b>Изменить параметры</b>.</p>
+
+
+<br>
+
+
+<h4>Примеры действий</h4>
+<br>
+
+<a name="change_item_name"></a><p><b>Изменение названия пункта меню на примере фотогалереи</b></p>
+<p>Изменим название пункта меню с <b>Фото</b> на <b>Мои фотографии</b>.</p>
+<p>Для этого:</p>
+<ul>
+  <li>Перейдите к форме <b>Настройки пользователя</b> с помощью ссылки <b>Изменить настройки</b>
+гаджета <b>Управление</b>
+     <p><img src="cid:resources/res22/Dipv7.js5ZB.change_settings_link.png" alt="Ссылка &quot;Изменить настройки&quot;" border="0" width="240" height="404" /></p>
+  </li>
+  
+  <li>В поле <b>Название</b> соответствующего функционала (<b>Фотогалерея</b>) укажите желаемое название пункта меню (<b>Мои фотографии</b>)
+     <p><img src="cid:resources/res22/x4gNB.aGM2C.change_menu_item_name_1.png" alt="Поле &quot;Название&quot;" border="0" width="674" height="397" /></p>
+  </li>
+  
+  <li>Нажмите кнопку <b>Изменить параметры</b></li>
+</ul>
+
+<p>В результате меню примет следующий вид:</p>
+<p><img src="cid:resources/res22/FKtLR.UZmyo.change_menu_item_name_2.png" alt="Вид меню до и после" border="0" width="815" height="180" /></p>
+<div class="hint"><b>Примечание:</b> Для восстановления исходного названия пункта меню нужно просто стереть весь текст в поле <b>Название</b></div>
+
+<br>
+
+<a name="change_func_access"></a><p><b>Ограничение доступа к функционалу на примере блога</b></p>
+
+<p>Рассмотрим пример ограничения доступа к личному блогу для всех пользователей, кроме самого себя.</p>
+<p>Для этого</p>
+<ul>
+  <li>Перейдите к форме <b>Настройки пользователя</b> с помощью ссылки <b>Изменить настройки</b>
+гаджета <b>Управление</b></li>
+
+  <li>В разделе <b>Функционал 'Блог'</b> выберите из списка опцию <b>Только я</b> для всех видов доступа
+  <p><img src="cid:resources/res22/LAIo5.jgoh2.blog_access.png" alt="Ограничение доступа к личному блогу" border="0" width="688" height="480" /></p></li>
+  
+  <li>Нажмите кнопку <b>Изменить параметры</b></li>  
+</ul>
+
+<p>В результате дополнительное меню для остальных пользователей больше не будет содержать пункт <b>Блог</b>:</p>
+<p><img src="cid:resources/res22/pYbJG.WWVP8.blog_access_2.png" alt="Вид дополнительного меню для всех пользователей после ограничения доступа к блогу" border="0" width="815" height="159" /></p>
+
+
+<br>
+
+
+<a name="subscribe"></a><h4>Подписка</h4>
+<p>Ссылка <b>Подписка</b> служит для отображения подписок, которые Вы можете выбрать на странице группы или сотрудника.</p>
+
+ <p><img src="cid:resources/res22/iYIUO.0mNHx.subscribe_link.png" alt="Ссылка &quot;Подписка&quot;" border="0" width="240" height="404" /></p>
+
+<p><div class="hint"><b>Примечание:</b> Подробнее про подписку смотрите в уроке <a href="/learning/course/index.php?bitrix_include_areas=Y&COURSE_ID=45&LESSON_ID=2328&clear_cache=Y#subscribe">Подписка</a>.</div></p>
+
+
+<br>
+
+
+<a name="additional_settings"></a><h4>Дополнительные настройки</h4>
+
+<p>Также внешний вид своей страницы можно настроить, изменив расположение гаджетов и их настройки:</p>
+<p><a href="javascript:ShowImg('/images/portal_user/personal_page/gadget_settings.png',922,524,'Настройка внешнего вида личной страницы')">
+<img src="cid:resources/res22/lkHJH.0JRSC.gadget_settings_sm.png" alt="Нажмите на рисунок, чтобы увеличить" width="600" height="341" border="0" /></a></p>
+
+<p><div class="hint"><b>Примечание:</b> Для изменения расположения или настройки гаджетов необходим соответствующий уровень прав.</div></p>
+<p><div class="hint"><b>Примечание:</b> Работа с гаджетами подробно рассмотрена в уроке <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2190">Страница &quot;Мой портал&quot;</a>.</div></p>
+
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>100</edge_sort>
+<id>31</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

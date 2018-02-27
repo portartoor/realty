@@ -1,0 +1,1 @@
+<?require($_SERVER["DOCUMENT_ROOT"]."/realty/new/instructions_foto_object.php");?>

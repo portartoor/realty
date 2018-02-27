@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>147</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>200</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Рабочий стол CRM</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Чтобы попасть на страницу рабочего стола CRM кликните левой кнопкой мыши по пункту главного меню <b>CRM</b>:</p>
+<p><img src="cid:resources/res144/oRYXr.kcYsh.CRM_desktop.png" width="162" height="282"></p>
+
+<p>Страница <b>Рабочий стол CRM</b> состоит из нескольких блоков, так называемых <b>гаджетов</b>:</p>
+
+<p><a href="javascript:ShowImg('/images/portal_user/crm/desktop.png',959,308,'Рабочий стол CRM')">
+<img height="192" border="0" width="600" src="cid:resources/res144/6HvHr.jGEH0.desktop_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a>
+</p>
+
+<p>Подробнее об использовании гаджетов смотрите в уроке <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2190">Страница мой портал</a>.</p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>200</edge_sort>
+<id>147</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

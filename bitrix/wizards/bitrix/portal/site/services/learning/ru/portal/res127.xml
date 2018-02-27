@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>136</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Функционал группы</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>После того, как вы зашли в профиль группы, можно увидеть меню группы:</p>
+
+<p><a href="javascript:ShowImg('/images/portal_user/group/main_group_panel.png',885,55,'Меню группы')">
+<img height="44" border="0" width="700" src="cid:resources/res127/sMFOP.swFna.main_group_panel_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a>
+</p>
+
+<p>В нем представлены следующие вкладки:</p>
+
+<ul>
+  <li><b>Основное</b> - Это главная вкладка профиля группы, на ней размещена основная информация и меню управлениявзаимодействия с группой.</li>
+
+  <li><b>Задачи</b> - Здесь вы можете узнавать о поставленных задачах и менять их статус.</li>
+
+  <li><b>Файлы</b> - В данном разделе вы можете просматривать, хранить и создавать файлы. Подробнее смотрите на странице <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2322">Файлы</a> <b>Личного раздела</b>.</li>
+
+  <li><b>Календарь</b> - На вкладке <b>Календарь</b> можно узнавать о грядущих и прошедших событиях в группе. Работа с календарем описана в разделе <a href="/learning/course/index.php?COURSE_ID=45&CHAPTER_ID=831">Личная страница</a>.</li>
+
+  <li><b>Обсуждения</b> - Здесь видны темы форума группы. Если у вас достаточно прав, можно создавать свои темы.
+<p><div class="hint"><b>Примечание</b>: в настройках группы, <b>Обсуждения</b> именуются как <b>Форум</b>.</div></p></li>
+
+  <li><b>Микроблог</b> - Микроблог группы дает возможность обмениваться сообщениями с другими участниками группы. Подробнее об использовании микроблога смотрите в разделе <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2399">Личная страница</a>.</li>
+
+  <li><b>Отчеты</b> - Функционал идентичен <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2252">блогу</a> личной страницы;
+<p><div class="hint"><b>Примечание</b>: в настройках группы, <b>Отчеты</b> именуются как <b>Блог</b>.</div></p></li>
+
+  <li><b>Фото</b> - Здесь расположены альбомы группы. Подробнее об использовании фотогалереи смотрите в подразделе <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&CHAPTER_ID=823">Фото</a> раздела <b>Личная страница</b>.</li>
+
+
+  <li><b>Поиск</b> - На данной вкладке можно выполнить поиск несколькими способами.
+    <p>Можно выполнить поиск, щелкая по ключевым словам в облаке тегов, построенным на основе тегов группы:</p>
+    <p><img src="cid:resources/res127/sc6nU.X7zjM.tags.png" width="322" height="36"></p>
+
+    <p>Если нужных вам слов для поиска нет в облаке тегов, введите их в поле для поиска и нажмите <b>Искать</b>.</p>
+
+    <p>Можно ограничить поиск каким-либо одним функционалом, либо определенной датой изменения. Для этого нажмите ссылку <b>Расширенный поиск</b>, после чего появятся дополнительные настройки поиска:</p>
+      <p><img src="cid:resources/res127/UKOAg.Iux4a.search_in_group.png" width="481" height="303"></p>
+
+    <p>В поле <b>По функционалу</b> нажмите на пиктограмму стрелочки и в открывающемся списке выберите, в каком функционале следует производить поиск:</p>
+      <p><img src="cid:resources/res127/jlX2p.flU0t.anywhere.png" width="99" height="117"></p>
+
+    <p>В поле <b>По дате изменения</b> для выставления даты используйте кнопку <img src="cid:resources/res127/ouN2D.yW6oA.date.png" width="23" height="23">. О том, как пользоваться календарем, можно прочесть на странице <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2447">Добавление сотрудника</a>.</p> 
+
+    <p>Поставьте дату только в первое текстовое поле, чтобы поиск осуществлялся в период с нее по текущее число. Поставьте дату только во второе текстовое поле, если хотите чтобы в результатах поиска были все измененные до этого числа записи. Поставьте даты в оба текстовых поля, если хотите осуществить поиск за конкретно определенный период.</p></li>
+
+
+  <li><b>Списки</b> - Здесь вы можете просматривать, и при наличии достаточных прав, создавать списки каких-либо элементов. Подробнее о работе со списками смотрите в разделе <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2272">Сервисы</a>.</li>
+
+  <li><b>Wiki</b> - База знаний, сборник статей, создаваемых для обобщения и накопления знаний.
+    <p>Подробнее о работе с функционалом <b>Wiki</b> вы можете прочитать в разделе <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2379">Сервисы</a>.</p>  </li>
+
+  <li><b>Участники</b> - Здесь вы можете просмотреть полный список участников группы:</p>
+<p><a href="javascript:ShowImg('/images/portal_user/group/members.png',902,232,'Участники группы')">
+<img height="154" border="0" width="600" src="cid:resources/res127/mWYq8.as6ug.members_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a></p>
+
+  <p>Перейти на эту же страницу, либо на страницу со списком модераторов, можно, нажав на название группы, расположенное сразу над вкладками и в появившемся меню выбрать <b>Участники</b> или <b>Модераторы</b> соответственно:</p>
+<p><img src="cid:resources/res127/l6izJ.r6UMx.new_year_menu.png" width="254" height="223"></p></li>
+</ul>
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>136</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

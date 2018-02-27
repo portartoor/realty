@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>123</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>800</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Опросы</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Страница <b>Опросы</b> позволяет организовать различные голосования, опросы и публиковать их результаты на портале.</p>
+
+<p>Использование механизма разграничения прав доступа дает возможность управлять доступом сотрудников к участию в тех или иных опросах и голосованиях, а также к просмотру данных о ходе голосований и их результатов.</p>
+
+<p>Текущий активный опрос отображается на главной странице портала:</p>
+
+<p><img src="cid:resources/res119/um5xA.pcq1S.voting_main.png" width="219" height="256" border="0"/></p>
+
+<p>Вы можете принять участие в опросе, находясь на главной странице, или по ссылке <b>опросы</b> перейти на страницу <b>Опросы</b>, на которой представлены все активные опросы:</p>
+
+<p><img height="150" border="0" width="597" src="cid:resources/res119/0rY5L.k34Nv.voiting_page.png" /></p>
+
+<p>Чтобы принять участие в опросе используйте ссылку <b>Голосовать</b>. В открывшейся форме голосования установите флаг в поле с нужным ответом и нажмите кнопку <b>Голосовать</b>:</p> 
+
+<p><img height="167" border="0" width="492" src="cid:resources/res119/WhfEZ.1IcSZ.voiting.png" /></p>
+
+<p>Кнопка <b>Сбросить</b> предназначена для очистки формы голосования.</p>
+
+<p>Для просмотра результатов всех голосований сотрудников служит ссылка <b>Результаты</b>. По ее нажатии открывается форма следующего вида:</p>
+
+<p><img height="111" border="0" width="552" src="cid:resources/res119/J0kcD.mvF12.voiting_results.png" /></p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>800</edge_sort>
+<id>123</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

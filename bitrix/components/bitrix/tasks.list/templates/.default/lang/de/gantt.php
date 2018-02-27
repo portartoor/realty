@@ -1,0 +1,15 @@
+<?
+$MESS["TASKS_GANTT_MONTH_JAN"] = "Januar";
+$MESS["TASKS_GANTT_MONTH_FEB"] = "Februar";
+$MESS["TASKS_GANTT_MONTH_MAR"] = "März";
+$MESS["TASKS_GANTT_MONTH_APR"] = "April";
+$MESS["TASKS_GANTT_MONTH_MAY"] = "Mai";
+$MESS["TASKS_GANTT_MONTH_JUN"] = "Juni";
+$MESS["TASKS_GANTT_MONTH_JUL"] = "Juli";
+$MESS["TASKS_GANTT_MONTH_AUG"] = "August";
+$MESS["TASKS_GANTT_MONTH_SEP"] = "September";
+$MESS["TASKS_GANTT_MONTH_OCT"] = "Oktober";
+$MESS["TASKS_GANTT_MONTH_NOV"] = "November";
+$MESS["TASKS_GANTT_MONTH_DEC"] = "Dezember";
+$MESS["TASKS_CANNOT_ADD_DEPENDENCY"] = "Diese Aufgaben können nicht verknüpft werden";
+?>

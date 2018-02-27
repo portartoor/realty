@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>174</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>50</sort>
+<timestamp_x>1422877380</timestamp_x>
+<date_create>1422877380</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Функционал раздела</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Сотрудникам с разными правами доступа доступен различный функционал раздела. Ниже в таблице приведены возможности (<b>Функционал</b>), соответствующие различным группам сотрудников (<b>Права доступа</b>), и указано, на какой странице раздела портала можно этим функционалом воспользоваться (<b>Страница</b>). </p>
+
+<table cellspacing=0 cellpadding=0>       
+  <tbody>
+    <tr bgcolor="white">
+    <td bgcolor="#8C8C8C">       
+    <table cellspacing="1" cellpadding="5">          
+          <tbody>
+            <tr bgcolor="silver"><td><b>Функционал</b></td><td><b>Страница</b></td><td><b>Права доступа</b></td></tr>
+           <tr bgcolor="white"> <td>Учет рабочего времени и выполненных задач</td> <td>Любая страница портала, на панели Статусов, инструмент <b>Рабочий день</b></td> <td>Сотрудник</td> </tr>
+          
+            <tr bgcolor="#EEEEEE"> <td>Просмотр личных данных учета</td> <td><i>Сотрудники > Рабочее время</i></td> <td>Сотрудник</td> </tr>
+
+           <tr bgcolor="white"> <td>Просмотр личных данных учета и данных подразделения</td> <td><i>Сотрудники > Рабочее время</i></td> <td>Руководитель подразделения</td> </tr>
+          
+            <tr bgcolor="#EEEEEE"> <td>Изменение данных и подтверждение нарушений</td> <td><i>Сотрудники > Рабочее время</i></td> <td>Руководитель подразделения</td> </tr>
+
+           <tr bgcolor="white"> <td>Настройка параметров учета для всей организации</td> <td><i>Настройки > Настройки продукта > Настройки модулей > Учет рабочего времени</i> в Административном разделе</td> <td>Администратор системы</td> </tr>
+          
+            <tr bgcolor="#EEEEEE"> <td>Настройка параметров учета для конкретного подразделения</td> <td><i>Сотрудники > Структура компании > конкретное подразделение</i></td> <td>Руководитель подразделения</td></tr>
+
+           <tr bgcolor="white"> <td>Настройка параметров учета для отдельного сотрудника</td> <td><i>Настройки > Пользователи > Список пользователей</i> в Административном разделе</td> <td>Отдел кадров</td> </tr>
+           </tbody>
+         </table>
+             </td></tr>
+   </tbody>
+</table>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>50</edge_sort>
+<id>174</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

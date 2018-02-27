@@ -1,0 +1,12 @@
+<?
+$MESS["TASKS_TTDP_TEMPLATE_USER_VIEW_RESPONSIBLE"] = "Verantwortlich";
+$MESS["TASKS_TTDP_TEMPLATE_USER_VIEW_ORIGINATOR"] = "Erstellt von";
+$MESS["TASKS_TTDP_TEMPLATE_USER_VIEW_AUDITORS"] = "Beobachter";
+$MESS["TASKS_TTDP_TEMPLATE_USER_VIEW_ACCOMPLICES"] = "Mitwirkende";
+$MESS["TASKS_TTDP_TEMPLATE_USER_VIEW_ADD"] = "hinzufügen";
+$MESS["TASKS_TTDP_TEMPLATE_USER_VIEW_CHANGE"] = "ändern";
+$MESS["TASKS_TTDP_TEMPLATE_USER_VIEW_DELETE"] = "löschen";
+$MESS["TASKS_TTDP_TEMPLATE_USER_VIEW_ENTER_AUDITOR"] = "beobachten";
+$MESS["TASKS_TTDP_TEMPLATE_USER_VIEW_LEAVE_AUDITOR"] = "nicht beobachten";
+$MESS["TASKS_TTDP_TEMPLATE_USER_VIEW_LEAVE_AUDITOR_CONFIRM"] = "Sie werden die Aufgabe nicht mehr anzeigen können, wenn Sie kein Beobachter mehr sind. Möchten Sie Ihre Beobachter-Rolle löschen?";
+?>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content type="LES"><lesson_id>128</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>100</sort>
+<timestamp_x>1422877379</timestamp_x>
+<date_create>1422877379</date_create>
+<created_user_name>(admin) Иван Иванов</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Подключение веб-камеры</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<img height="99" align="right" width="150" src="cid:resources/res112/wHel7.myBc8.camera.gif" />
+<p>Чтобы сотрудник мог принять участие в видеоконференции в полном объеме, к его компьютеру должна быть подключена веб-камера. Если камера не подключена, то участие в конференции возможно только в режиме речи или (если не подключен и микрофон) в режиме чата.</p>
+<p>Тип камеры (встроенная или внешняя) значения не имеет, не имеет значения и конкретная модель. Главное, чтобы веб-камера была подключена и нормально функционировала.</p>
+<p>Описание установки камеры и программного обеспечения для нее на ваш компьютер идут в инструкции производителя веб-камеры.</p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>100</edge_sort>
+<id>128</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>
