@@ -1,7 +1,7 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001519733261';
-$dateexpire = '001519733861';
+$datecreate = '001519831416';
+$dateexpire = '001519832016';
 $ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{s:8:"arResult";a:1:{s:11:"STATUS_INFO";a:2:{s:8:"ACTIVITY";i:0;s:11:"INVOLVEMENT";i:0;}}s:18:"templateCachedData";a:3:{s:6:"frames";a:2:{i:0;a:6:{s:2:"id";s:10:"pulse-rate";s:11:"containerId";s:10:"pulse-rate";s:10:"staticPart";s:0:"";s:17:"useBrowserStorage";b:0;s:10:"autoUpdate";b:1;s:12:"useAnimation";b:0;}i:1;a:6:{s:2:"id";s:9:"pulse-cnt";s:11:"containerId";s:9:"pulse-cnt";s:10:"staticPart";s:0:"";s:17:"useBrowserStorage";b:0;s:10:"autoUpdate";b:1;s:12:"useAnimation";b:0;}}s:9:"frameMode";b:1;s:6:"__view";a:1:{s:7:"sidebar";a:1:{i:0;a:2:{i:0;s:17055:"
 <script type="text/javascript">
 
