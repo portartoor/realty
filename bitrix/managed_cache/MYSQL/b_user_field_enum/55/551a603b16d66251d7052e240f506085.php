@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001519892509';
+$dateexpire = '001519896109';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:7:{i:0;a:6:{s:2:"ID";s:2:"56";s:13:"USER_FIELD_ID";s:2:"95";s:5:"VALUE";s:58:"Продажа вторичной недвижимости";s:3:"DEF";s:1:"N";s:4:"SORT";s:3:"500";s:6:"XML_ID";s:18:"OPERATION_TYPE_000";}i:1;a:6:{s:2:"ID";s:2:"57";s:13:"USER_FIELD_ID";s:2:"95";s:5:"VALUE";s:49:"Аренда недвижимости: сдача";s:3:"DEF";s:1:"N";s:4:"SORT";s:3:"500";s:6:"XML_ID";s:18:"OPERATION_TYPE_001";}i:2;a:6:{s:2:"ID";s:3:"143";s:13:"USER_FIELD_ID";s:2:"95";s:5:"VALUE";s:58:"Покупка вторичной недвижимости";s:3:"DEF";s:1:"N";s:4:"SORT";s:3:"500";s:6:"XML_ID";s:18:"OPERATION_TYPE_002";}i:3;a:6:{s:2:"ID";s:3:"144";s:13:"USER_FIELD_ID";s:2:"95";s:5:"VALUE";s:51:"Аренда недвижимости: снятие";s:3:"DEF";s:1:"N";s:4:"SORT";s:3:"500";s:6:"XML_ID";s:18:"OPERATION_TYPE_003";}i:4;a:6:{s:2:"ID";s:3:"291";s:13:"USER_FIELD_ID";s:2:"95";s:5:"VALUE";s:58:"Продажа первичной недвижимости";s:3:"DEF";s:1:"N";s:4:"SORT";s:3:"500";s:6:"XML_ID";s:18:"OPERATION_TYPE_004";}i:5;a:6:{s:2:"ID";s:3:"292";s:13:"USER_FIELD_ID";s:2:"95";s:5:"VALUE";s:58:"Покупка первичной недвижимости";s:3:"DEF";s:1:"N";s:4:"SORT";s:3:"500";s:6:"XML_ID";s:18:"OPERATION_TYPE_005";}i:6;a:6:{s:2:"ID";s:3:"343";s:13:"USER_FIELD_ID";s:2:"95";s:5:"VALUE";s:27:"Оказание услуг";s:3:"DEF";s:1:"N";s:4:"SORT";s:3:"500";s:6:"XML_ID";s:18:"OPERATION_TYPE_006";}}}';
+return true;
+?>

@@ -1,13 +1,12 @@
 <?
 class Draw {
-	public $page;
-	
 	function head() {
 		 
     }
 	
 	function content() {
-		 $this->page;
+		$routes = explode('/', $_SERVER['REQUEST_URI']);
+		
     }
 	
 	function foot() {
